@@ -314,16 +314,16 @@ kategorie,betrag_chf,periode,altersgruppe,datentyp
 632: Apparate und Dienstleistungen für Telekommunikation,168.100152591821,2020-2021,Total,Altersklasse
 6321: Kauf und Miete von Telefonapparaten und Faxgeräten,14.0053277425081,2020-2021,Total,Altersklasse
 6321.00: Kauf und Miete von Telefonapparaten und Faxgeräten,14.0053277425081,2020-2021,Total,Altersklasse
-6322: Festnetztelefonie ,79.801678212608,2020-2021,Total,Altersklasse
-6322.01: Festnetz: Abonnementsgebüren oder Pauschalgebühren ,76.2747946461038,2020-2021,Total,Altersklasse
+6322: Festnetztelefonie,79.801678212608,2020-2021,Total,Altersklasse
+6322.01: Festnetz: Abonnementsgebüren oder Pauschalgebühren,76.2747946461038,2020-2021,Total,Altersklasse
 6322.02: Festnetz: Gesprächsgebühren,1.43099424988475,2020-2021,Total,Altersklasse
-6322.03: Festnetz: Gebühren fürs Internet ,2.0958893166194,2020-2021,Total,Altersklasse
+6322.03: Festnetz: Gebühren fürs Internet,2.0958893166194,2020-2021,Total,Altersklasse
 6323: Mobiltelefonie,68.5221370327274,2020-2021,Total,Altersklasse
-6323.01: Mobiltelefonie: Abonnementsgebüren oder Pauschalgebühren ,63.4936704888029,2020-2021,Total,Altersklasse
+6323.01: Mobiltelefonie: Abonnementsgebüren oder Pauschalgebühren,63.4936704888029,2020-2021,Total,Altersklasse
 6323.02: Mobiltelefonie: Gesprächs- und Internetgebühren,5.02846654392449,2020-2021,Total,Altersklasse
-6324: Dienstleistungen von Internetprovidern ohne Telefonabonnement ,5.77100960397745,2020-2021,Total,Altersklasse
-6324.01: Internetprovider ohne Telefonabonnement: Dienstleistungen durch TV-Kabelnetz ,3.63730490053433,2020-2021,Total,Altersklasse
-6324.02: Internetprovider ohne Telefonabonnement: Andere Dienstleistungen ,2.13370470344312,2020-2021,Total,Altersklasse
+6324: Dienstleistungen von Internetprovidern ohne Telefonabonnement,5.77100960397745,2020-2021,Total,Altersklasse
+6324.01: Internetprovider ohne Telefonabonnement: Dienstleistungen durch TV-Kabelnetz,3.63730490053433,2020-2021,Total,Altersklasse
+6324.02: Internetprovider ohne Telefonabonnement: Andere Dienstleistungen,2.13370470344312,2020-2021,Total,Altersklasse
 "66: Unterhaltung, Erholung und Kultur",408.11541964804,2020-2021,Total,Altersklasse
 "661: Audiovisuelle-, Foto- und EDV-Ausrüstung und Zubehör",51.9284557975354,2020-2021,Total,Altersklasse
 "6611: Radios, Audio-, Fernseh- und Videogeräte",14.7500805934969,2020-2021,Total,Altersklasse
@@ -371,7 +371,7 @@ kategorie,betrag_chf,periode,altersgruppe,datentyp
 "6632.03: Museen, Ausstellungen, Bibliotheken, zoologische Gärten u.ä.",3.43921210087953,2020-2021,Total,Altersklasse
 6632.04: Radio- und Fernsehkonzession,27.9328437805833,2020-2021,Total,Altersklasse
 6632.05: Abonnemente für Privatfernsehen,1.97541320832295,2020-2021,Total,Altersklasse
-6632.06: Abonnemente für Kabelfernsehen ,0.937388106220388,2020-2021,Total,Altersklasse
+6632.06: Abonnemente für Kabelfernsehen,0.937388106220388,2020-2021,Total,Altersklasse
 6632.07: Miete von Geräten und von DVDs und CDs,3.1590358867167,2020-2021,Total,Altersklasse
 6632.08: Beiträge an kulturelle Vereinigungen,1.73900703391214,2020-2021,Total,Altersklasse
 6632.09: Sonstige Dienstleistungen im Unterhaltungs- und Kulturbereich,2.38330601912597,2020-2021,Total,Altersklasse
@@ -442,7 +442,7 @@ kategorie,betrag_chf,periode,altersgruppe,datentyp
 3200.02: Direkte Bundessteuer,177.654583946473,2020-2021,Total,Altersklasse
 3200.03: Kantonale Einkommens- und Vermögenssteuern,423.933738970445,2020-2021,Total,Altersklasse
 "3200.04: Kommunale, Kirchen- und andere Einkommens- und Vermögenssteuern",342.270561096062,2020-2021,Total,Altersklasse
-3200.05: Nicht aufteilbare Einkommens- und Vermögenssteuern (Kanton und Gemeinde) ,196.116208106171,2020-2021,Total,Altersklasse
+3200.05: Nicht aufteilbare Einkommens- und Vermögenssteuern (Kanton und Gemeinde),196.116208106171,2020-2021,Total,Altersklasse
 33: Krankenkassen: Prämien für die Grundversicherung,669.67420240077,2020-2021,Total,Altersklasse
 330: Krankenkassen: Prämien für die Grundversicherung,669.67420240077,2020-2021,Total,Altersklasse
 3300: Krankenkassen: Prämien für die Grundversicherung,669.67420240077,2020-2021,Total,Altersklasse
@@ -3427,14 +3427,14 @@ kategorie,betrag_chf,periode,altersgruppe,datentyp
 632: Apparate und Dienstleistungen für Telekommunikation,152.64959395869,2020-2021,unter 30 Jahre,Altersklasse
 6321: Kauf und Miete von Telefonapparaten und Faxgeräten,17.8844907617574,2020-2021,unter 30 Jahre,Altersklasse
 6321.00: Kauf und Miete von Telefonapparaten und Faxgeräten,17.8844907617574,2020-2021,unter 30 Jahre,Altersklasse
-6322: Festnetztelefonie ,47.98173675198,2020-2021,unter 30 Jahre,Altersklasse
-6322.01: Festnetz: Abonnementsgebüren oder Pauschalgebühren ,44.9393992399717,2020-2021,unter 30 Jahre,Altersklasse
+6322: Festnetztelefonie,47.98173675198,2020-2021,unter 30 Jahre,Altersklasse
+6322.01: Festnetz: Abonnementsgebüren oder Pauschalgebühren,44.9393992399717,2020-2021,unter 30 Jahre,Altersklasse
 6323: Mobiltelefonie,76.3343283589536,2020-2021,unter 30 Jahre,Altersklasse
-6323.01: Mobiltelefonie: Abonnementsgebüren oder Pauschalgebühren ,71.9798047738685,2020-2021,unter 30 Jahre,Altersklasse
+6323.01: Mobiltelefonie: Abonnementsgebüren oder Pauschalgebühren,71.9798047738685,2020-2021,unter 30 Jahre,Altersklasse
 6323.02: Mobiltelefonie: Gesprächs- und Internetgebühren,4.3545235850851,2020-2021,unter 30 Jahre,Altersklasse
-6324: Dienstleistungen von Internetprovidern ohne Telefonabonnement ,10.4490380859986,2020-2021,unter 30 Jahre,Altersklasse
-6324.01: Internetprovider ohne Telefonabonnement: Dienstleistungen durch TV-Kabelnetz ,5.69611204650861,2020-2021,unter 30 Jahre,Altersklasse
-6324.02: Internetprovider ohne Telefonabonnement: Andere Dienstleistungen ,4.75292603949,2020-2021,unter 30 Jahre,Altersklasse
+6324: Dienstleistungen von Internetprovidern ohne Telefonabonnement,10.4490380859986,2020-2021,unter 30 Jahre,Altersklasse
+6324.01: Internetprovider ohne Telefonabonnement: Dienstleistungen durch TV-Kabelnetz,5.69611204650861,2020-2021,unter 30 Jahre,Altersklasse
+6324.02: Internetprovider ohne Telefonabonnement: Andere Dienstleistungen,4.75292603949,2020-2021,unter 30 Jahre,Altersklasse
 "66: Unterhaltung, Erholung und Kultur",337.164452332081,2020-2021,unter 30 Jahre,Altersklasse
 "661: Audiovisuelle-, Foto- und EDV-Ausrüstung und Zubehör",45.4362527041394,2020-2021,unter 30 Jahre,Altersklasse
 "6611: Radios, Audio-, Fernseh- und Videogeräte",14.7596137820746,2020-2021,unter 30 Jahre,Altersklasse
@@ -3529,7 +3529,7 @@ kategorie,betrag_chf,periode,altersgruppe,datentyp
 3200.02: Direkte Bundessteuer,86.1188936043201,2020-2021,unter 30 Jahre,Altersklasse
 3200.03: Kantonale Einkommens- und Vermögenssteuern,268.171973997919,2020-2021,unter 30 Jahre,Altersklasse
 "3200.04: Kommunale, Kirchen- und andere Einkommens- und Vermögenssteuern",210.734345577318,2020-2021,unter 30 Jahre,Altersklasse
-3200.05: Nicht aufteilbare Einkommens- und Vermögenssteuern (Kanton und Gemeinde) ,117.842236117767,2020-2021,unter 30 Jahre,Altersklasse
+3200.05: Nicht aufteilbare Einkommens- und Vermögenssteuern (Kanton und Gemeinde),117.842236117767,2020-2021,unter 30 Jahre,Altersklasse
 33: Krankenkassen: Prämien für die Grundversicherung,542.037133245839,2020-2021,unter 30 Jahre,Altersklasse
 330: Krankenkassen: Prämien für die Grundversicherung,542.037133245839,2020-2021,unter 30 Jahre,Altersklasse
 3300: Krankenkassen: Prämien für die Grundversicherung,542.037133245839,2020-2021,unter 30 Jahre,Altersklasse
@@ -6252,16 +6252,16 @@ kategorie,betrag_chf,periode,altersgruppe,datentyp
 632: Apparate und Dienstleistungen für Telekommunikation,175.706502777553,2020-2021,30-49 Jahre,Altersklasse
 6321: Kauf und Miete von Telefonapparaten und Faxgeräten,17.4523822348492,2020-2021,30-49 Jahre,Altersklasse
 6321.00: Kauf und Miete von Telefonapparaten und Faxgeräten,17.4523822348492,2020-2021,30-49 Jahre,Altersklasse
-6322: Festnetztelefonie ,69.7229357537589,2020-2021,30-49 Jahre,Altersklasse
-6322.01: Festnetz: Abonnementsgebüren oder Pauschalgebühren ,66.6593163354547,2020-2021,30-49 Jahre,Altersklasse
+6322: Festnetztelefonie,69.7229357537589,2020-2021,30-49 Jahre,Altersklasse
+6322.01: Festnetz: Abonnementsgebüren oder Pauschalgebühren,66.6593163354547,2020-2021,30-49 Jahre,Altersklasse
 6322.02: Festnetz: Gesprächsgebühren,0.689826592089176,2020-2021,30-49 Jahre,Altersklasse
-6322.03: Festnetz: Gebühren fürs Internet ,2.37379282621496,2020-2021,30-49 Jahre,Altersklasse
+6322.03: Festnetz: Gebühren fürs Internet,2.37379282621496,2020-2021,30-49 Jahre,Altersklasse
 6323: Mobiltelefonie,81.3137976563069,2020-2021,30-49 Jahre,Altersklasse
-6323.01: Mobiltelefonie: Abonnementsgebüren oder Pauschalgebühren ,75.8617440133108,2020-2021,30-49 Jahre,Altersklasse
+6323.01: Mobiltelefonie: Abonnementsgebüren oder Pauschalgebühren,75.8617440133108,2020-2021,30-49 Jahre,Altersklasse
 6323.02: Mobiltelefonie: Gesprächs- und Internetgebühren,5.45205364299614,2020-2021,30-49 Jahre,Altersklasse
-6324: Dienstleistungen von Internetprovidern ohne Telefonabonnement ,7.21738713263841,2020-2021,30-49 Jahre,Altersklasse
-6324.01: Internetprovider ohne Telefonabonnement: Dienstleistungen durch TV-Kabelnetz ,4.54896968284748,2020-2021,30-49 Jahre,Altersklasse
-6324.02: Internetprovider ohne Telefonabonnement: Andere Dienstleistungen ,2.66841744979093,2020-2021,30-49 Jahre,Altersklasse
+6324: Dienstleistungen von Internetprovidern ohne Telefonabonnement,7.21738713263841,2020-2021,30-49 Jahre,Altersklasse
+6324.01: Internetprovider ohne Telefonabonnement: Dienstleistungen durch TV-Kabelnetz,4.54896968284748,2020-2021,30-49 Jahre,Altersklasse
+6324.02: Internetprovider ohne Telefonabonnement: Andere Dienstleistungen,2.66841744979093,2020-2021,30-49 Jahre,Altersklasse
 "66: Unterhaltung, Erholung und Kultur",475.170627432243,2020-2021,30-49 Jahre,Altersklasse
 "661: Audiovisuelle-, Foto- und EDV-Ausrüstung und Zubehör",55.7326326073731,2020-2021,30-49 Jahre,Altersklasse
 "6611: Radios, Audio-, Fernseh- und Videogeräte",16.0701545555177,2020-2021,30-49 Jahre,Altersklasse
@@ -6303,7 +6303,7 @@ kategorie,betrag_chf,periode,altersgruppe,datentyp
 "6632.03: Museen, Ausstellungen, Bibliotheken, zoologische Gärten u.ä.",5.24945586701025,2020-2021,30-49 Jahre,Altersklasse
 6632.04: Radio- und Fernsehkonzession,29.0054166891461,2020-2021,30-49 Jahre,Altersklasse
 6632.05: Abonnemente für Privatfernsehen,2.59491899687666,2020-2021,30-49 Jahre,Altersklasse
-6632.06: Abonnemente für Kabelfernsehen ,1.24896198490542,2020-2021,30-49 Jahre,Altersklasse
+6632.06: Abonnemente für Kabelfernsehen,1.24896198490542,2020-2021,30-49 Jahre,Altersklasse
 6632.07: Miete von Geräten und von DVDs und CDs,5.44445603920036,2020-2021,30-49 Jahre,Altersklasse
 6632.08: Beiträge an kulturelle Vereinigungen,0.85967916129538,2020-2021,30-49 Jahre,Altersklasse
 6632.09: Sonstige Dienstleistungen im Unterhaltungs- und Kulturbereich,3.77595237320736,2020-2021,30-49 Jahre,Altersklasse
@@ -6371,7 +6371,7 @@ kategorie,betrag_chf,periode,altersgruppe,datentyp
 3200.02: Direkte Bundessteuer,163.331402939652,2020-2021,30-49 Jahre,Altersklasse
 3200.03: Kantonale Einkommens- und Vermögenssteuern,395.21006375911,2020-2021,30-49 Jahre,Altersklasse
 "3200.04: Kommunale, Kirchen- und andere Einkommens- und Vermögenssteuern",313.556860755085,2020-2021,30-49 Jahre,Altersklasse
-3200.05: Nicht aufteilbare Einkommens- und Vermögenssteuern (Kanton und Gemeinde) ,159.447997434264,2020-2021,30-49 Jahre,Altersklasse
+3200.05: Nicht aufteilbare Einkommens- und Vermögenssteuern (Kanton und Gemeinde),159.447997434264,2020-2021,30-49 Jahre,Altersklasse
 33: Krankenkassen: Prämien für die Grundversicherung,666.571247614879,2020-2021,30-49 Jahre,Altersklasse
 330: Krankenkassen: Prämien für die Grundversicherung,666.571247614879,2020-2021,30-49 Jahre,Altersklasse
 3300: Krankenkassen: Prämien für die Grundversicherung,666.571247614879,2020-2021,30-49 Jahre,Altersklasse
@@ -9322,16 +9322,16 @@ kategorie,betrag_chf,periode,altersgruppe,datentyp
 632: Apparate und Dienstleistungen für Telekommunikation,201.838229908307,2020-2021,50-64 Jahre,Altersklasse
 6321: Kauf und Miete von Telefonapparaten und Faxgeräten,18.9957701312443,2020-2021,50-64 Jahre,Altersklasse
 6321.00: Kauf und Miete von Telefonapparaten und Faxgeräten,18.9957701312443,2020-2021,50-64 Jahre,Altersklasse
-6322: Festnetztelefonie ,86.1808360634888,2020-2021,50-64 Jahre,Altersklasse
-6322.01: Festnetz: Abonnementsgebüren oder Pauschalgebühren ,83.0824047661593,2020-2021,50-64 Jahre,Altersklasse
+6322: Festnetztelefonie,86.1808360634888,2020-2021,50-64 Jahre,Altersklasse
+6322.01: Festnetz: Abonnementsgebüren oder Pauschalgebühren,83.0824047661593,2020-2021,50-64 Jahre,Altersklasse
 6322.02: Festnetz: Gesprächsgebühren,1.08284468947795,2020-2021,50-64 Jahre,Altersklasse
-6322.03: Festnetz: Gebühren fürs Internet ,2.01558660785164,2020-2021,50-64 Jahre,Altersklasse
+6322.03: Festnetz: Gebühren fürs Internet,2.01558660785164,2020-2021,50-64 Jahre,Altersklasse
 6323: Mobiltelefonie,90.3210202338447,2020-2021,50-64 Jahre,Altersklasse
-6323.01: Mobiltelefonie: Abonnementsgebüren oder Pauschalgebühren ,84.8013853631259,2020-2021,50-64 Jahre,Altersklasse
+6323.01: Mobiltelefonie: Abonnementsgebüren oder Pauschalgebühren,84.8013853631259,2020-2021,50-64 Jahre,Altersklasse
 6323.02: Mobiltelefonie: Gesprächs- und Internetgebühren,5.51963487071875,2020-2021,50-64 Jahre,Altersklasse
-6324: Dienstleistungen von Internetprovidern ohne Telefonabonnement ,6.34060347972924,2020-2021,50-64 Jahre,Altersklasse
-6324.01: Internetprovider ohne Telefonabonnement: Dienstleistungen durch TV-Kabelnetz ,4.0315712364248,2020-2021,50-64 Jahre,Altersklasse
-6324.02: Internetprovider ohne Telefonabonnement: Andere Dienstleistungen ,2.30903224330444,2020-2021,50-64 Jahre,Altersklasse
+6324: Dienstleistungen von Internetprovidern ohne Telefonabonnement,6.34060347972924,2020-2021,50-64 Jahre,Altersklasse
+6324.01: Internetprovider ohne Telefonabonnement: Dienstleistungen durch TV-Kabelnetz,4.0315712364248,2020-2021,50-64 Jahre,Altersklasse
+6324.02: Internetprovider ohne Telefonabonnement: Andere Dienstleistungen,2.30903224330444,2020-2021,50-64 Jahre,Altersklasse
 "66: Unterhaltung, Erholung und Kultur",507.75118338248,2020-2021,50-64 Jahre,Altersklasse
 "661: Audiovisuelle-, Foto- und EDV-Ausrüstung und Zubehör",62.1366254159126,2020-2021,50-64 Jahre,Altersklasse
 "6611: Radios, Audio-, Fernseh- und Videogeräte",15.1779181853594,2020-2021,50-64 Jahre,Altersklasse
@@ -9442,7 +9442,7 @@ kategorie,betrag_chf,periode,altersgruppe,datentyp
 3200.02: Direkte Bundessteuer,209.821219591196,2020-2021,50-64 Jahre,Altersklasse
 3200.03: Kantonale Einkommens- und Vermögenssteuern,479.587207925539,2020-2021,50-64 Jahre,Altersklasse
 "3200.04: Kommunale, Kirchen- und andere Einkommens- und Vermögenssteuern",379.505393959522,2020-2021,50-64 Jahre,Altersklasse
-3200.05: Nicht aufteilbare Einkommens- und Vermögenssteuern (Kanton und Gemeinde) ,212.865317403304,2020-2021,50-64 Jahre,Altersklasse
+3200.05: Nicht aufteilbare Einkommens- und Vermögenssteuern (Kanton und Gemeinde),212.865317403304,2020-2021,50-64 Jahre,Altersklasse
 33: Krankenkassen: Prämien für die Grundversicherung,733.207678905166,2020-2021,50-64 Jahre,Altersklasse
 330: Krankenkassen: Prämien für die Grundversicherung,733.207678905166,2020-2021,50-64 Jahre,Altersklasse
 3300: Krankenkassen: Prämien für die Grundversicherung,733.207678905166,2020-2021,50-64 Jahre,Altersklasse
@@ -12421,16 +12421,16 @@ kategorie,betrag_chf,periode,altersgruppe,datentyp
 632: Apparate und Dienstleistungen für Telekommunikation,182.760580072509,2020-2021,65+ Jahre (Rentner),Altersklasse
 6321: Kauf und Miete von Telefonapparaten und Faxgeräten,13.6390554891459,2020-2021,65+ Jahre (Rentner),Altersklasse
 6321.00: Kauf und Miete von Telefonapparaten und Faxgeräten,13.6390554891459,2020-2021,65+ Jahre (Rentner),Altersklasse
-6322: Festnetztelefonie ,89.8387271365185,2020-2021,65+ Jahre (Rentner),Altersklasse
-6322.01: Festnetz: Abonnementsgebüren oder Pauschalgebühren ,86.6864167586028,2020-2021,65+ Jahre (Rentner),Altersklasse
+6322: Festnetztelefonie,89.8387271365185,2020-2021,65+ Jahre (Rentner),Altersklasse
+6322.01: Festnetz: Abonnementsgebüren oder Pauschalgebühren,86.6864167586028,2020-2021,65+ Jahre (Rentner),Altersklasse
 6322.02: Festnetz: Gesprächsgebühren,1.18364581098982,2020-2021,65+ Jahre (Rentner),Altersklasse
-6322.03: Festnetz: Gebühren fürs Internet ,1.96866456692587,2020-2021,65+ Jahre (Rentner),Altersklasse
+6322.03: Festnetz: Gebühren fürs Internet,1.96866456692587,2020-2021,65+ Jahre (Rentner),Altersklasse
 6323: Mobiltelefonie,74.2250500417834,2020-2021,65+ Jahre (Rentner),Altersklasse
-6323.01: Mobiltelefonie: Abonnementsgebüren oder Pauschalgebühren ,68.345428089067,2020-2021,65+ Jahre (Rentner),Altersklasse
+6323.01: Mobiltelefonie: Abonnementsgebüren oder Pauschalgebühren,68.345428089067,2020-2021,65+ Jahre (Rentner),Altersklasse
 6323.02: Mobiltelefonie: Gesprächs- und Internetgebühren,5.87962195271639,2020-2021,65+ Jahre (Rentner),Altersklasse
-6324: Dienstleistungen von Internetprovidern ohne Telefonabonnement ,5.05774740506101,2020-2021,65+ Jahre (Rentner),Altersklasse
-6324.01: Internetprovider ohne Telefonabonnement: Dienstleistungen durch TV-Kabelnetz ,3.56726135530252,2020-2021,65+ Jahre (Rentner),Altersklasse
-6324.02: Internetprovider ohne Telefonabonnement: Andere Dienstleistungen ,1.49048604975849,2020-2021,65+ Jahre (Rentner),Altersklasse
+6324: Dienstleistungen von Internetprovidern ohne Telefonabonnement,5.05774740506101,2020-2021,65+ Jahre (Rentner),Altersklasse
+6324.01: Internetprovider ohne Telefonabonnement: Dienstleistungen durch TV-Kabelnetz,3.56726135530252,2020-2021,65+ Jahre (Rentner),Altersklasse
+6324.02: Internetprovider ohne Telefonabonnement: Andere Dienstleistungen,1.49048604975849,2020-2021,65+ Jahre (Rentner),Altersklasse
 "66: Unterhaltung, Erholung und Kultur",416.92020564469,2020-2021,65+ Jahre (Rentner),Altersklasse
 "661: Audiovisuelle-, Foto- und EDV-Ausrüstung und Zubehör",65.3969271239148,2020-2021,65+ Jahre (Rentner),Altersklasse
 "6611: Radios, Audio-, Fernseh- und Videogeräte",20.4677088695571,2020-2021,65+ Jahre (Rentner),Altersklasse
@@ -12530,7 +12530,7 @@ kategorie,betrag_chf,periode,altersgruppe,datentyp
 3200.02: Direkte Bundessteuer,237.995366555949,2020-2021,65+ Jahre (Rentner),Altersklasse
 3200.03: Kantonale Einkommens- und Vermögenssteuern,497.741529943956,2020-2021,65+ Jahre (Rentner),Altersklasse
 "3200.04: Kommunale, Kirchen- und andere Einkommens- und Vermögenssteuern",402.362030625567,2020-2021,65+ Jahre (Rentner),Altersklasse
-3200.05: Nicht aufteilbare Einkommens- und Vermögenssteuern (Kanton und Gemeinde) ,246.596950861316,2020-2021,65+ Jahre (Rentner),Altersklasse
+3200.05: Nicht aufteilbare Einkommens- und Vermögenssteuern (Kanton und Gemeinde),246.596950861316,2020-2021,65+ Jahre (Rentner),Altersklasse
 33: Krankenkassen: Prämien für die Grundversicherung,706.086417029268,2020-2021,65+ Jahre (Rentner),Altersklasse
 330: Krankenkassen: Prämien für die Grundversicherung,706.086417029268,2020-2021,65+ Jahre (Rentner),Altersklasse
 3300: Krankenkassen: Prämien für die Grundversicherung,706.086417029268,2020-2021,65+ Jahre (Rentner),Altersklasse
@@ -15395,14 +15395,14 @@ kategorie,betrag_chf,periode,altersgruppe,datentyp
 632: Apparate und Dienstleistungen für Telekommunikation,155.441102154702,2020-2021,übrige Nichterwerbstätige,Altersklasse
 6321: Kauf und Miete von Telefonapparaten und Faxgeräten,7.47714100794327,2020-2021,übrige Nichterwerbstätige,Altersklasse
 6321.00: Kauf und Miete von Telefonapparaten und Faxgeräten,7.47714100794327,2020-2021,übrige Nichterwerbstätige,Altersklasse
-6322: Festnetztelefonie ,96.8725911723154,2020-2021,übrige Nichterwerbstätige,Altersklasse
-6322.01: Festnetz: Abonnementsgebüren oder Pauschalgebühren ,92.561690399423,2020-2021,übrige Nichterwerbstätige,Altersklasse
+6322: Festnetztelefonie,96.8725911723154,2020-2021,übrige Nichterwerbstätige,Altersklasse
+6322.01: Festnetz: Abonnementsgebüren oder Pauschalgebühren,92.561690399423,2020-2021,übrige Nichterwerbstätige,Altersklasse
 6322.02: Festnetz: Gesprächsgebühren,2.25200130564698,2020-2021,übrige Nichterwerbstätige,Altersklasse
-6322.03: Festnetz: Gebühren fürs Internet ,2.05889946724546,2020-2021,übrige Nichterwerbstätige,Altersklasse
+6322.03: Festnetz: Gebühren fürs Internet,2.05889946724546,2020-2021,übrige Nichterwerbstätige,Altersklasse
 6323: Mobiltelefonie,48.4019382140544,2020-2021,übrige Nichterwerbstätige,Altersklasse
-6323.01: Mobiltelefonie: Abonnementsgebüren oder Pauschalgebühren ,44.1248050784631,2020-2021,übrige Nichterwerbstätige,Altersklasse
+6323.01: Mobiltelefonie: Abonnementsgebüren oder Pauschalgebühren,44.1248050784631,2020-2021,übrige Nichterwerbstätige,Altersklasse
 6323.02: Mobiltelefonie: Gesprächs- und Internetgebühren,4.27713313559135,2020-2021,übrige Nichterwerbstätige,Altersklasse
-6324: Dienstleistungen von Internetprovidern ohne Telefonabonnement ,2.68943176038852,2020-2021,übrige Nichterwerbstätige,Altersklasse
+6324: Dienstleistungen von Internetprovidern ohne Telefonabonnement,2.68943176038852,2020-2021,übrige Nichterwerbstätige,Altersklasse
 "66: Unterhaltung, Erholung und Kultur",393.067451400866,2020-2021,übrige Nichterwerbstätige,Altersklasse
 "661: Audiovisuelle-, Foto- und EDV-Ausrüstung und Zubehör",41.1867411582638,2020-2021,übrige Nichterwerbstätige,Altersklasse
 "6611: Radios, Audio-, Fernseh- und Videogeräte",9.98330998485664,2020-2021,übrige Nichterwerbstätige,Altersklasse
@@ -15493,7 +15493,7 @@ kategorie,betrag_chf,periode,altersgruppe,datentyp
 3200.02: Direkte Bundessteuer,195.47342730118,2020-2021,übrige Nichterwerbstätige,Altersklasse
 3200.03: Kantonale Einkommens- und Vermögenssteuern,456.023436492669,2020-2021,übrige Nichterwerbstätige,Altersklasse
 "3200.04: Kommunale, Kirchen- und andere Einkommens- und Vermögenssteuern",388.426565324603,2020-2021,übrige Nichterwerbstätige,Altersklasse
-3200.05: Nicht aufteilbare Einkommens- und Vermögenssteuern (Kanton und Gemeinde) ,196.75910162001,2020-2021,übrige Nichterwerbstätige,Altersklasse
+3200.05: Nicht aufteilbare Einkommens- und Vermögenssteuern (Kanton und Gemeinde),196.75910162001,2020-2021,übrige Nichterwerbstätige,Altersklasse
 33: Krankenkassen: Prämien für die Grundversicherung,685.390164172794,2020-2021,übrige Nichterwerbstätige,Altersklasse
 330: Krankenkassen: Prämien für die Grundversicherung,685.390164172794,2020-2021,übrige Nichterwerbstätige,Altersklasse
 3300: Krankenkassen: Prämien für die Grundversicherung,685.390164172794,2020-2021,übrige Nichterwerbstätige,Altersklasse

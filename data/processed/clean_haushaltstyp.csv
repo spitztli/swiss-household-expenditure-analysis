@@ -314,16 +314,16 @@ kategorie,betrag_chf,periode,haushaltstyp,datentyp
 632: Apparate und Dienstleistungen für Telekommunikation,168.100152591821,2020-2021,Total,Haushaltstyp
 6321: Kauf und Miete von Telefonapparaten und Faxgeräten,14.0053277425081,2020-2021,Total,Haushaltstyp
 6321.00: Kauf und Miete von Telefonapparaten und Faxgeräten,14.0053277425081,2020-2021,Total,Haushaltstyp
-6322: Festnetztelefonie ,79.801678212608,2020-2021,Total,Haushaltstyp
-6322.01: Festnetz: Abonnementsgebüren oder Pauschalgebühren ,76.2747946461038,2020-2021,Total,Haushaltstyp
+6322: Festnetztelefonie,79.801678212608,2020-2021,Total,Haushaltstyp
+6322.01: Festnetz: Abonnementsgebüren oder Pauschalgebühren,76.2747946461038,2020-2021,Total,Haushaltstyp
 6322.02: Festnetz: Gesprächsgebühren,1.43099424988475,2020-2021,Total,Haushaltstyp
-6322.03: Festnetz: Gebühren fürs Internet ,2.0958893166194,2020-2021,Total,Haushaltstyp
+6322.03: Festnetz: Gebühren fürs Internet,2.0958893166194,2020-2021,Total,Haushaltstyp
 6323: Mobiltelefonie,68.5221370327274,2020-2021,Total,Haushaltstyp
-6323.01: Mobiltelefonie: Abonnementsgebüren oder Pauschalgebühren ,63.4936704888029,2020-2021,Total,Haushaltstyp
+6323.01: Mobiltelefonie: Abonnementsgebüren oder Pauschalgebühren,63.4936704888029,2020-2021,Total,Haushaltstyp
 6323.02: Mobiltelefonie: Gesprächs- und Internetgebühren,5.02846654392449,2020-2021,Total,Haushaltstyp
-6324: Dienstleistungen von Internetprovidern ohne Telefonabonnement ,5.77100960397745,2020-2021,Total,Haushaltstyp
-6324.01: Internetprovider ohne Telefonabonnement: Dienstleistungen durch TV-Kabelnetz ,3.63730490053433,2020-2021,Total,Haushaltstyp
-6324.02: Internetprovider ohne Telefonabonnement: Andere Dienstleistungen ,2.13370470344312,2020-2021,Total,Haushaltstyp
+6324: Dienstleistungen von Internetprovidern ohne Telefonabonnement,5.77100960397745,2020-2021,Total,Haushaltstyp
+6324.01: Internetprovider ohne Telefonabonnement: Dienstleistungen durch TV-Kabelnetz,3.63730490053433,2020-2021,Total,Haushaltstyp
+6324.02: Internetprovider ohne Telefonabonnement: Andere Dienstleistungen,2.13370470344312,2020-2021,Total,Haushaltstyp
 "66: Unterhaltung, Erholung und Kultur",408.11541964804,2020-2021,Total,Haushaltstyp
 "661: Audiovisuelle-, Foto- und EDV-Ausrüstung und Zubehör",51.9284557975354,2020-2021,Total,Haushaltstyp
 "6611: Radios, Audio-, Fernseh- und Videogeräte",14.7500805934969,2020-2021,Total,Haushaltstyp
@@ -371,7 +371,7 @@ kategorie,betrag_chf,periode,haushaltstyp,datentyp
 "6632.03: Museen, Ausstellungen, Bibliotheken, zoologische Gärten u.ä.",3.43921210087953,2020-2021,Total,Haushaltstyp
 6632.04: Radio- und Fernsehkonzession,27.9328437805833,2020-2021,Total,Haushaltstyp
 6632.05: Abonnemente für Privatfernsehen,1.97541320832295,2020-2021,Total,Haushaltstyp
-6632.06: Abonnemente für Kabelfernsehen ,0.937388106220388,2020-2021,Total,Haushaltstyp
+6632.06: Abonnemente für Kabelfernsehen,0.937388106220388,2020-2021,Total,Haushaltstyp
 6632.07: Miete von Geräten und von DVDs und CDs,3.1590358867167,2020-2021,Total,Haushaltstyp
 6632.08: Beiträge an kulturelle Vereinigungen,1.73900703391214,2020-2021,Total,Haushaltstyp
 6632.09: Sonstige Dienstleistungen im Unterhaltungs- und Kulturbereich,2.38330601912597,2020-2021,Total,Haushaltstyp
@@ -442,7 +442,7 @@ kategorie,betrag_chf,periode,haushaltstyp,datentyp
 3200.02: Direkte Bundessteuer,177.654583946473,2020-2021,Total,Haushaltstyp
 3200.03: Kantonale Einkommens- und Vermögenssteuern,423.933738970445,2020-2021,Total,Haushaltstyp
 "3200.04: Kommunale, Kirchen- und andere Einkommens- und Vermögenssteuern",342.270561096062,2020-2021,Total,Haushaltstyp
-3200.05: Nicht aufteilbare Einkommens- und Vermögenssteuern (Kanton und Gemeinde) ,196.116208106171,2020-2021,Total,Haushaltstyp
+3200.05: Nicht aufteilbare Einkommens- und Vermögenssteuern (Kanton und Gemeinde),196.116208106171,2020-2021,Total,Haushaltstyp
 33: Krankenkassen: Prämien für die Grundversicherung,669.67420240077,2020-2021,Total,Haushaltstyp
 330: Krankenkassen: Prämien für die Grundversicherung,669.67420240077,2020-2021,Total,Haushaltstyp
 3300: Krankenkassen: Prämien für die Grundversicherung,669.67420240077,2020-2021,Total,Haushaltstyp
@@ -3446,16 +3446,16 @@ kategorie,betrag_chf,periode,haushaltstyp,datentyp
 632: Apparate und Dienstleistungen für Telekommunikation,126.994921302177,2020-2021,Einpersonenhaushalt,Haushaltstyp
 6321: Kauf und Miete von Telefonapparaten und Faxgeräten,11.1016441401716,2020-2021,Einpersonenhaushalt,Haushaltstyp
 6321.00: Kauf und Miete von Telefonapparaten und Faxgeräten,11.1016441401716,2020-2021,Einpersonenhaushalt,Haushaltstyp
-6322: Festnetztelefonie ,60.1635447008783,2020-2021,Einpersonenhaushalt,Haushaltstyp
-6322.01: Festnetz: Abonnementsgebüren oder Pauschalgebühren ,57.3273485933892,2020-2021,Einpersonenhaushalt,Haushaltstyp
+6322: Festnetztelefonie,60.1635447008783,2020-2021,Einpersonenhaushalt,Haushaltstyp
+6322.01: Festnetz: Abonnementsgebüren oder Pauschalgebühren,57.3273485933892,2020-2021,Einpersonenhaushalt,Haushaltstyp
 6322.02: Festnetz: Gesprächsgebühren,0.771583502135191,2020-2021,Einpersonenhaushalt,Haushaltstyp
-6322.03: Festnetz: Gebühren fürs Internet ,2.06461260535393,2020-2021,Einpersonenhaushalt,Haushaltstyp
+6322.03: Festnetz: Gebühren fürs Internet,2.06461260535393,2020-2021,Einpersonenhaushalt,Haushaltstyp
 6323: Mobiltelefonie,48.3472841707433,2020-2021,Einpersonenhaushalt,Haushaltstyp
-6323.01: Mobiltelefonie: Abonnementsgebüren oder Pauschalgebühren ,43.676740781515,2020-2021,Einpersonenhaushalt,Haushaltstyp
+6323.01: Mobiltelefonie: Abonnementsgebüren oder Pauschalgebühren,43.676740781515,2020-2021,Einpersonenhaushalt,Haushaltstyp
 6323.02: Mobiltelefonie: Gesprächs- und Internetgebühren,4.67054338922834,2020-2021,Einpersonenhaushalt,Haushaltstyp
-6324: Dienstleistungen von Internetprovidern ohne Telefonabonnement ,7.38244829038342,2020-2021,Einpersonenhaushalt,Haushaltstyp
-6324.01: Internetprovider ohne Telefonabonnement: Dienstleistungen durch TV-Kabelnetz ,4.1960200703756,2020-2021,Einpersonenhaushalt,Haushaltstyp
-6324.02: Internetprovider ohne Telefonabonnement: Andere Dienstleistungen ,3.18642822000782,2020-2021,Einpersonenhaushalt,Haushaltstyp
+6324: Dienstleistungen von Internetprovidern ohne Telefonabonnement,7.38244829038342,2020-2021,Einpersonenhaushalt,Haushaltstyp
+6324.01: Internetprovider ohne Telefonabonnement: Dienstleistungen durch TV-Kabelnetz,4.1960200703756,2020-2021,Einpersonenhaushalt,Haushaltstyp
+6324.02: Internetprovider ohne Telefonabonnement: Andere Dienstleistungen,3.18642822000782,2020-2021,Einpersonenhaushalt,Haushaltstyp
 "66: Unterhaltung, Erholung und Kultur",253.742349284402,2020-2021,Einpersonenhaushalt,Haushaltstyp
 "661: Audiovisuelle-, Foto- und EDV-Ausrüstung und Zubehör",37.2578222819693,2020-2021,Einpersonenhaushalt,Haushaltstyp
 "6611: Radios, Audio-, Fernseh- und Videogeräte",11.8888232542218,2020-2021,Einpersonenhaushalt,Haushaltstyp
@@ -3550,7 +3550,7 @@ kategorie,betrag_chf,periode,haushaltstyp,datentyp
 3200.02: Direkte Bundessteuer,103.262119856626,2020-2021,Einpersonenhaushalt,Haushaltstyp
 3200.03: Kantonale Einkommens- und Vermögenssteuern,266.503648727852,2020-2021,Einpersonenhaushalt,Haushaltstyp
 "3200.04: Kommunale, Kirchen- und andere Einkommens- und Vermögenssteuern",215.57809097108,2020-2021,Einpersonenhaushalt,Haushaltstyp
-3200.05: Nicht aufteilbare Einkommens- und Vermögenssteuern (Kanton und Gemeinde) ,129.350679835009,2020-2021,Einpersonenhaushalt,Haushaltstyp
+3200.05: Nicht aufteilbare Einkommens- und Vermögenssteuern (Kanton und Gemeinde),129.350679835009,2020-2021,Einpersonenhaushalt,Haushaltstyp
 33: Krankenkassen: Prämien für die Grundversicherung,364.417234660245,2020-2021,Einpersonenhaushalt,Haushaltstyp
 330: Krankenkassen: Prämien für die Grundversicherung,364.417234660245,2020-2021,Einpersonenhaushalt,Haushaltstyp
 3300: Krankenkassen: Prämien für die Grundversicherung,364.417234660245,2020-2021,Einpersonenhaushalt,Haushaltstyp
@@ -6253,11 +6253,11 @@ kategorie,betrag_chf,periode,haushaltstyp,datentyp
 6310: Posttaxen,4.8785622532138,2020-2021,Paarhaushalt ohne Kinder,Haushaltstyp
 6310.00: Posttaxen,4.8785622532138,2020-2021,Paarhaushalt ohne Kinder,Haushaltstyp
 632: Apparate und Dienstleistungen für Telekommunikation,111.4926134093,2020-2021,Paarhaushalt ohne Kinder,Haushaltstyp
-6322: Festnetztelefonie ,82.3340556296074,2020-2021,Paarhaushalt ohne Kinder,Haushaltstyp
-6322.01: Festnetz: Abonnementsgebüren oder Pauschalgebühren ,78.4000939409459,2020-2021,Paarhaushalt ohne Kinder,Haushaltstyp
+6322: Festnetztelefonie,82.3340556296074,2020-2021,Paarhaushalt ohne Kinder,Haushaltstyp
+6322.01: Festnetz: Abonnementsgebüren oder Pauschalgebühren,78.4000939409459,2020-2021,Paarhaushalt ohne Kinder,Haushaltstyp
 6322.02: Festnetz: Gesprächsgebühren,2.8018566436755,2020-2021,Paarhaushalt ohne Kinder,Haushaltstyp
 6323: Mobiltelefonie,21.9026167225314,2020-2021,Paarhaushalt ohne Kinder,Haushaltstyp
-6323.01: Mobiltelefonie: Abonnementsgebüren oder Pauschalgebühren ,18.6352170673272,2020-2021,Paarhaushalt ohne Kinder,Haushaltstyp
+6323.01: Mobiltelefonie: Abonnementsgebüren oder Pauschalgebühren,18.6352170673272,2020-2021,Paarhaushalt ohne Kinder,Haushaltstyp
 6323.02: Mobiltelefonie: Gesprächs- und Internetgebühren,3.26739965520421,2020-2021,Paarhaushalt ohne Kinder,Haushaltstyp
 "66: Unterhaltung, Erholung und Kultur",213.284876946634,2020-2021,Paarhaushalt ohne Kinder,Haushaltstyp
 "661: Audiovisuelle-, Foto- und EDV-Ausrüstung und Zubehör",19.3804715081159,2020-2021,Paarhaushalt ohne Kinder,Haushaltstyp
@@ -6327,7 +6327,7 @@ kategorie,betrag_chf,periode,haushaltstyp,datentyp
 3200.02: Direkte Bundessteuer,113.505551236252,2020-2021,Paarhaushalt ohne Kinder,Haushaltstyp
 3200.03: Kantonale Einkommens- und Vermögenssteuern,314.330599299378,2020-2021,Paarhaushalt ohne Kinder,Haushaltstyp
 "3200.04: Kommunale, Kirchen- und andere Einkommens- und Vermögenssteuern",262.342846679012,2020-2021,Paarhaushalt ohne Kinder,Haushaltstyp
-3200.05: Nicht aufteilbare Einkommens- und Vermögenssteuern (Kanton und Gemeinde) ,212.080417459546,2020-2021,Paarhaushalt ohne Kinder,Haushaltstyp
+3200.05: Nicht aufteilbare Einkommens- und Vermögenssteuern (Kanton und Gemeinde),212.080417459546,2020-2021,Paarhaushalt ohne Kinder,Haushaltstyp
 33: Krankenkassen: Prämien für die Grundversicherung,454.080850838981,2020-2021,Paarhaushalt ohne Kinder,Haushaltstyp
 330: Krankenkassen: Prämien für die Grundversicherung,454.080850838981,2020-2021,Paarhaushalt ohne Kinder,Haushaltstyp
 3300: Krankenkassen: Prämien für die Grundversicherung,454.080850838981,2020-2021,Paarhaushalt ohne Kinder,Haushaltstyp
@@ -8544,16 +8544,16 @@ kategorie,betrag_chf,periode,haushaltstyp,datentyp
 632: Apparate und Dienstleistungen für Telekommunikation,189.235854390894,2020-2021,Paarhaushalt mit Kindern,Haushaltstyp
 6321: Kauf und Miete von Telefonapparaten und Faxgeräten,16.0635880310653,2020-2021,Paarhaushalt mit Kindern,Haushaltstyp
 6321.00: Kauf und Miete von Telefonapparaten und Faxgeräten,16.0635880310653,2020-2021,Paarhaushalt mit Kindern,Haushaltstyp
-6322: Festnetztelefonie ,75.1064687643936,2020-2021,Paarhaushalt mit Kindern,Haushaltstyp
-6322.01: Festnetz: Abonnementsgebüren oder Pauschalgebühren ,72.2375010838089,2020-2021,Paarhaushalt mit Kindern,Haushaltstyp
+6322: Festnetztelefonie,75.1064687643936,2020-2021,Paarhaushalt mit Kindern,Haushaltstyp
+6322.01: Festnetz: Abonnementsgebüren oder Pauschalgebühren,72.2375010838089,2020-2021,Paarhaushalt mit Kindern,Haushaltstyp
 6322.02: Festnetz: Gesprächsgebühren,0.652780340180611,2020-2021,Paarhaushalt mit Kindern,Haushaltstyp
-6322.03: Festnetz: Gebühren fürs Internet ,2.21618734040411,2020-2021,Paarhaushalt mit Kindern,Haushaltstyp
+6322.03: Festnetz: Gebühren fürs Internet,2.21618734040411,2020-2021,Paarhaushalt mit Kindern,Haushaltstyp
 6323: Mobiltelefonie,90.0238711459798,2020-2021,Paarhaushalt mit Kindern,Haushaltstyp
-6323.01: Mobiltelefonie: Abonnementsgebüren oder Pauschalgebühren ,85.7293671679816,2020-2021,Paarhaushalt mit Kindern,Haushaltstyp
+6323.01: Mobiltelefonie: Abonnementsgebüren oder Pauschalgebühren,85.7293671679816,2020-2021,Paarhaushalt mit Kindern,Haushaltstyp
 6323.02: Mobiltelefonie: Gesprächs- und Internetgebühren,4.29450397799823,2020-2021,Paarhaushalt mit Kindern,Haushaltstyp
-6324: Dienstleistungen von Internetprovidern ohne Telefonabonnement ,8.04192644945534,2020-2021,Paarhaushalt mit Kindern,Haushaltstyp
-6324.01: Internetprovider ohne Telefonabonnement: Dienstleistungen durch TV-Kabelnetz ,4.78875577835585,2020-2021,Paarhaushalt mit Kindern,Haushaltstyp
-6324.02: Internetprovider ohne Telefonabonnement: Andere Dienstleistungen ,3.25317067109949,2020-2021,Paarhaushalt mit Kindern,Haushaltstyp
+6324: Dienstleistungen von Internetprovidern ohne Telefonabonnement,8.04192644945534,2020-2021,Paarhaushalt mit Kindern,Haushaltstyp
+6324.01: Internetprovider ohne Telefonabonnement: Dienstleistungen durch TV-Kabelnetz,4.78875577835585,2020-2021,Paarhaushalt mit Kindern,Haushaltstyp
+6324.02: Internetprovider ohne Telefonabonnement: Andere Dienstleistungen,3.25317067109949,2020-2021,Paarhaushalt mit Kindern,Haushaltstyp
 "66: Unterhaltung, Erholung und Kultur",509.571527395126,2020-2021,Paarhaushalt mit Kindern,Haushaltstyp
 "661: Audiovisuelle-, Foto- und EDV-Ausrüstung und Zubehör",65.1141595775488,2020-2021,Paarhaushalt mit Kindern,Haushaltstyp
 "6611: Radios, Audio-, Fernseh- und Videogeräte",22.4930304237504,2020-2021,Paarhaushalt mit Kindern,Haushaltstyp
@@ -8658,7 +8658,7 @@ kategorie,betrag_chf,periode,haushaltstyp,datentyp
 3200.02: Direkte Bundessteuer,240.008589952625,2020-2021,Paarhaushalt mit Kindern,Haushaltstyp
 3200.03: Kantonale Einkommens- und Vermögenssteuern,536.515755851406,2020-2021,Paarhaushalt mit Kindern,Haushaltstyp
 "3200.04: Kommunale, Kirchen- und andere Einkommens- und Vermögenssteuern",437.609160096038,2020-2021,Paarhaushalt mit Kindern,Haushaltstyp
-3200.05: Nicht aufteilbare Einkommens- und Vermögenssteuern (Kanton und Gemeinde) ,269.980252424147,2020-2021,Paarhaushalt mit Kindern,Haushaltstyp
+3200.05: Nicht aufteilbare Einkommens- und Vermögenssteuern (Kanton und Gemeinde),269.980252424147,2020-2021,Paarhaushalt mit Kindern,Haushaltstyp
 33: Krankenkassen: Prämien für die Grundversicherung,688.67225449557,2020-2021,Paarhaushalt mit Kindern,Haushaltstyp
 330: Krankenkassen: Prämien für die Grundversicherung,688.67225449557,2020-2021,Paarhaushalt mit Kindern,Haushaltstyp
 3300: Krankenkassen: Prämien für die Grundversicherung,688.67225449557,2020-2021,Paarhaushalt mit Kindern,Haushaltstyp
@@ -11537,14 +11537,14 @@ kategorie,betrag_chf,periode,haushaltstyp,datentyp
 632: Apparate und Dienstleistungen für Telekommunikation,161.491042823254,2020-2021,Einelternhaushalt,Haushaltstyp
 6321: Kauf und Miete von Telefonapparaten und Faxgeräten,8.50674991013152,2020-2021,Einelternhaushalt,Haushaltstyp
 6321.00: Kauf und Miete von Telefonapparaten und Faxgeräten,8.50674991013152,2020-2021,Einelternhaushalt,Haushaltstyp
-6322: Festnetztelefonie ,101.24229391897,2020-2021,Einelternhaushalt,Haushaltstyp
-6322.01: Festnetz: Abonnementsgebüren oder Pauschalgebühren ,95.595381147387,2020-2021,Einelternhaushalt,Haushaltstyp
+6322: Festnetztelefonie,101.24229391897,2020-2021,Einelternhaushalt,Haushaltstyp
+6322.01: Festnetz: Abonnementsgebüren oder Pauschalgebühren,95.595381147387,2020-2021,Einelternhaushalt,Haushaltstyp
 6322.02: Festnetz: Gesprächsgebühren,3.19471299571315,2020-2021,Einelternhaushalt,Haushaltstyp
-6322.03: Festnetz: Gebühren fürs Internet ,2.45219977586973,2020-2021,Einelternhaushalt,Haushaltstyp
+6322.03: Festnetz: Gebühren fürs Internet,2.45219977586973,2020-2021,Einelternhaushalt,Haushaltstyp
 6323: Mobiltelefonie,48.451541402368,2020-2021,Einelternhaushalt,Haushaltstyp
-6323.01: Mobiltelefonie: Abonnementsgebüren oder Pauschalgebühren ,43.3514230056915,2020-2021,Einelternhaushalt,Haushaltstyp
+6323.01: Mobiltelefonie: Abonnementsgebüren oder Pauschalgebühren,43.3514230056915,2020-2021,Einelternhaushalt,Haushaltstyp
 6323.02: Mobiltelefonie: Gesprächs- und Internetgebühren,5.10011839667644,2020-2021,Einelternhaushalt,Haushaltstyp
-6324: Dienstleistungen von Internetprovidern ohne Telefonabonnement ,3.2904575917845,2020-2021,Einelternhaushalt,Haushaltstyp
+6324: Dienstleistungen von Internetprovidern ohne Telefonabonnement,3.2904575917845,2020-2021,Einelternhaushalt,Haushaltstyp
 "66: Unterhaltung, Erholung und Kultur",447.08431110523,2020-2021,Einelternhaushalt,Haushaltstyp
 "661: Audiovisuelle-, Foto- und EDV-Ausrüstung und Zubehör",51.3440637528341,2020-2021,Einelternhaushalt,Haushaltstyp
 "6611: Radios, Audio-, Fernseh- und Videogeräte",15.5539191612125,2020-2021,Einelternhaushalt,Haushaltstyp
@@ -11634,7 +11634,7 @@ kategorie,betrag_chf,periode,haushaltstyp,datentyp
 3200.02: Direkte Bundessteuer,229.472601540016,2020-2021,Einelternhaushalt,Haushaltstyp
 3200.03: Kantonale Einkommens- und Vermögenssteuern,566.808117111097,2020-2021,Einelternhaushalt,Haushaltstyp
 "3200.04: Kommunale, Kirchen- und andere Einkommens- und Vermögenssteuern",469.125791705056,2020-2021,Einelternhaushalt,Haushaltstyp
-3200.05: Nicht aufteilbare Einkommens- und Vermögenssteuern (Kanton und Gemeinde) ,211.731958360437,2020-2021,Einelternhaushalt,Haushaltstyp
+3200.05: Nicht aufteilbare Einkommens- und Vermögenssteuern (Kanton und Gemeinde),211.731958360437,2020-2021,Einelternhaushalt,Haushaltstyp
 33: Krankenkassen: Prämien für die Grundversicherung,864.459256290224,2020-2021,Einelternhaushalt,Haushaltstyp
 330: Krankenkassen: Prämien für die Grundversicherung,864.459256290224,2020-2021,Einelternhaushalt,Haushaltstyp
 3300: Krankenkassen: Prämien für die Grundversicherung,864.459256290224,2020-2021,Einelternhaushalt,Haushaltstyp
@@ -14262,10 +14262,10 @@ kategorie,betrag_chf,periode,haushaltstyp,datentyp
 6310: Posttaxen,3.88902574520576,2020-2021,Anderer Mehrpersonenhaushalt,Haushaltstyp
 6310.00: Posttaxen,3.88902574520576,2020-2021,Anderer Mehrpersonenhaushalt,Haushaltstyp
 632: Apparate und Dienstleistungen für Telekommunikation,194.317714763729,2020-2021,Anderer Mehrpersonenhaushalt,Haushaltstyp
-6322: Festnetztelefonie ,92.1755766346222,2020-2021,Anderer Mehrpersonenhaushalt,Haushaltstyp
-6322.01: Festnetz: Abonnementsgebüren oder Pauschalgebühren ,90.2267176914506,2020-2021,Anderer Mehrpersonenhaushalt,Haushaltstyp
+6322: Festnetztelefonie,92.1755766346222,2020-2021,Anderer Mehrpersonenhaushalt,Haushaltstyp
+6322.01: Festnetz: Abonnementsgebüren oder Pauschalgebühren,90.2267176914506,2020-2021,Anderer Mehrpersonenhaushalt,Haushaltstyp
 6323: Mobiltelefonie,83.9973675327062,2020-2021,Anderer Mehrpersonenhaushalt,Haushaltstyp
-6323.01: Mobiltelefonie: Abonnementsgebüren oder Pauschalgebühren ,80.1539081500629,2020-2021,Anderer Mehrpersonenhaushalt,Haushaltstyp
+6323.01: Mobiltelefonie: Abonnementsgebüren oder Pauschalgebühren,80.1539081500629,2020-2021,Anderer Mehrpersonenhaushalt,Haushaltstyp
 "66: Unterhaltung, Erholung und Kultur",420.055314599116,2020-2021,Anderer Mehrpersonenhaushalt,Haushaltstyp
 "661: Audiovisuelle-, Foto- und EDV-Ausrüstung und Zubehör",57.0987587665697,2020-2021,Anderer Mehrpersonenhaushalt,Haushaltstyp
 "6613: Computer, Büromaschinen und andere Peripheriegeräte",36.9774032107764,2020-2021,Anderer Mehrpersonenhaushalt,Haushaltstyp
@@ -14330,7 +14330,7 @@ kategorie,betrag_chf,periode,haushaltstyp,datentyp
 3200.02: Direkte Bundessteuer,123.602124472927,2020-2021,Anderer Mehrpersonenhaushalt,Haushaltstyp
 3200.03: Kantonale Einkommens- und Vermögenssteuern,259.92461499454,2020-2021,Anderer Mehrpersonenhaushalt,Haushaltstyp
 "3200.04: Kommunale, Kirchen- und andere Einkommens- und Vermögenssteuern",203.447097039722,2020-2021,Anderer Mehrpersonenhaushalt,Haushaltstyp
-3200.05: Nicht aufteilbare Einkommens- und Vermögenssteuern (Kanton und Gemeinde) ,176.775712607095,2020-2021,Anderer Mehrpersonenhaushalt,Haushaltstyp
+3200.05: Nicht aufteilbare Einkommens- und Vermögenssteuern (Kanton und Gemeinde),176.775712607095,2020-2021,Anderer Mehrpersonenhaushalt,Haushaltstyp
 33: Krankenkassen: Prämien für die Grundversicherung,705.166367646181,2020-2021,Anderer Mehrpersonenhaushalt,Haushaltstyp
 330: Krankenkassen: Prämien für die Grundversicherung,705.166367646181,2020-2021,Anderer Mehrpersonenhaushalt,Haushaltstyp
 3300: Krankenkassen: Prämien für die Grundversicherung,705.166367646181,2020-2021,Anderer Mehrpersonenhaushalt,Haushaltstyp
