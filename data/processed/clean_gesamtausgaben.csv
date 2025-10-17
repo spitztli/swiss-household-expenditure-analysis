@@ -521,1059 +521,1059 @@ kategorie,betrag_chf,periode,datentyp
 8100: Prämien für die Lebensversicherung,308.76850844797,2022,Gesamt
 8100.01: Prämien für die Säule 3A (gebundene Lebensversicherung),283.74333461287,2022,Gesamt
 8100.02: Prämien für die Säule 3B (nicht gebundene Lebensversicherung),25.0251738351004,2022,Gesamt
-50: Konsumausgaben,5056.6618916054,2015-2021,Gesamt
-51: Nahrungsmittel und alkoholfreie Getränke,617.235020550055,2015-2021,Gesamt
-511: Nahrungsmittel,561.156074806665,2015-2021,Gesamt
-5111: Brot und Getreideprodukte,94.0228414218134,2015-2021,Gesamt
-5111.01: Reis,2.48744044302544,2015-2021,Gesamt
-5111.02: Teigwaren,7.42368011201903,2015-2021,Gesamt
-5111.03: Brot,25.6932338990371,2015-2021,Gesamt
-"5111.04: Gebäck, süsses und salziges",41.0562770278651,2015-2021,Gesamt
-5111.05: Sandwich,4.43407863284929,2015-2021,Gesamt
-5111.06: Weizenmehl,1.11772186755461,2015-2021,Gesamt
-"5111.07: Übrige Mehle, Stärken, Griesse, Flocken und Getreidekörner",1.76793488860768,2015-2021,Gesamt
-5111.08: Andere Produkte auf Getreidebasis,10.0424745508551,2015-2021,Gesamt
-5112: Fleisch,129.248594738643,2015-2021,Gesamt
-5112.01: Rindfleisch,22.2796400234289,2015-2021,Gesamt
-5112.02: Kalbfleisch,5.47373244061195,2015-2021,Gesamt
-"5112.03: Schweinefleisch, frisch oder tiefgekühlt",15.4536947079229,2015-2021,Gesamt
-5112.04: Pferdefleisch,0.456996761280414,2015-2021,Gesamt
-5112.05: Schaf- und Ziegenfleisch,4.94062427260804,2015-2021,Gesamt
-"5112.06: Geflügel, frisch oder tiefgekühlt",20.3315239993805,2015-2021,Gesamt
-5112.07: Wild und Kaninchenfleisch,2.28403752695036,2015-2021,Gesamt
-"5112.08: Andere geniessbare Fleischwaren inkl. Innereien, frisch und tiefgekühlt",7.48452055805008,2015-2021,Gesamt
-"5112.09: Würste, Wurstwaren und Pasteten",26.510809687738,2015-2021,Gesamt
-"5112.10: Schinken, Speck und übriges gesalzenes oder geräuchertes Schweinefleisch",16.6041661198664,2015-2021,Gesamt
-"5112.11: Geflügel, grilliert oder geräuchert",0.880407086565853,2015-2021,Gesamt
-"5112.12: Übriges gekochtes, getrocknetes, gesalzenes oder geräuchertes Fleisch",5.63575144015663,2015-2021,Gesamt
-5112.13: Fleischkonserven und fleischhaltige Erzeugnisse,0.912690114082683,2015-2021,Gesamt
-5113: Fisch,23.1300805402056,2015-2021,Gesamt
-"5113.01: Fisch, frisch oder tiefgekühlt",12.3597894418259,2015-2021,Gesamt
-"5113.02: Meeresfrüchte, frisch oder tiefgekühlt",3.22517956381476,2015-2021,Gesamt
-"5113.03: Fische und Meeresfrüchte, getrocknet, gesalzen oder geräuchert",3.77304398996983,2015-2021,Gesamt
-"5113.04: Fische und Meeresfrüchte, zubereitet und tiefgekühlt",1.64085194906318,2015-2021,Gesamt
-5113.05: Fisch- und andere Konserven auf Basis von Fisch oder Meeresfrüchten,2.13121559553192,2015-2021,Gesamt
-"5114: Milch, Käse und Eier",90.2288337558208,2015-2021,Gesamt
-5114.01: Vollmilch,8.30325030576344,2015-2021,Gesamt
-5114.02: Milchdrink und Magermilch,5.11545684661937,2015-2021,Gesamt
-5114.03: Hart- und Halbhartkäse,27.2563194048621,2015-2021,Gesamt
-"5114.04: Weich-, Frisch- und Schmelzkäse",13.2427197244165,2015-2021,Gesamt
-5114.05: Rahm,6.5637483454234,2015-2021,Gesamt
-5114.06: Quark,1.7555933003281,2015-2021,Gesamt
-5114.07: Joghurt,12.5866094616858,2015-2021,Gesamt
-5114.08: Andere Milchprodukte und Milch-Ersatzgetränke,5.78433837592465,2015-2021,Gesamt
-5114.09: Frische Eier,8.66311208461422,2015-2021,Gesamt
-5114.10: Verarbeitete Eier,0.957685906183247,2015-2021,Gesamt
-5115: Speisefette und -öle,14.1833080847065,2015-2021,Gesamt
-5115.01: Butter,7.11790091438309,2015-2021,Gesamt
-5115.02: Margarine,0.897673442033242,2015-2021,Gesamt
-5115.03: Andere Pflanzenfette,0.548349099873373,2015-2021,Gesamt
-5115.04: Olivenöl,3.24418023616712,2015-2021,Gesamt
-5115.05: Andere pflanzliche Speiseöle und tierische Speisefette,2.37520439224968,2015-2021,Gesamt
-5116: Früchte,56.8388675401341,2015-2021,Gesamt
-5116.01: Zitronen,1.32658547993153,2015-2021,Gesamt
-5116.02: Orangen und übrige Zitrusfrüchte,5.47825423594719,2015-2021,Gesamt
-5116.03: Bananen,4.12678253718459,2015-2021,Gesamt
-5116.04: Äpfel,7.1626211893872,2015-2021,Gesamt
-5116.05: Birnen und Quitten,1.80524022609597,2015-2021,Gesamt
-5116.06: Steinobst,7.87922663155218,2015-2021,Gesamt
-5116.07: Beeren,7.08189199455086,2015-2021,Gesamt
-5116.08: Trauben,2.79976190064775,2015-2021,Gesamt
-5116.09: Melonen und Wassermelonen,1.93176204734273,2015-2021,Gesamt
-5116.10: Übrige exotische Früchte,5.30838436516638,2015-2021,Gesamt
-"5116.11: Nüsse, andere Schalenfrüchte und ölhaltige Früchte",7.48961494295635,2015-2021,Gesamt
-5116.12: Anderes Dörrobst,2.75542309289422,2015-2021,Gesamt
-5116.13: Fruchtkonserven,1.69331889647715,2015-2021,Gesamt
-5117: Gemüse,73.1150470538103,2015-2021,Gesamt
-5117.01: Grüne Salate und anderes Blattgemüse,12.8499391940926,2015-2021,Gesamt
-"5117.02: Stengelgemüse (Lauch, Fenchel, Sojabohnensprossen, usw.)",2.65715380585052,2015-2021,Gesamt
-5117.03: Küchenkräuter,2.1227281610207,2015-2021,Gesamt
-5117.04: Kohlgemüse,3.08001031042809,2015-2021,Gesamt
-5117.05: Tomaten,7.92643392444857,2015-2021,Gesamt
-5117.06: Bohnen und Erbsen,2.29752409631479,2015-2021,Gesamt
-"5117.07: Anderes Fruchtgemüse (Kürbis, Peperoni, usw.)",8.17123724778252,2015-2021,Gesamt
-5117.08: Zwiebeln,1.99779584680086,2015-2021,Gesamt
-5117.09: Knoblauch,0.491414319481695,2015-2021,Gesamt
-5117.10: Rüben und anderes Wurzelgemüse,9.34220226389832,2015-2021,Gesamt
-5117.11: Frische Pilze,2.23145667222284,2015-2021,Gesamt
-"5117.12: Pilze und Gemüse, getrocknet oder gedörrt",1.1255479074591,2015-2021,Gesamt
-5117.13: Gemüse und Pilze in Konserven oder anders verarbeitet,5.57420144760922,2015-2021,Gesamt
-5117.14: Kartoffeln,5.59697598131546,2015-2021,Gesamt
-5117.15: Kartoffelhaltige Produkte und anderes Knollengemüse,7.65042587508504,2015-2021,Gesamt
-"5118: Zucker, Konfitüren, Honig, Schokolade und Süsswaren",38.702379212565,2015-2021,Gesamt
-5118.01: Zucker,1.67505914987401,2015-2021,Gesamt
-"5118.02: Konfitüren, Marmeladen, Kompott",3.72153420655199,2015-2021,Gesamt
-5118.03: Honig,2.11912349392521,2015-2021,Gesamt
-5118.04: Schokolade,19.0351551421916,2015-2021,Gesamt
-5118.05: Süsswaren,5.26989749118727,2015-2021,Gesamt
-5118.06: Speiseeis,6.26390833279177,2015-2021,Gesamt
-5118.07: Andere zucker- und/oder kakaohaltige Produkte,0.617701396043094,2015-2021,Gesamt
-"5119: Saucen, Salz, Gewürze, Suppen und sonstige Nahrungsmittel",41.6861224589664,2015-2021,Gesamt
-"5119.01: Saucen, Würzstoffe und Würze",12.2164541086972,2015-2021,Gesamt
-5119.02: Salz und Gewürze,2.57158034652466,2015-2021,Gesamt
-5119.03: Suppen und Bouillons,3.1084770025182,2015-2021,Gesamt
-"5119.04: Aromaessenzen, Backpulver und Presshefe",0.749686481269358,2015-2021,Gesamt
-5119.05: Küchenfertige Mahlzeiten,12.5392033802327,2015-2021,Gesamt
-5119.06: Vegetarische Sojaprodukte,1.04730672264015,2015-2021,Gesamt
-5119.07: Sonstige Nahrungsmittel,7.74124724195292,2015-2021,Gesamt
-5119.08: Babynahrung,1.71216717513123,2015-2021,Gesamt
-512: Alkoholfreie Getränke,56.0789457433901,2015-2021,Gesamt
-"5121: Kaffee, Tee und Kakao",24.0953596177054,2015-2021,Gesamt
-5121.01: Bohnenkaffee und gemahlener Kaffee,18.2233251041347,2015-2021,Gesamt
-5121.02: Löslicher Pulverkaffee und Kaffeesurrogate,1.60348167895097,2015-2021,Gesamt
-"5121.03: Tee, Kräutertee und Surrogate",3.19018599460155,2015-2021,Gesamt
-5121.04: Kakaohaltige Getränke,1.07836684001824,2015-2021,Gesamt
-"5122: Mineralwasser, Limonaden und Säfte",31.9835861256847,2015-2021,Gesamt
-5122.01: Mineralwasser,8.38356998113357,2015-2021,Gesamt
-5122.02: Alkoholfreie Süssgetränke,12.952379971149,2015-2021,Gesamt
-5122.03: Sirupe für Getränke,1.19146055527956,2015-2021,Gesamt
-5122.04: Fruchtsäfte,9.10901986563382,2015-2021,Gesamt
-5122.05: Gemüsesäfte,0.347155752488683,2015-2021,Gesamt
-52: Alkoholische Getränke und Tabakwaren,105.113265775506,2015-2021,Gesamt
-521: Alkoholische Getränke,69.0995034708852,2015-2021,Gesamt
-5211: Branntweine,7.83488562831015,2015-2021,Gesamt
-5211.01: Branntweine,6.23061273397279,2015-2021,Gesamt
-5211.02: Alkoholische und alkoholfreie Liköre und likörhaltige Aperitifs,1.60427289433736,2015-2021,Gesamt
-5212: Weine,50.7951386746026,2015-2021,Gesamt
-5212.01: Schweizer Rotweine und Rosés,6.06870963476103,2015-2021,Gesamt
-5212.02: Ausländische Rotweine und Rosés,19.5740418508132,2015-2021,Gesamt
-5212.03: Rotweine und Rosés ohne Herkunftsangabe,7.69385354766391,2015-2021,Gesamt
-5212.04: Schweizer Weissweine,4.85414289217226,2015-2021,Gesamt
-5212.05: Ausländische Weissweine,3.9969563920015,2015-2021,Gesamt
-5212.06: Weissweine ohne Herkunftsangabe,2.514962927331,2015-2021,Gesamt
-5212.07: Schaumweine,4.53319082691105,2015-2021,Gesamt
-"5212.08: Auf Wein basierte Aperitifs, Apfelweine und Süssweine",0.906238338559681,2015-2021,Gesamt
-"5212.09: Alkoholfreie Weine, Apfelweine und Aperitifs",0.653042264388994,2015-2021,Gesamt
-5213: Bier,10.4694791679725,2015-2021,Gesamt
-5213.00: Alkoholhaltiges und alkoholfreies Bier,10.4694791679725,2015-2021,Gesamt
-522: Tabakwaren,36.0137623046207,2015-2021,Gesamt
-5220: Tabakwaren,36.0137623046207,2015-2021,Gesamt
-5220.01: Zigaretten,33.2412522129967,2015-2021,Gesamt
-"5220.02: Zigarren, Zigarillos und andere Tabakwaren (inkl. Drogen)",2.772510091624,2015-2021,Gesamt
-53: Gast- und Beherbergungsstätten,539.027100803352,2015-2021,Gesamt
-531: Gaststätten,446.116541018042,2015-2021,Gesamt
-"5311: Restaurants, Cafés und Bars",295.007976255081,2015-2021,Gesamt
-"5311.01: Mahlzeiten in Restaurants, Cafés und Bars",190.976925352555,2015-2021,Gesamt
-"5311.02: Alkoholfreie Getränke in Restaurants, Cafés und Bars",53.7264359813008,2015-2021,Gesamt
-"5311.03: Alkoholische Getränke in Restaurants, Cafés und Bars",50.3046149212254,2015-2021,Gesamt
-5312: Selbstbedienungsrestaurants und Take-aways,69.9942389836694,2015-2021,Gesamt
-5312.01: Mahlzeiten in Selbstbedienungsrestaurants und Take-aways,50.8520231318853,2015-2021,Gesamt
-5312.02: Alkoholfreie Getränke in Selbstbedienungsrestaurants und Take-aways,11.4902479625021,2015-2021,Gesamt
-5312.03: Alkoholische Getränke in Selbstbedienungsrestaurants und Take-aways,7.6519678892821,2015-2021,Gesamt
-5313: Kantinen,34.1363329542821,2015-2021,Gesamt
-5313.01: Mahlzeiten in Kantinen,28.3651073097823,2015-2021,Gesamt
-5313.02: Alkoholfreie Getränke in Kantinen,5.39144652644779,2015-2021,Gesamt
-5313.03: Alkoholische Getränke in Kantinen,0.379779118052014,2015-2021,Gesamt
-5314: Bei Privaten,46.9779928250097,2015-2021,Gesamt
-5314.01: Mahlzeiten bei Privaten anlässlich von Einladungen,32.3507672647809,2015-2021,Gesamt
-5314.02: Alkoholfreie Getränke bei Privaten anlässlich von Einladungen,5.48843591810787,2015-2021,Gesamt
-5314.03: Alkoholische Getränke bei Privaten anlässlich von Einladungen,9.13878964212098,2015-2021,Gesamt
-532: Beherbergungsstätten,92.9105597853095,2015-2021,Gesamt
-5320: Beherbergungsstätten,92.9105597853095,2015-2021,Gesamt
-"5320.01: Hotels, Pensionen und Privatzimmer",70.4455859874187,2015-2021,Gesamt
-"5320.02: Ferienwohnungen, Campingplätze und sonstige Übernachtungen",22.4649737978908,2015-2021,Gesamt
-56: Bekleidung und Schuhe,205.991438174674,2015-2021,Gesamt
-561: Bekleidung,164.349914533025,2015-2021,Gesamt
-5611: Kleiderstoffe,0.9690625647182,2015-2021,Gesamt
-5611.00: Kleiderstoffe,0.9690625647182,2015-2021,Gesamt
-5612: Herrenbekleidung,47.9175508677212,2015-2021,Gesamt
-"5612.01: Herrenmäntel, -jacken und -anzüge",13.3205041795533,2015-2021,Gesamt
-5612.02: Hosen für Herren,10.7042462964058,2015-2021,Gesamt
-5612.03: Hemden für Herren,6.02047664596985,2015-2021,Gesamt
-5612.04: Pullover und T-shirts für Herren,8.62335482991486,2015-2021,Gesamt
-5612.05: Unterwäsche und übrige Herrenbekleidung,3.53220082936822,2015-2021,Gesamt
-5612.06: Sport- und Arbeitskleider für Herren,5.7167680865092,2015-2021,Gesamt
-5613: Damenbekleidung,85.7691516773466,2015-2021,Gesamt
-"5613.01: Mäntel, Jacken und Anzüge für Damen",16.5869392614625,2015-2021,Gesamt
-5613.02: Röcke für Damen,9.09761847689002,2015-2021,Gesamt
-5613.03: Hosen für Damen,16.6979944695874,2015-2021,Gesamt
-5613.04: Blusen für Damen,7.71168304306577,2015-2021,Gesamt
-5613.05: Pullover und T-shirts für Damen,19.0087721774746,2015-2021,Gesamt
-5613.06: Unterwäsche und übrige Damenbekleidung,9.79845816779755,2015-2021,Gesamt
-5613.07: Sport- und Arbeitskleider für Damen,6.8676860810688,2015-2021,Gesamt
-5614: Kinderbekleidung (0 bis 13 Jahre),16.509553166018,2015-2021,Gesamt
-"5614.01: Mäntel, Jacken und Anzüge für Kinder ab 3 Jahren",2.15922442262047,2015-2021,Gesamt
-5614.02: Hosen für Kinder ab 3 Jahren,2.28689496204781,2015-2021,Gesamt
-"5614.03: Blusen, Pullover und T-Shirts für Kinder ab 3 Jahren",3.12001105171908,2015-2021,Gesamt
-5614.04: Unterwäsche und übrige Kleider für Kinder ab 3 Jahren,1.85689290013782,2015-2021,Gesamt
-5614.05: Sportkleider für Kinder ab 3 Jahren,1.9299167527606,2015-2021,Gesamt
-5614.06: Kleider für Kleinkinder bis 2 Jahre,5.15661307673217,2015-2021,Gesamt
-"5615: Bekleidungszubehör, Näh- und Strickwaren",8.14413233599036,2015-2021,Gesamt
-5615.01: Bekleidungszubehör,6.56904153494851,2015-2021,Gesamt
-5615.02: Näh- und Strickwaren,1.57509080104184,2015-2021,Gesamt
-"5616: Reinigung, Reparaturen und Miete von Bekleidung",5.04046392123068,2015-2021,Gesamt
-"5616.00: Reinigung, Reparaturen und Miete von Bekleidung",5.04046392123068,2015-2021,Gesamt
-562: Schuhe,41.6415236416486,2015-2021,Gesamt
-5621: Herrenschuhe,13.25999956636,2015-2021,Gesamt
-5621.00: Herrenschuhe,13.25999956636,2015-2021,Gesamt
-5622: Damenschuhe,21.3893737954644,2015-2021,Gesamt
-5622.00: Damenschuhe,21.3893737954644,2015-2021,Gesamt
-5623: Kinder- und Bébéschuhe,5.75842564697021,2015-2021,Gesamt
-5623.00: Kinder- und Bébéschuhe,5.75842564697021,2015-2021,Gesamt
-5624: Reparaturen und Miete von Schuhen,1.23372463285398,2015-2021,Gesamt
-"5624.00: Reparaturen und Miete von Schuhen, Zubehör für Schuhe",1.23372463285398,2015-2021,Gesamt
-57: Wohnen und Energie,1419.15416403532,2015-2021,Gesamt
-"571: Miete, Hypothekarzinsen, Nebenkosten und Energie des Hauptwohnsitzes",1318.78133780694,2015-2021,Gesamt
-5711: Nettomiete oder Hypothekarzinsen des Hauptwohnsitzes,1046.26714322541,2015-2021,Gesamt
-5711.00: Nettomiete oder Hypothekarzinsen des Hauptwohnsitzes,1046.26714322541,2015-2021,Gesamt
-5712: Nebenkosten des Hauptwohnsitzes,140.058545504817,2015-2021,Gesamt
-5712.01: Nebenkosten pauschal des Hauptwohnsitzes,93.3540488873816,2015-2021,Gesamt
-5712.02: Kehrichtabfuhrgebühren des Hauptwohnsitzes,9.26043841939953,2015-2021,Gesamt
-5712.03: Abwassergebühren des Hauptwohnsitzes,3.81562452460578,2015-2021,Gesamt
-5712.04: Wasserzins des Hauptwohnsitzes,4.99385166440683,2015-2021,Gesamt
-5712.05: Laufende Unterhaltskosten des Hauptwohnsitzes,28.6345820090236,2015-2021,Gesamt
-5713: Energie des Hauptwohnsitzes,132.455649076713,2015-2021,Gesamt
-5713.01: Elektrizität des Hauptwohnsitzes,72.8975577926545,2015-2021,Gesamt
-5713.02: Gas und andere Brennstoffe des Hauptwohnsitzes,30.7697853749469,2015-2021,Gesamt
-5713.03: Zentralheizung oder Fernwärme des Hauptwohnsitzes,28.7883059091119,2015-2021,Gesamt
-"572: Miete, Hypothekarzinsen, Nebenkosten und Energie der Nebenwohnsitze",34.16206088338,2015-2021,Gesamt
-5721: Nettomiete und Hypothekarzinsen der Nebenwohnsitze,19.7413509009173,2015-2021,Gesamt
-5721.00: Nettomiete und Hypothekarzinsen der Nebenwohnsitze,19.7413509009173,2015-2021,Gesamt
-5722: Nebenkosten der Nebenwohnsitze,9.74556658301254,2015-2021,Gesamt
-5722.00: Nebenkosten der Nebenwohnsitze,9.74556658301254,2015-2021,Gesamt
-5723: Energie (Nebenwohnsitze),4.67514339945017,2015-2021,Gesamt
-5723.00: Energie der Nebenwohnsitze,4.67514339945017,2015-2021,Gesamt
-573: Reparaturen und Unterhalt der Wohnung,66.2107653450047,2015-2021,Gesamt
-5730: Reparaturen und Unterhalt der Wohnung,66.2107653450047,2015-2021,Gesamt
-5730.01: Baumaterial für selbst durchgeführte Reparaturen,7.34968379004375,2015-2021,Gesamt
-5730.02: Reparaturen durch Dritte,58.861081554961,2015-2021,Gesamt
-58: Wohnungseinrichtung und laufende Haushaltsführung,223.338546685651,2015-2021,Gesamt
-"581: Möbel, Dekoration und Bodenbeläge, inkl. Reparaturen",73.9164156141884,2015-2021,Gesamt
-"5810: Möbel, Dekoration und Bodenbeläge, inkl. Reparaturen",73.9164156141884,2015-2021,Gesamt
-5810.01: Möbel für Wohnzimmer oder Büro,24.00944936517,2015-2021,Gesamt
-5810.02: Möbel für Schlafzimmer oder Kinderzimmer,15.7152665791447,2015-2021,Gesamt
-"5810.03: Möbel für Küche, Badzimmer, Garten und andere Räume",19.6017539863004,2015-2021,Gesamt
-5810.04: Einrichtungszubehör und Kunstwerke,11.6891398673485,2015-2021,Gesamt
-5810.05: Teppiche und andere Bodenbeläge,2.90080581622485,2015-2021,Gesamt
-582: Haushaltswäsche und Heimtextilien,26.1328669646129,2015-2021,Gesamt
-5820: Haushaltswäsche und Heimtextilien,26.1328669646129,2015-2021,Gesamt
-"5820.01: Matratzen, Duvets und Kissen",10.3826270339746,2015-2021,Gesamt
-"5820.02: Decken, Bettwäsche, andere Haushaltswäsche und -textilien",10.0080114090342,2015-2021,Gesamt
-"5820.03: Wandbehänge, Vorhänge, Möbelbezugsstoffe und Zubehör",5.74222852160415,2015-2021,Gesamt
-583: Haushalts- und Küchengeräte,52.3255018361673,2015-2021,Gesamt
-5831: Haushaltgeräte,34.7543782934809,2015-2021,Gesamt
-"5831.01: Kühlschränke, Geschirrspülmaschinen, Waschmaschinen und Wäschetrockner",12.6792342784501,2015-2021,Gesamt
-"5831.02: Kochherde, Grills, Heiz- und Raumpflegegeräte",11.3139419978544,2015-2021,Gesamt
-5831.03: Kleine elektrische Haushaltsgeräte,9.03025013952882,2015-2021,Gesamt
-5831.04: Reparaturen von Haushaltsgeräten,1.73095187764761,2015-2021,Gesamt
-5832: Küchen- und Kochgeräte,17.5711235426864,2015-2021,Gesamt
-"5832.01: Glaswaren, Geschirr",4.59774951729571,2015-2021,Gesamt
-5832.02: Besteck,0.366189833727344,2015-2021,Gesamt
-5832.03: Küchen- und Kochgeräte,8.17423913330166,2015-2021,Gesamt
-5832.04: Anderes Zubehör für die Haushaltsführung,4.4329450583617,2015-2021,Gesamt
-584: Werkzeuge für Haus und Garten,24.1486040276823,2015-2021,Gesamt
-5841: Werkzeuge und Zubehör ohne Motor für Haus und Garten,19.0281075036995,2015-2021,Gesamt
-5841.01: Kleinmaterial und Zubehör für den Unterhalt von Haus und Garten,15.4584111611038,2015-2021,Gesamt
-5841.02: Werkzeuge ohne Motor für Haus und Garten,3.56969634259566,2015-2021,Gesamt
-5842: Maschinen mit Motor für Haus und Garten,5.12049652398287,2015-2021,Gesamt
-5842.00: Maschinen mit Motor für Haus und Garten,5.12049652398287,2015-2021,Gesamt
-585: Laufende Haushaltsführung,46.8151582429995,2015-2021,Gesamt
-5851: Nicht dauerhafte Haushaltsartikel,30.6679953799135,2015-2021,Gesamt
-5851.01: Wasch- und Reinigungsmittel,17.716992240439,2015-2021,Gesamt
-5851.02: Reinigungsmaterial,1.12597672863331,2015-2021,Gesamt
-"5851.03: Abfallsäcke ohne Gebühren, aus Plastik oder Papier",0.315263981076236,2015-2021,Gesamt
-5851.04: Sonstige nicht dauerhafte Haushaltsartikel,11.509762429765,2015-2021,Gesamt
-5852: Häusliche Dienste,16.147162863086,2015-2021,Gesamt
-5852.00: Häusliche Dienste,16.147162863086,2015-2021,Gesamt
-61: Gesundheitsausgaben [2],257.647377029352,2015-2021,Gesamt
-"611: Pharmazeutische Produkte, Sanitätsmaterial und medizinische Geräte",70.8994400450121,2015-2021,Gesamt
-"6110: Pharmazeutische Produkte, Sanitätsmaterial und medizinische Geräte",70.8994400450121,2015-2021,Gesamt
-6110.01: Medikamente,35.4983872600839,2015-2021,Gesamt
-6110.02: Brillen und Kontaktlinsen,25.3618557040498,2015-2021,Gesamt
-"6110.03: Sanitätsmaterial, therapeutische Geräte und Material",10.0391970808784,2015-2021,Gesamt
-612: Arztleistungen und Dienstleistungen der Spitäler,186.74793698434,2015-2021,Gesamt
-6120: Arztleistungen und Dienstleistungen der Spitäler,186.74793698434,2015-2021,Gesamt
-6120.01: Arztleistungen,69.1873572753851,2015-2021,Gesamt
-6120.02: Zahnarztleistungen,62.3985334461444,2015-2021,Gesamt
-6120.03: Medizinische Labors und Röntgeninstitute,5.40225392018088,2015-2021,Gesamt
-6120.04: Dienstleistungen der Spitäler,16.9186218729769,2015-2021,Gesamt
-6120.05: Andere ambulante medizinische Dienstleistungen,32.8411704696531,2015-2021,Gesamt
-62: Verkehr,705.162745683393,2015-2021,Gesamt
-621: Kauf und Betrieb von Personenfahrzeugen,549.915518792385,2015-2021,Gesamt
-6211: Autos,179.995928025759,2015-2021,Gesamt
-6211.01: Neue Autos,99.1933281425348,2015-2021,Gesamt
-6211.02: Occasionsautos,80.8025998832246,2015-2021,Gesamt
-"6212: Motorräder, Motorroller und Mopeds",11.2846101205622,2015-2021,Gesamt
-"6212.00: Motorräder, Motorroller und Mopeds",11.2846101205622,2015-2021,Gesamt
-6213: Fahrräder,10.3924657149974,2015-2021,Gesamt
-6213.00: Fahrräder,10.3924657149974,2015-2021,Gesamt
-6214: Zubehör und Ersatzteile für Fahrzeuge,22.3808248743244,2015-2021,Gesamt
-6214.01: Zubehör und Ersatzteile für motorisierte Fahrzeuge,20.1758150335876,2015-2021,Gesamt
-6214.02: Zubehör und Ersatzteile für nicht-motorisierte Fahrzeuge,2.20500984073687,2015-2021,Gesamt
-6215: Treibstoffe und Schmiermittel,127.192069375565,2015-2021,Gesamt
-6215.01: Benzin,91.8051344123375,2015-2021,Gesamt
-6215.02: Diesel,34.1413529594435,2015-2021,Gesamt
-6215.03: Schmiermittel und andere Pflegemittel für Fahrzeuge,1.24558200378389,2015-2021,Gesamt
-6216: Service und Reparaturen an Fahrzeugen,59.3060705073315,2015-2021,Gesamt
-6216.00: Service und Reparaturen an Fahrzeugen,59.3060705073315,2015-2021,Gesamt
-6217: Übrige Dienstleistungen im Bereich Personenfahrzeuge,139.363550173845,2015-2021,Gesamt
-6217.01: Miete von Garagen und Einstellplätzen,34.3596588103671,2015-2021,Gesamt
-6217.02: Parkieren,12.0414648600296,2015-2021,Gesamt
-6217.03: Leasing von Fahrzeugen,62.5823848590488,2015-2021,Gesamt
-6217.04: Autobahnvignetten Schweiz,3.08825488146705,2015-2021,Gesamt
-6217.05: Übrige Dienstleistungen (Fahrzeugmiete usw.),27.2917867629326,2015-2021,Gesamt
-622: Verkehrsdienstleistungen,155.247226891008,2015-2021,Gesamt
-6221: Beförderung von Personen auf Schienen,26.7115074400603,2015-2021,Gesamt
-"6221.01: Zug, Billette oder Streckenabonnemente",24.9603336217527,2015-2021,Gesamt
-"6221.02: Tram, Billette oder Streckenabonnemente",1.7511738183076,2015-2021,Gesamt
-6222: Beförderung von Personen auf Strassen,8.28523078986124,2015-2021,Gesamt
-"6222.01: Bus, Billette oder Streckenabonnemente",3.83283844571201,2015-2021,Gesamt
-6222.02: Taxifahrten,4.45239234414923,2015-2021,Gesamt
-6223: Beförderung von Personen mit Flugzeugen,39.7903958303245,2015-2021,Gesamt
-"6223.00: Flugzeug, Billette",39.7903958303245,2015-2021,Gesamt
-6224: Beförderung von Personen auf Wasserwegen,1.86039194288991,2015-2021,Gesamt
-"6224.00: Schiff, Billette oder Streckenabonnemente",1.86039194288991,2015-2021,Gesamt
-6225: Kombinierte Transportmittel,74.3920280979115,2015-2021,Gesamt
-6225.01: Generalabonnemente und Tageskarten SBB,40.5840597620169,2015-2021,Gesamt
-6225.02: Halbtaxabonnemente SBB,7.19471415921863,2015-2021,Gesamt
-6225.03: Billette für regionalen oder städtischen Verkehrsverbund,7.9955582311075,2015-2021,Gesamt
-6225.04: Abonnemente für regionalen oder städtischen Verkehrsverbund,18.6176959455684,2015-2021,Gesamt
-6226: Weitere Verkehrsdienstleistungen,4.20767278996019,2015-2021,Gesamt
-6226.00: Andere Personen- oder Warentransporte ohne Skilifte,4.20767278996019,2015-2021,Gesamt
-63: Nachrichtenübermittlung,178.88996871546,2015-2021,Gesamt
-631: Posttaxen,4.87550453116651,2015-2021,Gesamt
-6310: Posttaxen,4.87550453116651,2015-2021,Gesamt
-6310.00: Posttaxen,4.87550453116651,2015-2021,Gesamt
-632: Apparate und Dienstleistungen für Telekommunikation,174.014464184293,2015-2021,Gesamt
-6321: Kauf und Miete von Telefonapparaten und Faxgeräten,10.4771694026387,2015-2021,Gesamt
-6321.00: Kauf und Miete von Telefonapparaten und Faxgeräten,10.4771694026387,2015-2021,Gesamt
-6322: Festnetztelefonie,79.8841368796597,2015-2021,Gesamt
-6322.01: Festnetz: Abonnementsgebüren oder Pauschalgebühren,66.7865295058794,2015-2021,Gesamt
-6322.02: Festnetz: Gesprächsgebühren,6.32091790351599,2015-2021,Gesamt
-6322.03: Festnetz: Gebühren fürs Internet,6.77668947026423,2015-2021,Gesamt
-6323: Mobiltelefonie,77.145364299428,2015-2021,Gesamt
-6323.01: Mobiltelefonie: Abonnementsgebüren oder Pauschalgebühren,64.5786947233487,2015-2021,Gesamt
-6323.02: Mobiltelefonie: Gesprächs- und Internetgebühren,12.5666695760793,2015-2021,Gesamt
-6324: Dienstleistungen von Internetprovidern ohne Telefonabonnement,6.50779360256706,2015-2021,Gesamt
-6324.01: Internetprovider ohne Telefonabonnement: Dienstleistungen durch TV-Kabelnetz,4.94007465629005,2015-2021,Gesamt
-6324.02: Internetprovider ohne Telefonabonnement: Andere Dienstleistungen,1.56771894627701,2015-2021,Gesamt
-"66: Unterhaltung, Erholung und Kultur",517.577145936729,2015-2021,Gesamt
-"661: Audiovisuelle-, Foto- und EDV-Ausrüstung und Zubehör",54.62212255788,2015-2021,Gesamt
-"6611: Radios, Audio-, Fernseh- und Videogeräte",16.7871165837017,2015-2021,Gesamt
-"6611.00: Radios, Audio-, Fernseh- und Videogeräte",16.7871165837017,2015-2021,Gesamt
-"6612: Foto- und Filmausrüstungen, optische Instrumente",6.70739884737996,2015-2021,Gesamt
-"6612.00: Foto- und Filmausrüstungen, optische Instrumente",6.70739884737996,2015-2021,Gesamt
-"6613: Computer, Büromaschinen und andere Peripheriegeräte",24.5535487637253,2015-2021,Gesamt
-6613.01: Computer,14.2013089397995,2015-2021,Gesamt
-"6613.02: Drucker, elektronische Agenden und anderes Informatikzubehör",10.3522398239258,2015-2021,Gesamt
-"6614: Tonträger, Datenträger, Videokassetten und Filme",6.57405836307309,2015-2021,Gesamt
-"6614.01: Musiktonträger, unbespielt oder bespielt",2.52298302337188,2015-2021,Gesamt
-"6614.02: DVD und VHS, unbespielt oder bespielt",2.48716841376475,2015-2021,Gesamt
-"6614.03: Multimediadatenträger, unbespielt oder bespielt",1.56390692593646,2015-2021,Gesamt
-662: Weitere Ausstattung und Artikel für Unterhaltungszwecke,104.82240175324,2015-2021,Gesamt
-6621: Dauerhafte Güter für Freizeit und Sport,12.9867022424504,2015-2021,Gesamt
-6621.00: Dauerhafte Güter für Freizeit und Sport,12.9867022424504,2015-2021,Gesamt
-"6622: Spielzeug, Gesellschaftsspiele und Zeitvertreib",18.2824344063316,2015-2021,Gesamt
-6622.01: Spielzeuge,8.75858626270739,2015-2021,Gesamt
-6622.02: Gesellschaftsspiele,1.11297065185061,2015-2021,Gesamt
-6622.03: Elektronische oder elektrische Spiele,2.98244052139884,2015-2021,Gesamt
-6622.04: Sammlungen und sonstige Waren für Unterhaltungszwecke,5.42843697037474,2015-2021,Gesamt
-6623: Sport- und Campingartikel sowie Zubehör,17.6194028421257,2015-2021,Gesamt
-6623.01: Wintersportartikel,5.21031586078719,2015-2021,Gesamt
-6623.02: Andere Sportartikel,10.4001771466983,2015-2021,Gesamt
-6623.03: Camping- und nichtsportliche Freizeitartikel,2.00890983464022,2015-2021,Gesamt
-6624: Pflanzen und nicht dauerhafte Güter für die Gartenpflege,28.3094883689311,2015-2021,Gesamt
-6624.00: Pflanzen und nicht dauerhafte Güter für die Gartenpflege,28.3094883689311,2015-2021,Gesamt
-6625: Haustiere und Produkte für deren Haltung,27.6243738934017,2015-2021,Gesamt
-6625.01: Haustiere und Produkte für deren Haltung,16.5177529218775,2015-2021,Gesamt
-6625.02: Tierarztleistungen und übrige Dienstleistungen für Haustiere,11.1066209715241,2015-2021,Gesamt
-"663: Dienstleistungen für Sport, Erholung und Kultur",181.114660001724,2015-2021,Gesamt
-6631: Dienstleistungen für Sport und Erholung,93.5212498737554,2015-2021,Gesamt
-6631.01: Eintritte für Sportveranstaltungen,2.90105360856396,2015-2021,Gesamt
-"6631.02: Dienstleistungen von Sport- und Freizeitanlagen, ohne Skilifte",30.9071421126096,2015-2021,Gesamt
-"6631.03: Billette und Abonnemente für Seilbahnen, inklusiv Skilifte",9.91622062680182,2015-2021,Gesamt
-6631.04: Miete von Sport- und Freizeitartikeln,4.72369243276752,2015-2021,Gesamt
-6631.05: Sport- und Bastelkurse,13.682550790473,2015-2021,Gesamt
-6631.06: Musik- und Tanzkurse,11.3413179387608,2015-2021,Gesamt
-6631.07: Beiträge an Sportclubs oder -vereine,7.58768330812263,2015-2021,Gesamt
-6631.08: Beiträge an Freizeitvereine,1.84466854062998,2015-2021,Gesamt
-6631.09: Andere Kurse im Freizeitbereich,10.6169205150262,2015-2021,Gesamt
-6632: Kulturelle Dienstleistungen,79.1376516030332,2015-2021,Gesamt
-6632.01: Theater und Konzerte,17.1812926965238,2015-2021,Gesamt
-6632.02: Kino,5.09410445844582,2015-2021,Gesamt
-"6632.03: Museen, Ausstellungen, Bibliotheken, zoologische Gärten u.ä.",6.05569011409371,2015-2021,Gesamt
-6632.04: Radio- und Fernsehkonzession,33.2282294027317,2015-2021,Gesamt
-6632.05: Abonnemente für Privatfernsehen,3.35049881434927,2015-2021,Gesamt
-6632.06: Abonnemente für Kabelfernsehen,8.90978847544374,2015-2021,Gesamt
-6632.07: Miete von Geräten und von DVDs und CDs,0.313858054723986,2015-2021,Gesamt
-6632.08: Beiträge an kulturelle Vereinigungen,1.52358399035829,2015-2021,Gesamt
-6632.09: Sonstige Dienstleistungen im Unterhaltungs- und Kulturbereich,3.48060559636291,2015-2021,Gesamt
-6633: Spieleinsätze,8.45575852493537,2015-2021,Gesamt
-6633.00: Spieleinsätze (Lotto und andere Spiele),8.45575852493537,2015-2021,Gesamt
-"664: Bücher, Presseerzeugnisse und Papeteriewaren",54.3142787999477,2015-2021,Gesamt
-6641: Bücher und Broschüren,14.9527602135236,2015-2021,Gesamt
-6641.00: Bücher und Broschüren,14.9527602135236,2015-2021,Gesamt
-6642: Zeitungen und Zeitschriften,27.0441670871791,2015-2021,Gesamt
-"6642.01: Zeitungen und Zeitschriften, Einzelausgaben",4.1733258482068,2015-2021,Gesamt
-"6642.02: Zeitungen und Zeitschriften, Abonnemente",22.8708412389723,2015-2021,Gesamt
-6643: Übrige Druckerzeugnisse,12.317351499245,2015-2021,Gesamt
-6643.01: Übrige Druckerzeugnisse,4.87666335377242,2015-2021,Gesamt
-6643.02: Schreib- und Zeichenmaterial,7.44068814547254,2015-2021,Gesamt
-665: Pauschalreisen,122.703682823937,2015-2021,Gesamt
-6650: Pauschalreisen,122.703682823937,2015-2021,Gesamt
-6650.00: Pauschalreisen,122.703682823937,2015-2021,Gesamt
-67: Schul- und Ausbildungsgebühren,40.3015192563078,2015-2021,Gesamt
-670: Schul- und Ausbildungsgebühren,40.3015192563078,2015-2021,Gesamt
-6700: Schul- und Ausbildungsgebühren,40.3015192563078,2015-2021,Gesamt
-"6700.01: Kindergarten, Primarschule, Real- und Sekundarschule (bis 9. Schuljahr)",11.1301394630281,2015-2021,Gesamt
-"6700.02: Gymnasium, Berufsmatur, Berufs- und Wirtschaftsschulen, höhere Berufsbildung",5.35444428347001,2015-2021,Gesamt
-"6700.03: Fachhochschule, Universität, ETH",14.5792670991516,2015-2021,Gesamt
-6700.04: Fortbildungskurse,9.23766841065815,2015-2021,Gesamt
-68: Andere Waren und Dienstleistungen,247.223598959601,2015-2021,Gesamt
-681: Körperpflege,107.087947952276,2015-2021,Gesamt
-6811: Apparate und Artikel für die Körperpflege,59.6928171626268,2015-2021,Gesamt
-6811.01: Elektrische Apparate für die Körperpflege,2.93322196166942,2015-2021,Gesamt
-6811.02: Nichtelektrische Apparate für die Körperpflege,4.1215124087495,2015-2021,Gesamt
-6811.03: Nichtdauerhafte Artikel aus Watte und Papier für Körperpflege,11.1753286508054,2015-2021,Gesamt
-6811.04: Körperseife und Badezusatz,3.82324111763678,2015-2021,Gesamt
-6811.05: Haarpflegemittel,5.45417220104968,2015-2021,Gesamt
-6811.06: Zahnpflegemittel,3.31694678996381,2015-2021,Gesamt
-6811.07: Sonstige Körperpflege- und Kosmetikprodukte,28.8683940327523,2015-2021,Gesamt
-6812: Coiffeur und Körperpflege,47.3951307896487,2015-2021,Gesamt
-6812.00: Coiffeur und Körperpflege,47.3951307896487,2015-2021,Gesamt
-682: Persönliche Ausstattung,37.2847044168965,2015-2021,Gesamt
-6820: Persönliche Ausstattung,37.2847044168965,2015-2021,Gesamt
-6820.01: Schmuck und Uhren,21.9112976277432,2015-2021,Gesamt
-"6820.02: Reise-, Leder- und Babyartikel",13.2802848366013,2015-2021,Gesamt
-6820.03: Übrige persönliche Ausstattung,2.09312195255195,2015-2021,Gesamt
-"683: Soziale, finanzielle und andere Dienstleistungen",102.850946590429,2015-2021,Gesamt
-6831: Soziale Dienstleistungen,39.771213244889,2015-2021,Gesamt
-"6831.00: Krippen, Spielgruppen und andere soziale Dienstleistungen",39.771213244889,2015-2021,Gesamt
-6832: Finanzielle Dienstleistungen,28.2589988130594,2015-2021,Gesamt
-6832.00: Finanzielle Dienstleistungen,28.2589988130594,2015-2021,Gesamt
-6833: Beiträge an Organisationen und Vereine,15.1556110958072,2015-2021,Gesamt
-"6833.01: Beiträge an politische Parteien, Vereinigungen oder Bewegungen",0.753560346291729,2015-2021,Gesamt
-6833.02: Beiträge an Gewerkschaften oder Berufsverbände,4.7021128025101,2015-2021,Gesamt
-6833.03: Beiträge an religiöse Vereinigungen,5.1347705304912,2015-2021,Gesamt
-6833.04: Beiträge an Umweltschutzorganisationen,0.817916834342231,2015-2021,Gesamt
-6833.05: Beiträge an andere Vereine,3.74725058217196,2015-2021,Gesamt
-6834: Andere Dienstleistungen sowie Verluste aus Vermietung,19.6651234366731,2015-2021,Gesamt
-6834.00: Andere Diensteistungen sowie Verluste aus Vermietung,19.6651234366731,2015-2021,Gesamt
-30: Obligatorische Transferausgaben,2538.18769270373,2015-2021,Gesamt
-31: Sozialversicherungsbeiträge,872.570500040674,2015-2021,Gesamt
-310: Sozialversicherungsbeiträge,872.570500040674,2015-2021,Gesamt
-3100: Sozialversicherungsbeiträge,872.570500040674,2015-2021,Gesamt
-"3100.01: AHV, IV und EO: Beiträge",349.700923784648,2015-2021,Gesamt
-3100.02: Arbeitslosenversicherungsbeiträge (ALV),65.7088826991674,2015-2021,Gesamt
-3100.03: Nichtberufsunfallversicherungsbeiträge (NBU),67.9496732074495,2015-2021,Gesamt
-3100.04: Pensionskassenbeiträge (BVG),382.723946155657,2015-2021,Gesamt
-3100.05: Andere Sozialversicherungsbeiträge,6.48707419375256,2015-2021,Gesamt
-32: Steuern,1081.30546491832,2015-2021,Gesamt
-320: Steuern,1081.30546491832,2015-2021,Gesamt
-3200: Steuern,1081.30546491832,2015-2021,Gesamt
-3200.01: Quellensteuer,66.255188213949,2015-2021,Gesamt
-3200.02: Direkte Bundessteuer,145.59128261914,2015-2021,Gesamt
-3200.03: Kantonale Einkommens- und Vermögenssteuern,363.433659456995,2015-2021,Gesamt
-"3200.04: Kommunale, Kirchen- und andere Einkommens- und Vermögenssteuern",295.363244858083,2015-2021,Gesamt
-3200.05: Nicht aufteilbare Einkommens- und Vermögenssteuern (Kanton und Gemeinde),210.662089770157,2015-2021,Gesamt
-33: Krankenkassen: Prämien für die Grundversicherung,584.311727744731,2015-2021,Gesamt
-330: Krankenkassen: Prämien für die Grundversicherung,584.311727744731,2015-2021,Gesamt
-3300: Krankenkassen: Prämien für die Grundversicherung,584.311727744731,2015-2021,Gesamt
-3300.01: Krankenkassen: Prämien für die Grundversicherung,572.925770886361,2015-2021,Gesamt
-3300.02: Krankenkassen: Prämien für die Unfallversicherung (ohne Berufsunfälle),11.3859568583703,2015-2021,Gesamt
-35: Monetäre Transferausgaben an andere Haushalte,204.988423507469,2015-2021,Gesamt
-36: Monetäre Transferausgaben an andere Haushalte,204.988423507469,2015-2021,Gesamt
-360: Monetäre Transferausgaben an andere Haushalte,204.988423507469,2015-2021,Gesamt
-3600: Bezahlte Alimente und Unterstützungsbeiträge,204.988423507469,2015-2021,Gesamt
-3600.01: Bezahlte Alimente,71.0162779207324,2015-2021,Gesamt
-3600.02: Unterstützungsbeiträge an andere private Haushalte,120.033839394744,2015-2021,Gesamt
-3600.03: Regelmässige Geschenke an andere Haushalte,13.9383061919927,2015-2021,Gesamt
-"40: Übrige Versicherungen, Gebühren und Übertragungen",557.042147039654,2015-2021,Gesamt
-41: Krankenkasse: Prämien für Zusatzversicherungen,128.093903882984,2015-2021,Gesamt
-410: Krankenkasse: Prämien für Zusatzversicherungen,128.093903882984,2015-2021,Gesamt
-4100: Krankenkasse: Prämien für Zusatzversicherungen,128.093903882984,2015-2021,Gesamt
-4100.01: Prämien für die Spitalzusatzversicherung,72.8588353625987,2015-2021,Gesamt
-4100.02: Prämien für weitere Zusatzversicherungen,55.2350685203854,2015-2021,Gesamt
-42: Übrige Versicherungsprämien,177.677150345226,2015-2021,Gesamt
-420: Übrige Versicherungsprämien,177.677150345226,2015-2021,Gesamt
-"4201: Prämien für die Haushalts-, Haftpflicht-, Brand- und andere Gebäudeversicherungen",58.0030351026671,2015-2021,Gesamt
-4201.01: Prämien für die Hausratsversicherung (Haushaltsversicherung),14.0463205547309,2015-2021,Gesamt
-4201.02: Prämien für die private Haftpflichtversicherung,5.50141456983074,2015-2021,Gesamt
-4201.03: Hausrats- und Haftpflichtversicherung: kombinierte Prämie,18.0914395049714,2015-2021,Gesamt
-4201.04: Prämien für Brand- und andere Gebäudeversicherungen,20.363860473134,2015-2021,Gesamt
-4202: Prämien für die Fahrzeugversicherung,101.998111345371,2015-2021,Gesamt
-4202.01: Versicherungsprämien für motorisierte Fahrzeuge,101.981558729991,2015-2021,Gesamt
-4203: Prämien für andere Privatversicherungen,17.6760038971875,2015-2021,Gesamt
-4203.01: Prämien für die Rechtsschutzversicherung,6.61667760956898,2015-2021,Gesamt
-"4203.02: Organisationen mit Versicherungsanteil (Rega, ETI-Schutzbrief usw.): Beiträge",8.11293665543919,2015-2021,Gesamt
-4203.03: Prämien für die Reiseversicherung,1.89116946015011,2015-2021,Gesamt
-4203.04: Prämien für andere Privatversicherungen,1.05522017202927,2015-2021,Gesamt
-43: Gebühren,66.8443355602418,2015-2021,Gesamt
-430: Gebühren,66.8443355602418,2015-2021,Gesamt
-4300: Gebühren,66.8443355602418,2015-2021,Gesamt
-4300.01: Liegenschaftssteuer,10.0628792872185,2015-2021,Gesamt
-4300.02: Fahrzeugsteuer,35.3455926213861,2015-2021,Gesamt
-4300.03: Militärpflichtersatz,1.27993071503384,2015-2021,Gesamt
-4300.04: Bussen,3.11517915745117,2015-2021,Gesamt
-4300.05: Gebühren für Dienstleistungen des Staates,6.01536925519066,2015-2021,Gesamt
-4300.06: Andere Gebühren,11.0253845239615,2015-2021,Gesamt
-"44: Spenden, gemachte Geschenke und Einladungen",184.426757251203,2015-2021,Gesamt
-441: Spenden,34.0990643168679,2015-2021,Gesamt
-4410: Spenden,34.0990643168679,2015-2021,Gesamt
-4410.00: Bargeldspenden an private Organisationen ohne Erwerbscharakter,34.0990643168679,2015-2021,Gesamt
-442: Gemachte Geschenke und Einladungen,150.327692934335,2015-2021,Gesamt
-4421: Verschenkte Nahrungsmittel und alkoholfreie Getränke,8.16254492972387,2015-2021,Gesamt
-4421.01: Verschenkte Schokolade und Süsswaren,2.38044568199911,2015-2021,Gesamt
-4421.02: Andere verschenkte Nahrungsmittel und alkoholfreie Getränke,5.78209924772476,2015-2021,Gesamt
-4422: Verschenkte alkoholische Getränke und Tabakwaren,2.5373624335156,2015-2021,Gesamt
-4422.00: Verschenkte alkoholische Getränke und Tabakwaren,2.5373624335156,2015-2021,Gesamt
-4423: Gemachte Einladungen in Gaststätten,72.5035335628102,2015-2021,Gesamt
-"4423.01: Gemachte Einladungen zu Mahlzeiten in Restaurants, Cafés und Bars",38.8701079762903,2015-2021,Gesamt
-"4423.02: Gemachte Einladungen zu alkoholfreien Getränken in Restaurants, Cafés und Bars",10.1559642517789,2015-2021,Gesamt
-"4423.03: Gemachte Einladungen zu alkoholischen Getränken in Restaurants, Cafés und Bars",13.1669901064446,2015-2021,Gesamt
-4423.04: Gemachte Einladungen zu Mahlzeiten in Selbstbedienungsrestaurants,6.04145642058394,2015-2021,Gesamt
-4423.05: Gemachte Einladungen zu alkoholfreien Getränken in Selbstbedienungsrestaurants,1.42299278673067,2015-2021,Gesamt
-4423.06: Gemachte Einladungen zu alkoholischen Getränken in Selbstbedienungsrestaurants,1.67451876632765,2015-2021,Gesamt
-4423.07: Gemachte Einladungen zu Mahlzeiten in Kantinen,0.784584840559496,2015-2021,Gesamt
-4423.08: Gemachte Einladungen zu Getränken in Kantinen,0.386918414094599,2015-2021,Gesamt
-4424: Verschenkte Bekleidung und Schuhe,8.19163677895564,2015-2021,Gesamt
-4424.01: Verschenkte Kinderbekleidung,3.45888621291338,2015-2021,Gesamt
-"4424.02: Andere verschenkte Bekleidung (Herren, Damen) und Schuhe",4.73275056604227,2015-2021,Gesamt
-4425: Gemachte Geschenke: Wohnungseinrichtung und laufende Haushaltsführung,7.61683927495594,2015-2021,Gesamt
-4425.00: Gemachte Geschenke: Wohnungseinrichtung und laufende Haushaltsführung,7.61683927495594,2015-2021,Gesamt
-4426: Gemachte Geschenke: Verkehr,7.08945423533319,2015-2021,Gesamt
-4426.00: Gemachte Geschenke: Verkehr,7.08945423533319,2015-2021,Gesamt
-"4427: Gemachte Geschenke: Unterhaltung, Erholung und Kultur",20.8556422700495,2015-2021,Gesamt
-4427.01: Verschenkte Spielzeuge und Gesellschaftsspiele,4.22646622599245,2015-2021,Gesamt
-4427.02: Verschenkte Pflanzen und nicht dauerhafte Güter für die Gartenpflege,3.78264949138349,2015-2021,Gesamt
-4427.03: Verschenkte Bücher und Broschüren,1.8661624361604,2015-2021,Gesamt
-4427.04: Verschenkte Zeitungen und Zeitschriften,0.188170766092864,2015-2021,Gesamt
-4427.05: Verschenkte übrige Druckerzeugnisse und Schreib- und Zeichenmaterial,0.886078541834719,2015-2021,Gesamt
-"4427.06: Andere gemachte Geschenke: Unterhaltung, Erholung und Kultur",9.90611480858556,2015-2021,Gesamt
-4428: Gemachte Geschenke: andere Waren und Dienstleistungen,23.3706794489909,2015-2021,Gesamt
-4428.01: Gemachte Geschenke: Körperpflege,2.92142818134132,2015-2021,Gesamt
-4428.02: Gemachte Geschenke: Persönliche Ausstattung,3.14184291731478,2015-2021,Gesamt
-4428.03: Andere verschenkte Waren und Dienstleistungen,17.3074083503348,2015-2021,Gesamt
-80: Prämien für die Lebensversicherung,258.201492317306,2015-2021,Gesamt
-81: Prämien für die Lebensversicherung,258.201492317306,2015-2021,Gesamt
-810: Prämien für die Lebensversicherung,258.201492317306,2015-2021,Gesamt
-8100: Prämien für die Lebensversicherung,258.201492317306,2015-2021,Gesamt
-8100.01: Prämien für die Säule 3A (gebundene Lebensversicherung),235.733549480524,2015-2021,Gesamt
-8100.02: Prämien für die Säule 3B (nicht gebundene Lebensversicherung),22.4679428367814,2015-2021,Gesamt
-50: Konsumausgaben,5135.043576525733,2006-2014,Gesamt
-51: Nahrungsmittel und alkoholfreie Getränke,627.3704112324122,2006-2014,Gesamt
-511: Nahrungsmittel,574.3316514270331,2006-2014,Gesamt
-5111: Brot und Getreideprodukte,97.03569591082395,2006-2014,Gesamt
-5111.01: Reis,2.3187331733334893,2006-2014,Gesamt
-5111.02: Teigwaren,8.11662578766276,2006-2014,Gesamt
-5111.03: Brot,29.06982853896913,2006-2014,Gesamt
-"5111.04: Gebäck, süsses und salziges",41.70474766804132,2006-2014,Gesamt
-5111.05: Sandwich,2.2787786646463166,2006-2014,Gesamt
-5111.06: Weizenmehl,1.337191486159293,2006-2014,Gesamt
-"5111.07: Übrige Mehle, Stärken, Griesse, Flocken und Getreidekörner",2.0796800696725186,2006-2014,Gesamt
-5111.08: Andere Produkte auf Getreidebasis,10.130110522339137,2006-2014,Gesamt
-5112: Fleisch,138.0195745916765,2006-2014,Gesamt
-5112.01: Rindfleisch,22.32321779995824,2006-2014,Gesamt
-5112.02: Kalbfleisch,7.364746823991752,2006-2014,Gesamt
-"5112.03: Schweinefleisch, frisch oder tiefgekühlt",19.079622762281716,2006-2014,Gesamt
-5112.04: Pferdefleisch,2.2758381128514134,2006-2014,Gesamt
-5112.05: Schaf- und Ziegenfleisch,4.62874369758012,2006-2014,Gesamt
-"5112.06: Geflügel, frisch oder tiefgekühlt",17.438084723969528,2006-2014,Gesamt
-5112.07: Wild und Kaninchenfleisch,2.3252163206306444,2006-2014,Gesamt
-"5112.08: Andere geniessbare Fleischwaren inkl. Innereien, frisch und tiefgekühlt",7.513374733746402,2006-2014,Gesamt
-"5112.09: Würste, Wurstwaren und Pasteten",29.41814356444957,2006-2014,Gesamt
-"5112.10: Schinken, Speck und übriges gesalzenes oder geräuchertes Schweinefleisch",18.26099695670238,2006-2014,Gesamt
-"5112.11: Geflügel, grilliert oder geräuchert",1.5356453291926493,2006-2014,Gesamt
-"5112.12: Übriges gekochtes, getrocknetes, gesalzenes oder geräuchertes Fleisch",4.876393557533602,2006-2014,Gesamt
-5112.13: Fleischkonserven und fleischhaltige Erzeugnisse,0.9795502087884733,2006-2014,Gesamt
-5113: Fisch,20.539136224750333,2006-2014,Gesamt
-"5113.01: Fisch, frisch oder tiefgekühlt",11.17591845125186,2006-2014,Gesamt
-"5113.02: Meeresfrüchte, frisch oder tiefgekühlt",2.882811458424767,2006-2014,Gesamt
-"5113.03: Fische und Meeresfrüchte, getrocknet, gesalzen oder geräuchert",2.605155921073807,2006-2014,Gesamt
-"5113.04: Fische und Meeresfrüchte, zubereitet und tiefgekühlt",1.7762069635821112,2006-2014,Gesamt
-5113.05: Fisch- und andere Konserven auf Basis von Fisch oder Meeresfrüchten,2.0990434304177876,2006-2014,Gesamt
-"5114: Milch, Käse und Eier",96.63677439597306,2006-2014,Gesamt
-5114.01: Vollmilch,10.188279780052923,2006-2014,Gesamt
-5114.02: Milchdrink und Magermilch,6.412217694814531,2006-2014,Gesamt
-5114.03: Hart- und Halbhartkäse,26.328660550886212,2006-2014,Gesamt
-"5114.04: Weich-, Frisch- und Schmelzkäse",17.117841204012294,2006-2014,Gesamt
-5114.05: Rahm,7.34238037100422,2006-2014,Gesamt
-5114.06: Quark,2.0229266169581894,2006-2014,Gesamt
-5114.07: Joghurt,12.587972523472532,2006-2014,Gesamt
-5114.08: Andere Milchprodukte und Milch-Ersatzgetränke,5.898042375019915,2006-2014,Gesamt
-5114.09: Frische Eier,8.19087383030522,2006-2014,Gesamt
-5114.10: Verarbeitete Eier,0.5475794494470286,2006-2014,Gesamt
-5115: Speisefette und -öle,15.639805628862419,2006-2014,Gesamt
-5115.01: Butter,7.247887808702206,2006-2014,Gesamt
-5115.02: Margarine,1.3545710810846943,2006-2014,Gesamt
-5115.03: Andere Pflanzenfette,0.5229071393505397,2006-2014,Gesamt
-5115.04: Olivenöl,4.061999270677932,2006-2014,Gesamt
-5115.05: Andere pflanzliche Speiseöle und tierische Speisefette,2.452440329047045,2006-2014,Gesamt
-5116: Früchte,53.37380023171994,2006-2014,Gesamt
-5116.01: Zitronen,0.9771894801623501,2006-2014,Gesamt
-5116.02: Orangen und übrige Zitrusfrüchte,5.372030911895882,2006-2014,Gesamt
-5116.03: Bananen,4.71706059670949,2006-2014,Gesamt
-5116.04: Äpfel,8.734750858786033,2006-2014,Gesamt
-5116.05: Birnen und Quitten,1.820766411515256,2006-2014,Gesamt
-5116.06: Steinobst,8.119986087345838,2006-2014,Gesamt
-5116.07: Beeren,4.812248145574657,2006-2014,Gesamt
-5116.08: Trauben,3.2841765329569275,2006-2014,Gesamt
-5116.09: Melonen und Wassermelonen,2.2094719385835875,2006-2014,Gesamt
-5116.10: Übrige exotische Früchte,4.26256052236658,2006-2014,Gesamt
-"5116.11: Nüsse, andere Schalenfrüchte und ölhaltige Früchte",4.841457048577392,2006-2014,Gesamt
-5116.12: Anderes Dörrobst,2.401122367997707,2006-2014,Gesamt
-5116.13: Fruchtkonserven,1.8209793292482181,2006-2014,Gesamt
-5117: Gemüse,71.75309045358796,2006-2014,Gesamt
-5117.01: Grüne Salate und anderes Blattgemüse,15.151453781989744,2006-2014,Gesamt
-"5117.02: Stengelgemüse (Lauch, Fenchel, Sojabohnensprossen, usw.)",2.6685987938252267,2006-2014,Gesamt
-5117.03: Küchenkräuter,1.6951425704737308,2006-2014,Gesamt
-5117.04: Kohlgemüse,3.525752087217479,2006-2014,Gesamt
-5117.05: Tomaten,6.791101996446971,2006-2014,Gesamt
-5117.06: Bohnen und Erbsen,2.247469006884124,2006-2014,Gesamt
-"5117.07: Anderes Fruchtgemüse (Kürbis, Peperoni, usw.)",6.994433303117013,2006-2014,Gesamt
-5117.08: Zwiebeln,1.9160921217106393,2006-2014,Gesamt
-5117.09: Knoblauch,0.5542604721910479,2006-2014,Gesamt
-5117.10: Rüben und anderes Wurzelgemüse,8.433911886711048,2006-2014,Gesamt
-5117.11: Frische Pilze,1.834484375732658,2006-2014,Gesamt
-"5117.12: Pilze und Gemüse, getrocknet oder gedörrt",1.042070387836497,2006-2014,Gesamt
-5117.13: Gemüse und Pilze in Konserven oder anders verarbeitet,6.268615341880277,2006-2014,Gesamt
-5117.14: Kartoffeln,5.7726102705926925,2006-2014,Gesamt
-5117.15: Kartoffelhaltige Produkte und anderes Knollengemüse,6.857094056978827,2006-2014,Gesamt
-"5118: Zucker, Konfitüren, Honig, Schokolade und Süsswaren",38.76941290304641,2006-2014,Gesamt
-5118.01: Zucker,2.2140344198429953,2006-2014,Gesamt
-"5118.02: Konfitüren, Marmeladen, Kompott",3.7703694352546733,2006-2014,Gesamt
-5118.03: Honig,2.230371155001319,2006-2014,Gesamt
-5118.04: Schokolade,18.245164998883364,2006-2014,Gesamt
-5118.05: Süsswaren,5.542186481213914,2006-2014,Gesamt
-5118.06: Speiseeis,6.099359537544611,2006-2014,Gesamt
-5118.07: Andere zucker- und/oder kakaohaltige Produkte,0.6679268753055083,2006-2014,Gesamt
-"5119: Saucen, Salz, Gewürze, Suppen und sonstige Nahrungsmittel",42.564361086592264,2006-2014,Gesamt
-"5119.01: Saucen, Würzstoffe und Würze",11.583146707706224,2006-2014,Gesamt
-5119.02: Salz und Gewürze,2.417143793738607,2006-2014,Gesamt
-5119.03: Suppen und Bouillons,3.381515228614093,2006-2014,Gesamt
-"5119.04: Aromaessenzen, Backpulver und Presshefe",0.6701341027210246,2006-2014,Gesamt
-5119.05: Küchenfertige Mahlzeiten,13.779133180980649,2006-2014,Gesamt
-5119.06: Vegetarische Sojaprodukte,0.6370507088481038,2006-2014,Gesamt
-5119.07: Sonstige Nahrungsmittel,8.051341697981822,2006-2014,Gesamt
-5119.08: Babynahrung,2.0448956660017523,2006-2014,Gesamt
-512: Alkoholfreie Getränke,53.03875980537952,2006-2014,Gesamt
-"5121: Kaffee, Tee und Kakao",19.343894046167396,2006-2014,Gesamt
-5121.01: Bohnenkaffee und gemahlener Kaffee,11.925856179217703,2006-2014,Gesamt
-5121.02: Löslicher Pulverkaffee und Kaffeesurrogate,2.2474312101242933,2006-2014,Gesamt
-"5121.03: Tee, Kräutertee und Surrogate",3.6399708795053445,2006-2014,Gesamt
-5121.04: Kakaohaltige Getränke,1.530635777320053,2006-2014,Gesamt
-"5122: Mineralwasser, Limonaden und Säfte",33.694865759212135,2006-2014,Gesamt
-5122.01: Mineralwasser,10.625570741923092,2006-2014,Gesamt
-5122.02: Alkoholfreie Süssgetränke,12.268261878832353,2006-2014,Gesamt
-5122.03: Sirupe für Getränke,1.5570262752408006,2006-2014,Gesamt
-5122.04: Fruchtsäfte,8.932063470071833,2006-2014,Gesamt
-5122.05: Gemüsesäfte,0.3119433931440612,2006-2014,Gesamt
-52: Alkoholische Getränke und Tabakwaren,103.39898054012046,2006-2014,Gesamt
-521: Alkoholische Getränke,66.85356112194782,2006-2014,Gesamt
-5211: Branntweine,6.090638145791725,2006-2014,Gesamt
-5211.01: Branntweine,4.457228010285295,2006-2014,Gesamt
-5211.02: Alkoholische und alkoholfreie Liköre und likörhaltige Aperitifs,1.6334101355064319,2006-2014,Gesamt
-5212: Weine,53.027699353908446,2006-2014,Gesamt
-5212.01: Schweizer Rotweine und Rosés,10.701394776548495,2006-2014,Gesamt
-5212.02: Ausländische Rotweine und Rosés,20.577930704460023,2006-2014,Gesamt
-5212.03: Rotweine und Rosés ohne Herkunftsangabe,3.2236954482562563,2006-2014,Gesamt
-5212.04: Schweizer Weissweine,7.624386536533117,2006-2014,Gesamt
-5212.05: Ausländische Weissweine,3.548026125079122,2006-2014,Gesamt
-5212.06: Weissweine ohne Herkunftsangabe,0.856290581413602,2006-2014,Gesamt
-5212.07: Schaumweine,4.16272041287967,2006-2014,Gesamt
-"5212.08: Auf Wein basierte Aperitifs, Apfelweine und Süssweine",1.57756827185719,2006-2014,Gesamt
-"5212.09: Alkoholfreie Weine, Apfelweine und Aperitifs",0.7556864968809703,2006-2014,Gesamt
-5213: Bier,7.735223622247658,2006-2014,Gesamt
-5213.00: Alkoholhaltiges und alkoholfreies Bier,7.735223622247658,2006-2014,Gesamt
-522: Tabakwaren,36.54541941817263,2006-2014,Gesamt
-5220: Tabakwaren,36.54541941817263,2006-2014,Gesamt
-5220.01: Zigaretten,34.79282878240649,2006-2014,Gesamt
-"5220.02: Zigarren, Zigarillos und andere Tabakwaren (inkl. Drogen)",1.7525906357661396,2006-2014,Gesamt
-53: Gast- und Beherbergungsstätten,510.34675588632484,2006-2014,Gesamt
-531: Gaststätten,454.90008668777597,2006-2014,Gesamt
-"5311: Restaurants, Cafés und Bars",360.6393125870742,2006-2014,Gesamt
-"5311.01: Mahlzeiten in Restaurants, Cafés und Bars",226.0647105531833,2006-2014,Gesamt
-"5311.02: Alkoholfreie Getränke in Restaurants, Cafés und Bars",69.9414389190955,2006-2014,Gesamt
-"5311.03: Alkoholische Getränke in Restaurants, Cafés und Bars",64.63316311479548,2006-2014,Gesamt
-5312: Selbstbedienungsrestaurants und Take-aways,54.143085078771556,2006-2014,Gesamt
-5312.01: Mahlzeiten in Selbstbedienungsrestaurants und Take-aways,37.62121111582371,2006-2014,Gesamt
-5312.02: Alkoholfreie Getränke in Selbstbedienungsrestaurants und Take-aways,13.043303072530367,2006-2014,Gesamt
-5312.03: Alkoholische Getränke in Selbstbedienungsrestaurants und Take-aways,3.478570890417491,2006-2014,Gesamt
-5313: Kantinen,40.11768902193021,2006-2014,Gesamt
-5313.01: Mahlzeiten in Kantinen,32.018055997956786,2006-2014,Gesamt
-5313.02: Alkoholfreie Getränke in Kantinen,7.5031455763844175,2006-2014,Gesamt
-5313.03: Alkoholische Getränke in Kantinen,0.5964874475890016,2006-2014,Gesamt
-532: Beherbergungsstätten,55.44666919854887,2006-2014,Gesamt
-5320: Beherbergungsstätten,55.44666919854887,2006-2014,Gesamt
-"5320.01: Hotels, Pensionen und Privatzimmer",42.797352504993505,2006-2014,Gesamt
-"5320.02: Ferienwohnungen, Campingplätze und sonstige Übernachtungen",12.649316693555365,2006-2014,Gesamt
-56: Bekleidung und Schuhe,225.0177608699308,2006-2014,Gesamt
-561: Bekleidung,183.31579359453784,2006-2014,Gesamt
-5611: Kleiderstoffe,1.0881585967589809,2006-2014,Gesamt
-5611.00: Kleiderstoffe,1.0881585967589809,2006-2014,Gesamt
-5612: Herrenbekleidung,58.04245382565691,2006-2014,Gesamt
-"5612.01: Herrenmäntel, -jacken und -anzüge",17.49025009044687,2006-2014,Gesamt
-5612.02: Hosen für Herren,13.37670278151134,2006-2014,Gesamt
-5612.03: Hemden für Herren,6.219790979012806,2006-2014,Gesamt
-5612.04: Pullover und T-shirts für Herren,9.380481184888174,2006-2014,Gesamt
-5612.05: Unterwäsche und übrige Herrenbekleidung,6.288561671726952,2006-2014,Gesamt
-5612.06: Sport- und Arbeitskleider für Herren,5.28666711807078,2006-2014,Gesamt
-5613: Damenbekleidung,91.16786404593941,2006-2014,Gesamt
-"5613.01: Mäntel, Jacken und Anzüge für Damen",20.60007454378602,2006-2014,Gesamt
-5613.02: Röcke für Damen,8.07061837837208,2006-2014,Gesamt
-5613.03: Hosen für Damen,16.748318576011254,2006-2014,Gesamt
-5613.04: Blusen für Damen,5.991552207610115,2006-2014,Gesamt
-5613.05: Pullover und T-shirts für Damen,21.001097305553653,2006-2014,Gesamt
-5613.06: Unterwäsche und übrige Damenbekleidung,13.064198686780385,2006-2014,Gesamt
-5613.07: Sport- und Arbeitskleider für Damen,5.69200434782591,2006-2014,Gesamt
-5614: Kinderbekleidung (0 bis 13 Jahre),18.425336643212503,2006-2014,Gesamt
-"5614.01: Mäntel, Jacken und Anzüge für Kinder ab 3 Jahren",2.8544032536889885,2006-2014,Gesamt
-5614.02: Hosen für Kinder ab 3 Jahren,3.7103403657095138,2006-2014,Gesamt
-"5614.03: Blusen, Pullover und T-Shirts für Kinder ab 3 Jahren",4.229920433232144,2006-2014,Gesamt
-5614.04: Unterwäsche und übrige Kleider für Kinder ab 3 Jahren,2.5587551564445103,2006-2014,Gesamt
-5614.05: Sportkleider für Kinder ab 3 Jahren,1.6492710304270197,2006-2014,Gesamt
-5614.06: Kleider für Kleinkinder bis 2 Jahre,3.42264640371033,2006-2014,Gesamt
-"5615: Bekleidungszubehör, Näh- und Strickwaren",10.011358417833858,2006-2014,Gesamt
-5615.01: Bekleidungszubehör,7.637552292715387,2006-2014,Gesamt
-5615.02: Näh- und Strickwaren,2.373806125118468,2006-2014,Gesamt
-"5616: Reinigung, Reparaturen und Miete von Bekleidung",4.580622065136117,2006-2014,Gesamt
-"5616.00: Reinigung, Reparaturen und Miete von Bekleidung",4.580622065136117,2006-2014,Gesamt
-562: Schuhe,41.70196727539292,2006-2014,Gesamt
-5621: Herrenschuhe,12.737824856306412,2006-2014,Gesamt
-5621.00: Herrenschuhe,12.737824856306412,2006-2014,Gesamt
-5622: Damenschuhe,21.21186538736164,2006-2014,Gesamt
-5622.00: Damenschuhe,21.21186538736164,2006-2014,Gesamt
-5623: Kinder- und Bébéschuhe,6.309092672425021,2006-2014,Gesamt
-5623.00: Kinder- und Bébéschuhe,6.309092672425021,2006-2014,Gesamt
-5624: Reparaturen und Miete von Schuhen,1.4431843592998477,2006-2014,Gesamt
-"5624.00: Reparaturen und Miete von Schuhen, Zubehör für Schuhe",1.4431843592998477,2006-2014,Gesamt
-57: Wohnen und Energie,1369.7932332163327,2006-2014,Gesamt
-"571: Miete, Hypothekarzinsen, Nebenkosten und Energie des Hauptwohnsitzes",1283.1299598543076,2006-2014,Gesamt
-5711: Nettomiete oder Hypothekarzinsen des Hauptwohnsitzes,991.9182686078216,2006-2014,Gesamt
-5711.00: Nettomiete oder Hypothekarzinsen des Hauptwohnsitzes,991.9182686078216,2006-2014,Gesamt
-5712: Nebenkosten des Hauptwohnsitzes,168.84519961011927,2006-2014,Gesamt
-5712.01: Nebenkosten pauschal des Hauptwohnsitzes,127.74342900411493,2006-2014,Gesamt
-5712.02: Kehrichtabfuhrgebühren des Hauptwohnsitzes,8.253718670369338,2006-2014,Gesamt
-5712.03: Abwassergebühren des Hauptwohnsitzes,2.853808391835825,2006-2014,Gesamt
-5712.04: Wasserzins des Hauptwohnsitzes,3.953123338454082,2006-2014,Gesamt
-5712.05: Laufende Unterhaltskosten des Hauptwohnsitzes,26.041120205344985,2006-2014,Gesamt
-5713: Energie des Hauptwohnsitzes,122.36649163636585,2006-2014,Gesamt
-5713.01: Elektrizität des Hauptwohnsitzes,68.31495584313649,2006-2014,Gesamt
-5713.02: Gas und andere Brennstoffe des Hauptwohnsitzes,28.282312088635614,2006-2014,Gesamt
-5713.03: Zentralheizung oder Fernwärme des Hauptwohnsitzes,25.769223704593838,2006-2014,Gesamt
-"572: Miete, Hypothekarzinsen, Nebenkosten und Energie der Nebenwohnsitze",29.1704375135802,2006-2014,Gesamt
-5721: Nettomiete und Hypothekarzinsen der Nebenwohnsitze,17.641192064676112,2006-2014,Gesamt
-5721.00: Nettomiete und Hypothekarzinsen der Nebenwohnsitze,17.641192064676112,2006-2014,Gesamt
-5722: Nebenkosten der Nebenwohnsitze,7.044239230017586,2006-2014,Gesamt
-5722.00: Nebenkosten der Nebenwohnsitze,7.044239230017586,2006-2014,Gesamt
-5723: Energie (Nebenwohnsitze),4.485006218886501,2006-2014,Gesamt
-5723.00: Energie der Nebenwohnsitze,4.485006218886501,2006-2014,Gesamt
-573: Reparaturen und Unterhalt der Wohnung,57.49283584844557,2006-2014,Gesamt
-5730: Reparaturen und Unterhalt der Wohnung,57.49283584844557,2006-2014,Gesamt
-5730.01: Baumaterial für selbst durchgeführte Reparaturen,11.104794805691373,2006-2014,Gesamt
-5730.02: Reparaturen durch Dritte,46.388041042754196,2006-2014,Gesamt
-58: Wohnungseinrichtung und laufende Haushaltsführung,269.2845265269214,2006-2014,Gesamt
-"581: Möbel, Dekoration und Bodenbeläge, inkl. Reparaturen",100.89742496971165,2006-2014,Gesamt
-"5810: Möbel, Dekoration und Bodenbeläge, inkl. Reparaturen",100.89742496971165,2006-2014,Gesamt
-5810.01: Möbel für Wohnzimmer oder Büro,34.3853560753704,2006-2014,Gesamt
-5810.02: Möbel für Schlafzimmer oder Kinderzimmer,22.923512235354014,2006-2014,Gesamt
-"5810.03: Möbel für Küche, Badzimmer, Garten und andere Räume",17.090234936925423,2006-2014,Gesamt
-5810.04: Einrichtungszubehör und Kunstwerke,21.39014623756285,2006-2014,Gesamt
-5810.05: Teppiche und andere Bodenbeläge,5.108175484498981,2006-2014,Gesamt
-582: Haushaltswäsche und Heimtextilien,26.35367644703381,2006-2014,Gesamt
-5820: Haushaltswäsche und Heimtextilien,26.35367644703381,2006-2014,Gesamt
-"5820.01: Matratzen, Duvets und Kissen",12.41695077733456,2006-2014,Gesamt
-"5820.02: Decken, Bettwäsche, andere Haushaltswäsche und -textilien",9.199203617275709,2006-2014,Gesamt
-"5820.03: Wandbehänge, Vorhänge, Möbelbezugsstoffe und Zubehör",4.737522052423533,2006-2014,Gesamt
-583: Haushalts- und Küchengeräte,57.353673479848545,2006-2014,Gesamt
-5831: Haushaltgeräte,37.35475006811788,2006-2014,Gesamt
-"5831.01: Kühlschränke, Geschirrspülmaschinen, Waschmaschinen und Wäschetrockner",15.238949500500667,2006-2014,Gesamt
-"5831.02: Kochherde, Grills, Heiz- und Raumpflegegeräte",10.187230646927432,2006-2014,Gesamt
-5831.03: Kleine elektrische Haushaltsgeräte,9.574678194709902,2006-2014,Gesamt
-5831.04: Reparaturen von Haushaltsgeräten,2.353891725979884,2006-2014,Gesamt
-5832: Küchen- und Kochgeräte,19.998923411730676,2006-2014,Gesamt
-"5832.01: Glaswaren, Geschirr",6.13400056150127,2006-2014,Gesamt
-5832.02: Besteck,1.106742265518124,2006-2014,Gesamt
-5832.03: Küchen- und Kochgeräte,8.347965363155367,2006-2014,Gesamt
-5832.04: Anderes Zubehör für die Haushaltsführung,4.410215221555912,2006-2014,Gesamt
-584: Werkzeuge für Haus und Garten,31.617251631759615,2006-2014,Gesamt
-5841: Werkzeuge und Zubehör ohne Motor für Haus und Garten,26.041877324474786,2006-2014,Gesamt
-5841.01: Kleinmaterial und Zubehör für den Unterhalt von Haus und Garten,20.982550601454115,2006-2014,Gesamt
-5841.02: Werkzeuge ohne Motor für Haus und Garten,5.059326723020675,2006-2014,Gesamt
-5842: Maschinen mit Motor für Haus und Garten,5.575374307284835,2006-2014,Gesamt
-5842.00: Maschinen mit Motor für Haus und Garten,5.575374307284835,2006-2014,Gesamt
-585: Laufende Haushaltsführung,53.06249999856778,2006-2014,Gesamt
-5851: Nicht dauerhafte Haushaltsartikel,31.083525410714042,2006-2014,Gesamt
-5851.01: Wasch- und Reinigungsmittel,17.83996138114595,2006-2014,Gesamt
-5851.02: Reinigungsmaterial,0.9869838321860986,2006-2014,Gesamt
-"5851.03: Abfallsäcke ohne Gebühren, aus Plastik oder Papier",0.4556273209586807,2006-2014,Gesamt
-5851.04: Sonstige nicht dauerhafte Haushaltsartikel,11.800952876423318,2006-2014,Gesamt
-5852: Häusliche Dienste,21.978974587853735,2006-2014,Gesamt
-5852.00: Häusliche Dienste,21.978974587853735,2006-2014,Gesamt
-61: Gesundheitsausgaben [7],266.17127437258074,2006-2014,Gesamt
-"611: Pharmazeutische Produkte, Sanitätsmaterial und medizinische Geräte",61.93575230056275,2006-2014,Gesamt
-"6110: Pharmazeutische Produkte, Sanitätsmaterial und medizinische Geräte",61.93575230056275,2006-2014,Gesamt
-6110.01: Medikamente,29.549176550276265,2006-2014,Gesamt
-6110.02: Brillen und Kontaktlinsen,25.62489672862925,2006-2014,Gesamt
-"6110.03: Sanitätsmaterial, therapeutische Geräte und Material",6.761679021657224,2006-2014,Gesamt
-612: Arztleistungen und Dienstleistungen der Spitäler,204.23552207201797,2006-2014,Gesamt
-6120: Arztleistungen und Dienstleistungen der Spitäler,204.23552207201797,2006-2014,Gesamt
-6120.01: Arztleistungen,74.92911805823822,2006-2014,Gesamt
-6120.02: Zahnarztleistungen,74.25648251741588,2006-2014,Gesamt
-6120.03: Medizinische Labors und Röntgeninstitute,6.200089658829549,2006-2014,Gesamt
-6120.04: Dienstleistungen der Spitäler,24.37796509106264,2006-2014,Gesamt
-6120.05: Andere ambulante medizinische Dienstleistungen,24.471866746471733,2006-2014,Gesamt
-62: Verkehr,708.3132998572956,2006-2014,Gesamt
-621: Kauf und Betrieb von Personenfahrzeugen,586.6050739635041,2006-2014,Gesamt
-6211: Autos,182.09570359445027,2006-2014,Gesamt
-6211.01: Neue Autos,115.35365326162974,2006-2014,Gesamt
-6211.02: Occasionsautos,66.74205033282053,2006-2014,Gesamt
-"6212: Motorräder, Motorroller und Mopeds",8.67194311857081,2006-2014,Gesamt
-"6212.00: Motorräder, Motorroller und Mopeds",8.67194311857081,2006-2014,Gesamt
-6213: Fahrräder,9.93857054683677,2006-2014,Gesamt
-6213.00: Fahrräder,9.93857054683677,2006-2014,Gesamt
-6214: Zubehör und Ersatzteile für Fahrzeuge,20.46407993513379,2006-2014,Gesamt
-6214.01: Zubehör und Ersatzteile für motorisierte Fahrzeuge,18.123018520739116,2006-2014,Gesamt
-6214.02: Zubehör und Ersatzteile für nicht-motorisierte Fahrzeuge,2.3410614143946784,2006-2014,Gesamt
-6215: Treibstoffe und Schmiermittel,156.73787182949428,2006-2014,Gesamt
-6215.01: Benzin,135.77618515778008,2006-2014,Gesamt
-6215.02: Diesel,19.760595597746867,2006-2014,Gesamt
-6215.03: Schmiermittel und andere Pflegemittel für Fahrzeuge,1.201091073967363,2006-2014,Gesamt
-6216: Service und Reparaturen an Fahrzeugen,71.86416752303964,2006-2014,Gesamt
-6216.00: Service und Reparaturen an Fahrzeugen,71.86416752303964,2006-2014,Gesamt
-6217: Übrige Dienstleistungen im Bereich Personenfahrzeuge,136.8327374159786,2006-2014,Gesamt
-6217.01: Miete von Garagen und Einstellplätzen,25.672762583469993,2006-2014,Gesamt
-6217.02: Parkieren,9.311903761513983,2006-2014,Gesamt
-6217.03: Leasing von Fahrzeugen,74.01377290004457,2006-2014,Gesamt
-6217.04: Autobahnvignetten Schweiz,3.378019257631822,2006-2014,Gesamt
-6217.05: Übrige Dienstleistungen (Fahrzeugmiete usw.),24.456278913318176,2006-2014,Gesamt
-622: Verkehrsdienstleistungen,121.7082258937916,2006-2014,Gesamt
-6221: Beförderung von Personen auf Schienen,30.34586580316918,2006-2014,Gesamt
-"6221.01: Zug, Billette oder Streckenabonnemente",27.187168869454254,2006-2014,Gesamt
-"6221.02: Tram, Billette oder Streckenabonnemente",3.158696933714909,2006-2014,Gesamt
-6222: Beförderung von Personen auf Strassen,10.210790879782438,2006-2014,Gesamt
-"6222.01: Bus, Billette oder Streckenabonnemente",6.3868136755305,2006-2014,Gesamt
-6222.02: Taxifahrten,3.8239772042519364,2006-2014,Gesamt
-6223: Beförderung von Personen mit Flugzeugen,32.78103581179516,2006-2014,Gesamt
-"6223.00: Flugzeug, Billette",32.78103581179516,2006-2014,Gesamt
-6224: Beförderung von Personen auf Wasserwegen,2.7428650612945775,2006-2014,Gesamt
-"6224.00: Schiff, Billette oder Streckenabonnemente",2.7428650612945775,2006-2014,Gesamt
-6225: Kombinierte Transportmittel,43.35575210994605,2006-2014,Gesamt
-6225.01: Generalabonnemente und Tageskarten SBB,25.80543243331439,2006-2014,Gesamt
-6225.02: Halbtaxabonnemente SBB,6.218960295547003,2006-2014,Gesamt
-6225.03: Billette für regionalen oder städtischen Verkehrsverbund,2.9184831954253476,2006-2014,Gesamt
-6225.04: Abonnemente für regionalen oder städtischen Verkehrsverbund,8.412876185659313,2006-2014,Gesamt
-6226: Weitere Verkehrsdienstleistungen,2.2719162278042,2006-2014,Gesamt
-6226.00: Andere Personen- oder Warentransporte ohne Skilifte,2.2719162278042,2006-2014,Gesamt
-63: Nachrichtenübermittlung,172.65811082293217,2006-2014,Gesamt
-631: Posttaxen,5.761425610242516,2006-2014,Gesamt
-6310: Posttaxen,5.761425610242516,2006-2014,Gesamt
-6310.00: Posttaxen,5.761425610242516,2006-2014,Gesamt
-632: Apparate und Dienstleistungen für Telekommunikation,166.8966852126897,2006-2014,Gesamt
-6321: Kauf und Miete von Telefonapparaten und Faxgeräten,6.300338412579226,2006-2014,Gesamt
-6321.00: Kauf und Miete von Telefonapparaten und Faxgeräten,6.300338412579226,2006-2014,Gesamt
-6322: Festnetztelefonie [2],71.96129764447284,2006-2014,Gesamt
-6322.01: Festnetz: Abonnementsgebüren oder Pauschalgebühren [3],26.89514135570487,2006-2014,Gesamt
-6322.02: Festnetz: Gesprächsgebühren,37.2135617603937,2006-2014,Gesamt
-6322.03: Festnetz: Gebühren fürs Internet [4],2.5249103880859964,2006-2014,Gesamt
-6322.04: Festnetz: Pauschalbetrag für Abonnement und Gesprächsgebühren [3],5.327684140288283,2006-2014,Gesamt
-6323: Mobiltelefonie,63.66670003226216,2006-2014,Gesamt
-6323.01: Mobiltelefonie: Abonnementsgebüren oder Pauschalgebühren [3],17.366897198207248,2006-2014,Gesamt
-6323.02: Mobiltelefonie: Gesprächs- und Internetgebühren,40.15651006884869,2006-2014,Gesamt
-6323.03: Mobiltelefonie: Pauschalbetrag für Abonnement und Gesprächsgebühren [3],6.143292765206253,2006-2014,Gesamt
-6324: Dienstleistungen von Internetprovidern ohne Telefonabonnement [2],24.968349123375358,2006-2014,Gesamt
-6324.01: Internetprovider ohne Telefonabonnement: Dienstleistungen durch TV-Kabelnetz [2],5.39528708976837,2006-2014,Gesamt
-6324.02: Internetprovider ohne Telefonabonnement: Andere Dienstleistungen [2],19.573062033606984,2006-2014,Gesamt
-"66: Unterhaltung, Erholung und Kultur",627.6168223006284,2006-2014,Gesamt
-"661: Audiovisuelle-, Foto- und EDV-Ausrüstung und Zubehör",92.4959747090218,2006-2014,Gesamt
-"6611: Radios, Audio-, Fernseh- und Videogeräte",30.66072579961731,2006-2014,Gesamt
-"6611.00: Radios, Audio-, Fernseh- und Videogeräte",30.66072579961731,2006-2014,Gesamt
-"6612: Foto- und Filmausrüstungen, optische Instrumente",9.811594588004485,2006-2014,Gesamt
-"6612.00: Foto- und Filmausrüstungen, optische Instrumente",9.811594588004485,2006-2014,Gesamt
-"6613: Computer, Büromaschinen und andere Peripheriegeräte",36.68859666948153,2006-2014,Gesamt
-6613.01: Computer,23.84378765648323,2006-2014,Gesamt
-"6613.02: Drucker, elektronische Agenden und anderes Informatikzubehör",12.844809012998304,2006-2014,Gesamt
-"6614: Tonträger, Datenträger, Videokassetten und Filme",15.335057651918484,2006-2014,Gesamt
-"6614.01: Musiktonträger, unbespielt oder bespielt",6.7036055295897645,2006-2014,Gesamt
-"6614.02: DVD und VHS, unbespielt oder bespielt",5.0023193694169334,2006-2014,Gesamt
-"6614.03: Multimediadatenträger, unbespielt oder bespielt",3.6291327529117843,2006-2014,Gesamt
-662: Weitere Ausstattung und Artikel für Unterhaltungszwecke,123.45214337635038,2006-2014,Gesamt
-6621: Dauerhafte Güter für Freizeit und Sport,19.459272602327975,2006-2014,Gesamt
-6621.00: Dauerhafte Güter für Freizeit und Sport,19.459272602327975,2006-2014,Gesamt
-"6622: Spielzeug, Gesellschaftsspiele und Zeitvertreib",24.045176203869286,2006-2014,Gesamt
-6622.01: Spielzeuge,9.887118908165514,2006-2014,Gesamt
-6622.02: Gesellschaftsspiele,1.404174821656707,2006-2014,Gesamt
-6622.03: Elektronische oder elektrische Spiele,4.536429618959518,2006-2014,Gesamt
-6622.04: Sammlungen und sonstige Waren für Unterhaltungszwecke,8.217452855087544,2006-2014,Gesamt
-6623: Sport- und Campingartikel sowie Zubehör,19.988979524105495,2006-2014,Gesamt
-6623.01: Wintersportartikel,8.969476870872553,2006-2014,Gesamt
-6623.02: Andere Sportartikel,9.836574238616214,2006-2014,Gesamt
-6623.03: Camping- und nichtsportliche Freizeitartikel,1.182928414616731,2006-2014,Gesamt
-6624: Pflanzen und nicht dauerhafte Güter für die Gartenpflege,32.46513263131219,2006-2014,Gesamt
-6624.00: Pflanzen und nicht dauerhafte Güter für die Gartenpflege,32.46513263131219,2006-2014,Gesamt
-6625: Haustiere und Produkte für deren Haltung,27.493582414735386,2006-2014,Gesamt
-6625.01: Haustiere und Produkte für deren Haltung,17.764215661746448,2006-2014,Gesamt
-6625.02: Tierarztleistungen und übrige Dienstleistungen für Haustiere,9.729366752988934,2006-2014,Gesamt
-"663: Dienstleistungen für Sport, Erholung und Kultur",175.0221678962994,2006-2014,Gesamt
-6631: Dienstleistungen für Sport und Erholung,85.02330470935189,2006-2014,Gesamt
-6631.01: Eintritte für Sportveranstaltungen,3.7082421552023717,2006-2014,Gesamt
-"6631.02: Dienstleistungen von Sport- und Freizeitanlagen, ohne Skilifte",26.660578843367233,2006-2014,Gesamt
-"6631.03: Billette und Abonnemente für Seilbahnen, inklusiv Skilifte",10.47194834350855,2006-2014,Gesamt
-6631.04: Miete von Sport- und Freizeitartikeln,3.2221099462012983,2006-2014,Gesamt
-6631.05: Sport- und Bastelkurse,8.722352922555846,2006-2014,Gesamt
-6631.06: Musik- und Tanzkurse,11.461748834487873,2006-2014,Gesamt
-6631.07: Beiträge an Sportclubs oder -vereine,6.277053374520436,2006-2014,Gesamt
-6631.08: Beiträge an Freizeitvereine,1.5712219592214525,2006-2014,Gesamt
-6631.09: Andere Kurse im Freizeitbereich,12.928048330286842,2006-2014,Gesamt
-6632: Kulturelle Dienstleistungen,79.45006702283028,2006-2014,Gesamt
-6632.01: Theater und Konzerte,16.235809022357788,2006-2014,Gesamt
-6632.02: Kino,5.5828802432530376,2006-2014,Gesamt
-"6632.03: Museen, Ausstellungen, Bibliotheken, zoologische Gärten u.ä.",4.369361966003427,2006-2014,Gesamt
-6632.04: Radio- und Fernsehkonzession,33.37080777769165,2006-2014,Gesamt
-6632.05: Abonnemente für Privatfernsehen,2.4124086806805325,2006-2014,Gesamt
-6632.06: Abonnemente für Kabelfernsehen [5],8.838988983637691,2006-2014,Gesamt
-6632.07: Miete von Geräten und von DVDs und CDs,0.8714328728750068,2006-2014,Gesamt
-6632.08: Beiträge an kulturelle Vereinigungen,2.026975976297136,2006-2014,Gesamt
-6632.09: Sonstige Dienstleistungen im Unterhaltungs- und Kulturbereich,5.7414015000339935,2006-2014,Gesamt
-6633: Spieleinsätze,10.548796164117242,2006-2014,Gesamt
-6633.00: Spieleinsätze (Lotto und andere Spiele),10.548796164117242,2006-2014,Gesamt
-"664: Bücher, Presseerzeugnisse und Papeteriewaren",71.95912580879457,2006-2014,Gesamt
-6641: Bücher und Broschüren,21.83622022267327,2006-2014,Gesamt
-6641.00: Bücher und Broschüren,21.83622022267327,2006-2014,Gesamt
-6642: Zeitungen und Zeitschriften,35.544819402754555,2006-2014,Gesamt
-"6642.01: Zeitungen und Zeitschriften, Einzelausgaben",7.901834991634273,2006-2014,Gesamt
-"6642.02: Zeitungen und Zeitschriften, Abonnemente",27.642984411120292,2006-2014,Gesamt
-6643: Übrige Druckerzeugnisse,14.578086183366748,2006-2014,Gesamt
-6643.01: Übrige Druckerzeugnisse,5.83522119734256,2006-2014,Gesamt
-6643.02: Schreib- und Zeichenmaterial,8.742864986024191,2006-2014,Gesamt
-665: Pauschalreisen,164.6874105101621,2006-2014,Gesamt
-6650: Pauschalreisen,164.6874105101621,2006-2014,Gesamt
-6650.00: Pauschalreisen,164.6874105101621,2006-2014,Gesamt
-67: Schul- und Ausbildungsgebühren,38.04023951731675,2006-2014,Gesamt
-670: Schul- und Ausbildungsgebühren,38.04023951731675,2006-2014,Gesamt
-6700: Schul- und Ausbildungsgebühren,38.04023951731675,2006-2014,Gesamt
-"6700.01: Kindergarten, Primarschule, Real- und Sekundarschule (bis 9. Schuljahr)",3.925167320044423,2006-2014,Gesamt
-"6700.02: Gymnasium, Berufsmatur, Berufs- und Wirtschaftsschulen, höhere Berufsbildung",9.267414108313066,2006-2014,Gesamt
-"6700.03: Fachhochschule, Universität, ETH",10.156013594923746,2006-2014,Gesamt
-6700.04: Fortbildungskurse,14.691644494035511,2006-2014,Gesamt
-68: Andere Waren und Dienstleistungen,217.03216138293624,2006-2014,Gesamt
-681: Körperpflege,110.08647276982303,2006-2014,Gesamt
-6811: Apparate und Artikel für die Körperpflege,62.40014200166022,2006-2014,Gesamt
-6811.01: Elektrische Apparate für die Körperpflege,3.307099191332685,2006-2014,Gesamt
-6811.02: Nichtelektrische Apparate für die Körperpflege,3.9553636308005036,2006-2014,Gesamt
-6811.03: Nichtdauerhafte Artikel aus Watte und Papier für Körperpflege,11.896215180054835,2006-2014,Gesamt
-6811.04: Körperseife und Badezusatz,4.442609942255815,2006-2014,Gesamt
-6811.05: Haarpflegemittel,6.603657578414022,2006-2014,Gesamt
-6811.06: Zahnpflegemittel,3.090454293152835,2006-2014,Gesamt
-6811.07: Sonstige Körperpflege- und Kosmetikprodukte,29.10474218564954,2006-2014,Gesamt
-6812: Coiffeur und Körperpflege,47.686330768162804,2006-2014,Gesamt
-6812.00: Coiffeur und Körperpflege,47.686330768162804,2006-2014,Gesamt
-682: Persönliche Ausstattung,37.18785169424364,2006-2014,Gesamt
-6820: Persönliche Ausstattung,37.18785169424364,2006-2014,Gesamt
-6820.01: Schmuck und Uhren,23.39964487059358,2006-2014,Gesamt
-"6820.02: Reise-, Leder- und Babyartikel",11.366212892795499,2006-2014,Gesamt
-6820.03: Übrige persönliche Ausstattung,2.4219939308545713,2006-2014,Gesamt
-"683: Soziale, finanzielle und andere Dienstleistungen",69.75783691886954,2006-2014,Gesamt
-6831: Soziale Dienstleistungen,15.470344220675678,2006-2014,Gesamt
-"6831.00: Krippen, Spielgruppen und andere soziale Dienstleistungen",15.470344220675678,2006-2014,Gesamt
-6832: Finanzielle Dienstleistungen,18.18803587554254,2006-2014,Gesamt
-6832.00: Finanzielle Dienstleistungen,18.18803587554254,2006-2014,Gesamt
-6833: Beiträge an Organisationen und Vereine,12.921948872826688,2006-2014,Gesamt
-"6833.01: Beiträge an politische Parteien, Vereinigungen oder Bewegungen",0.5403107764482051,2006-2014,Gesamt
-6833.02: Beiträge an Gewerkschaften oder Berufsverbände,4.935295679522008,2006-2014,Gesamt
-6833.03: Beiträge an religiöse Vereinigungen,3.0356357281270494,2006-2014,Gesamt
-6833.04: Beiträge an Umweltschutzorganisationen,1.1869572188767128,2006-2014,Gesamt
-6833.05: Beiträge an andere Vereine,3.223749469852709,2006-2014,Gesamt
-6834: Andere Dienstleistungen sowie Verluste aus Vermietung,23.17750794982463,2006-2014,Gesamt
-6834.00: Andere Diensteistungen sowie Verluste aus Vermietung,23.17750794982463,2006-2014,Gesamt
-30: Obligatorische Transferausgaben,2265.1200410706824,2006-2014,Gesamt
-31: Sozialversicherungsbeiträge,791.9554426719935,2006-2014,Gesamt
-310: Sozialversicherungsbeiträge,791.9554426719935,2006-2014,Gesamt
-3100: Sozialversicherungsbeiträge,791.9554426719935,2006-2014,Gesamt
-"3100.01: AHV, IV und EO: Beiträge",344.0639879613795,2006-2014,Gesamt
-3100.02: Arbeitslosenversicherungsbeiträge (ALV),54.46011276661875,2006-2014,Gesamt
-3100.03: Nichtberufsunfallversicherungsbeiträge (NBU),73.89847936967249,2006-2014,Gesamt
-3100.04: Pensionskassenbeiträge (BVG),313.40776835253155,2006-2014,Gesamt
-3100.05: Andere Sozialversicherungsbeiträge,6.1250942217912545,2006-2014,Gesamt
-32: Steuern,990.2515414944036,2006-2014,Gesamt
-320: Steuern,990.2515414944036,2006-2014,Gesamt
-3200: Steuern,990.2515414944036,2006-2014,Gesamt
-3200.01: Quellensteuer,39.391296713893034,2006-2014,Gesamt
-3200.02: Direkte Bundessteuer,130.88033843610532,2006-2014,Gesamt
-3200.03: Kantonale Einkommens- und Vermögenssteuern,451.39378144012227,2006-2014,Gesamt
-"3200.04: Kommunale, Kirchen- und andere Einkommens- und Vermögenssteuern",368.58612490428305,2006-2014,Gesamt
-33: Krankenkassen: Prämien für die Grundversicherung,482.9130569042846,2006-2014,Gesamt
-330: Krankenkassen: Prämien für die Grundversicherung,482.9130569042846,2006-2014,Gesamt
-3300: Krankenkassen: Prämien für die Grundversicherung,482.9130569042846,2006-2014,Gesamt
-3300.01: Krankenkassen: Prämien für die Grundversicherung,476.28742019455035,2006-2014,Gesamt
-3300.02: Krankenkassen: Prämien für die Unfallversicherung (ohne Berufsunfälle),6.62563670973406,2006-2014,Gesamt
-35: Monetäre Transferausgaben an andere Haushalte,185.0355188103276,2006-2014,Gesamt
-36: Monetäre Transferausgaben an andere Haushalte,185.0355188103276,2006-2014,Gesamt
-360: Monetäre Transferausgaben an andere Haushalte,185.0355188103276,2006-2014,Gesamt
-3600: Bezahlte Alimente und Unterstützungsbeiträge,185.0355188103276,2006-2014,Gesamt
-3600.01: Bezahlte Alimente,75.69131456526681,2006-2014,Gesamt
-3600.02: Unterstützungsbeiträge an andere private Haushalte,102.70927203208697,2006-2014,Gesamt
-3600.03: Regelmässige Geschenke an andere Haushalte,6.634932212973852,2006-2014,Gesamt
-"40: Übrige Versicherungen, Gebühren und Übertragungen",528.4881914307635,2006-2014,Gesamt
-41: Krankenkasse: Prämien für Zusatzversicherungen,124.47164738679966,2006-2014,Gesamt
-410: Krankenkasse: Prämien für Zusatzversicherungen,124.47164738679966,2006-2014,Gesamt
-4100: Krankenkasse: Prämien für Zusatzversicherungen,124.47164738679966,2006-2014,Gesamt
-4100.01: Prämien für die Spitalzusatzversicherung,70.52391031817474,2006-2014,Gesamt
-4100.02: Prämien für weitere Zusatzversicherungen,53.94773706862486,2006-2014,Gesamt
-42: Übrige Versicherungsprämien,184.619547533863,2006-2014,Gesamt
-420: Übrige Versicherungsprämien,184.619547533863,2006-2014,Gesamt
-"4201: Prämien für die Haushalts-, Haftpflicht-, Brand- und andere Gebäudeversicherungen",57.14528503917133,2006-2014,Gesamt
-4201.01: Prämien für die Hausratsversicherung (Haushaltsversicherung),17.60919160936066,2006-2014,Gesamt
-4201.02: Prämien für die private Haftpflichtversicherung,7.030417268039449,2006-2014,Gesamt
-4201.03: Hausrats- und Haftpflichtversicherung: kombinierte Prämie,13.164744841130979,2006-2014,Gesamt
-4201.04: Prämien für Brand- und andere Gebäudeversicherungen,19.34093132064021,2006-2014,Gesamt
-4202: Prämien für die Fahrzeugversicherung,112.28018711287508,2006-2014,Gesamt
-4202.01: Versicherungsprämien für motorisierte Fahrzeuge,111.70144036299105,2006-2014,Gesamt
-4202.02: Versicherungsprämien für nicht motorisierte Fahrzeuge,0.5787467498840866,2006-2014,Gesamt
-4203: Prämien für andere Privatversicherungen,15.194075381816559,2006-2014,Gesamt
-4203.01: Prämien für die Rechtsschutzversicherung,5.027842924515196,2006-2014,Gesamt
-"4203.02: Organisationen mit Versicherungsanteil (Rega, ETI-Schutzbrief usw.): Beiträge",7.50182594806902,2006-2014,Gesamt
-4203.03: Prämien für die Reiseversicherung,0.6380093048376861,2006-2014,Gesamt
-4203.04: Prämien für andere Privatversicherungen,2.0263972043946503,2006-2014,Gesamt
-43: Gebühren,62.55168134803078,2006-2014,Gesamt
-430: Gebühren,62.55168134803078,2006-2014,Gesamt
-4300: Gebühren,62.55168134803078,2006-2014,Gesamt
-4300.01: Liegenschaftssteuer,8.787816340570975,2006-2014,Gesamt
-4300.02: Fahrzeugsteuer,36.21283809597194,2006-2014,Gesamt
-4300.03: Militärpflichtersatz,2.050808746017373,2006-2014,Gesamt
-4300.04: Bussen,2.2180739192074626,2006-2014,Gesamt
-4300.05: Gebühren für Dienstleistungen des Staates,6.208447495838492,2006-2014,Gesamt
-4300.06: Andere Gebühren,7.073696750424525,2006-2014,Gesamt
-"44: Spenden, gemachte Geschenke und Einladungen",156.84531516207005,2006-2014,Gesamt
-441: Spenden,23.83682673018494,2006-2014,Gesamt
-4410: Spenden,23.83682673018494,2006-2014,Gesamt
-4410.00: Bargeldspenden an private Organisationen ohne Erwerbscharakter,23.83682673018494,2006-2014,Gesamt
-442: Gemachte Geschenke und Einladungen,133.00848843188513,2006-2014,Gesamt
-4421: Verschenkte Nahrungsmittel und alkoholfreie Getränke,5.985874323020714,2006-2014,Gesamt
-4421.01: Verschenkte Schokolade und Süsswaren,1.9027971845427913,2006-2014,Gesamt
-4421.02: Andere verschenkte Nahrungsmittel und alkoholfreie Getränke,4.083077138477923,2006-2014,Gesamt
-4422: Verschenkte alkoholische Getränke und Tabakwaren,2.0582912155226976,2006-2014,Gesamt
-4422.00: Verschenkte alkoholische Getränke und Tabakwaren,2.0582912155226976,2006-2014,Gesamt
-4423: Gemachte Einladungen in Gaststätten,67.50321941446167,2006-2014,Gesamt
-"4423.01: Gemachte Einladungen zu Mahlzeiten in Restaurants, Cafés und Bars",34.723714122489156,2006-2014,Gesamt
-"4423.02: Gemachte Einladungen zu alkoholfreien Getränken in Restaurants, Cafés und Bars",10.658780821554481,2006-2014,Gesamt
-"4423.03: Gemachte Einladungen zu alkoholischen Getränken in Restaurants, Cafés und Bars",13.914776216556872,2006-2014,Gesamt
-4423.04: Gemachte Einladungen zu Mahlzeiten in Selbstbedienungsrestaurants,5.257417242635862,2006-2014,Gesamt
-4423.05: Gemachte Einladungen zu alkoholfreien Getränken in Selbstbedienungsrestaurants,1.0324841259165656,2006-2014,Gesamt
-4423.06: Gemachte Einladungen zu alkoholischen Getränken in Selbstbedienungsrestaurants,0.9274272083919194,2006-2014,Gesamt
-4423.07: Gemachte Einladungen zu Mahlzeiten in Kantinen,0.5818585263909369,2006-2014,Gesamt
-4423.08: Gemachte Einladungen zu Getränken in Kantinen,0.4067611505258652,2006-2014,Gesamt
-4424: Verschenkte Bekleidung und Schuhe,7.304832271223918,2006-2014,Gesamt
-4424.01: Verschenkte Kinderbekleidung,3.145083636152343,2006-2014,Gesamt
-"4424.02: Andere verschenkte Bekleidung (Herren, Damen) und Schuhe",4.1597486350715736,2006-2014,Gesamt
-4425: Gemachte Geschenke: Wohnungseinrichtung und laufende Haushaltsführung,6.162653558419699,2006-2014,Gesamt
-4425.00: Gemachte Geschenke: Wohnungseinrichtung und laufende Haushaltsführung,6.162653558419699,2006-2014,Gesamt
-4426: Gemachte Geschenke: Verkehr,6.256757095893844,2006-2014,Gesamt
-4426.00: Gemachte Geschenke: Verkehr,6.256757095893844,2006-2014,Gesamt
-"4427: Gemachte Geschenke: Unterhaltung, Erholung und Kultur",24.502680106681225,2006-2014,Gesamt
-4427.01: Verschenkte Spielzeuge und Gesellschaftsspiele,4.127932742414411,2006-2014,Gesamt
-4427.02: Verschenkte Pflanzen und nicht dauerhafte Güter für die Gartenpflege,3.5217999520427155,2006-2014,Gesamt
-4427.03: Verschenkte Bücher und Broschüren,2.0244321769465765,2006-2014,Gesamt
-4427.04: Verschenkte Zeitungen und Zeitschriften,0.3464374431297795,2006-2014,Gesamt
-4427.05: Verschenkte übrige Druckerzeugnisse und Schreib- und Zeichenmaterial,1.245949281655826,2006-2014,Gesamt
-"4427.06: Andere gemachte Geschenke: Unterhaltung, Erholung und Kultur",13.236128510491916,2006-2014,Gesamt
-4428: Gemachte Geschenke: andere Waren und Dienstleistungen,13.234180446661313,2006-2014,Gesamt
-4428.01: Gemachte Geschenke: Körperpflege,2.0284341456750963,2006-2014,Gesamt
-4428.02: Gemachte Geschenke: Persönliche Ausstattung,3.0142369553961723,2006-2014,Gesamt
-4428.03: Andere verschenkte Waren und Dienstleistungen,8.191509345590047,2006-2014,Gesamt
-80: Prämien für die Lebensversicherung,243.74450118660343,2006-2014,Gesamt
-81: Prämien für die Lebensversicherung,243.74450118660343,2006-2014,Gesamt
-810: Prämien für die Lebensversicherung,243.74450118660343,2006-2014,Gesamt
-8100: Prämien für die Lebensversicherung,243.74450118660343,2006-2014,Gesamt
-8100.01: Prämien für die Säule 3A (gebundene Lebensversicherung),194.13770548695086,2006-2014,Gesamt
-8100.02: Prämien für die Säule 3B (nicht gebundene Lebensversicherung),49.60679569965256,2006-2014,Gesamt
+50: Konsumausgaben,5056.6618916054,2015,Gesamt
+51: Nahrungsmittel und alkoholfreie Getränke,617.235020550055,2015,Gesamt
+511: Nahrungsmittel,561.156074806665,2015,Gesamt
+5111: Brot und Getreideprodukte,94.0228414218134,2015,Gesamt
+5111.01: Reis,2.48744044302544,2015,Gesamt
+5111.02: Teigwaren,7.42368011201903,2015,Gesamt
+5111.03: Brot,25.6932338990371,2015,Gesamt
+"5111.04: Gebäck, süsses und salziges",41.0562770278651,2015,Gesamt
+5111.05: Sandwich,4.43407863284929,2015,Gesamt
+5111.06: Weizenmehl,1.11772186755461,2015,Gesamt
+"5111.07: Übrige Mehle, Stärken, Griesse, Flocken und Getreidekörner",1.76793488860768,2015,Gesamt
+5111.08: Andere Produkte auf Getreidebasis,10.0424745508551,2015,Gesamt
+5112: Fleisch,129.248594738643,2015,Gesamt
+5112.01: Rindfleisch,22.2796400234289,2015,Gesamt
+5112.02: Kalbfleisch,5.47373244061195,2015,Gesamt
+"5112.03: Schweinefleisch, frisch oder tiefgekühlt",15.4536947079229,2015,Gesamt
+5112.04: Pferdefleisch,0.456996761280414,2015,Gesamt
+5112.05: Schaf- und Ziegenfleisch,4.94062427260804,2015,Gesamt
+"5112.06: Geflügel, frisch oder tiefgekühlt",20.3315239993805,2015,Gesamt
+5112.07: Wild und Kaninchenfleisch,2.28403752695036,2015,Gesamt
+"5112.08: Andere geniessbare Fleischwaren inkl. Innereien, frisch und tiefgekühlt",7.48452055805008,2015,Gesamt
+"5112.09: Würste, Wurstwaren und Pasteten",26.510809687738,2015,Gesamt
+"5112.10: Schinken, Speck und übriges gesalzenes oder geräuchertes Schweinefleisch",16.6041661198664,2015,Gesamt
+"5112.11: Geflügel, grilliert oder geräuchert",0.880407086565853,2015,Gesamt
+"5112.12: Übriges gekochtes, getrocknetes, gesalzenes oder geräuchertes Fleisch",5.63575144015663,2015,Gesamt
+5112.13: Fleischkonserven und fleischhaltige Erzeugnisse,0.912690114082683,2015,Gesamt
+5113: Fisch,23.1300805402056,2015,Gesamt
+"5113.01: Fisch, frisch oder tiefgekühlt",12.3597894418259,2015,Gesamt
+"5113.02: Meeresfrüchte, frisch oder tiefgekühlt",3.22517956381476,2015,Gesamt
+"5113.03: Fische und Meeresfrüchte, getrocknet, gesalzen oder geräuchert",3.77304398996983,2015,Gesamt
+"5113.04: Fische und Meeresfrüchte, zubereitet und tiefgekühlt",1.64085194906318,2015,Gesamt
+5113.05: Fisch- und andere Konserven auf Basis von Fisch oder Meeresfrüchten,2.13121559553192,2015,Gesamt
+"5114: Milch, Käse und Eier",90.2288337558208,2015,Gesamt
+5114.01: Vollmilch,8.30325030576344,2015,Gesamt
+5114.02: Milchdrink und Magermilch,5.11545684661937,2015,Gesamt
+5114.03: Hart- und Halbhartkäse,27.2563194048621,2015,Gesamt
+"5114.04: Weich-, Frisch- und Schmelzkäse",13.2427197244165,2015,Gesamt
+5114.05: Rahm,6.5637483454234,2015,Gesamt
+5114.06: Quark,1.7555933003281,2015,Gesamt
+5114.07: Joghurt,12.5866094616858,2015,Gesamt
+5114.08: Andere Milchprodukte und Milch-Ersatzgetränke,5.78433837592465,2015,Gesamt
+5114.09: Frische Eier,8.66311208461422,2015,Gesamt
+5114.10: Verarbeitete Eier,0.957685906183247,2015,Gesamt
+5115: Speisefette und -öle,14.1833080847065,2015,Gesamt
+5115.01: Butter,7.11790091438309,2015,Gesamt
+5115.02: Margarine,0.897673442033242,2015,Gesamt
+5115.03: Andere Pflanzenfette,0.548349099873373,2015,Gesamt
+5115.04: Olivenöl,3.24418023616712,2015,Gesamt
+5115.05: Andere pflanzliche Speiseöle und tierische Speisefette,2.37520439224968,2015,Gesamt
+5116: Früchte,56.8388675401341,2015,Gesamt
+5116.01: Zitronen,1.32658547993153,2015,Gesamt
+5116.02: Orangen und übrige Zitrusfrüchte,5.47825423594719,2015,Gesamt
+5116.03: Bananen,4.12678253718459,2015,Gesamt
+5116.04: Äpfel,7.1626211893872,2015,Gesamt
+5116.05: Birnen und Quitten,1.80524022609597,2015,Gesamt
+5116.06: Steinobst,7.87922663155218,2015,Gesamt
+5116.07: Beeren,7.08189199455086,2015,Gesamt
+5116.08: Trauben,2.79976190064775,2015,Gesamt
+5116.09: Melonen und Wassermelonen,1.93176204734273,2015,Gesamt
+5116.10: Übrige exotische Früchte,5.30838436516638,2015,Gesamt
+"5116.11: Nüsse, andere Schalenfrüchte und ölhaltige Früchte",7.48961494295635,2015,Gesamt
+5116.12: Anderes Dörrobst,2.75542309289422,2015,Gesamt
+5116.13: Fruchtkonserven,1.69331889647715,2015,Gesamt
+5117: Gemüse,73.1150470538103,2015,Gesamt
+5117.01: Grüne Salate und anderes Blattgemüse,12.8499391940926,2015,Gesamt
+"5117.02: Stengelgemüse (Lauch, Fenchel, Sojabohnensprossen, usw.)",2.65715380585052,2015,Gesamt
+5117.03: Küchenkräuter,2.1227281610207,2015,Gesamt
+5117.04: Kohlgemüse,3.08001031042809,2015,Gesamt
+5117.05: Tomaten,7.92643392444857,2015,Gesamt
+5117.06: Bohnen und Erbsen,2.29752409631479,2015,Gesamt
+"5117.07: Anderes Fruchtgemüse (Kürbis, Peperoni, usw.)",8.17123724778252,2015,Gesamt
+5117.08: Zwiebeln,1.99779584680086,2015,Gesamt
+5117.09: Knoblauch,0.491414319481695,2015,Gesamt
+5117.10: Rüben und anderes Wurzelgemüse,9.34220226389832,2015,Gesamt
+5117.11: Frische Pilze,2.23145667222284,2015,Gesamt
+"5117.12: Pilze und Gemüse, getrocknet oder gedörrt",1.1255479074591,2015,Gesamt
+5117.13: Gemüse und Pilze in Konserven oder anders verarbeitet,5.57420144760922,2015,Gesamt
+5117.14: Kartoffeln,5.59697598131546,2015,Gesamt
+5117.15: Kartoffelhaltige Produkte und anderes Knollengemüse,7.65042587508504,2015,Gesamt
+"5118: Zucker, Konfitüren, Honig, Schokolade und Süsswaren",38.702379212565,2015,Gesamt
+5118.01: Zucker,1.67505914987401,2015,Gesamt
+"5118.02: Konfitüren, Marmeladen, Kompott",3.72153420655199,2015,Gesamt
+5118.03: Honig,2.11912349392521,2015,Gesamt
+5118.04: Schokolade,19.0351551421916,2015,Gesamt
+5118.05: Süsswaren,5.26989749118727,2015,Gesamt
+5118.06: Speiseeis,6.26390833279177,2015,Gesamt
+5118.07: Andere zucker- und/oder kakaohaltige Produkte,0.617701396043094,2015,Gesamt
+"5119: Saucen, Salz, Gewürze, Suppen und sonstige Nahrungsmittel",41.6861224589664,2015,Gesamt
+"5119.01: Saucen, Würzstoffe und Würze",12.2164541086972,2015,Gesamt
+5119.02: Salz und Gewürze,2.57158034652466,2015,Gesamt
+5119.03: Suppen und Bouillons,3.1084770025182,2015,Gesamt
+"5119.04: Aromaessenzen, Backpulver und Presshefe",0.749686481269358,2015,Gesamt
+5119.05: Küchenfertige Mahlzeiten,12.5392033802327,2015,Gesamt
+5119.06: Vegetarische Sojaprodukte,1.04730672264015,2015,Gesamt
+5119.07: Sonstige Nahrungsmittel,7.74124724195292,2015,Gesamt
+5119.08: Babynahrung,1.71216717513123,2015,Gesamt
+512: Alkoholfreie Getränke,56.0789457433901,2015,Gesamt
+"5121: Kaffee, Tee und Kakao",24.0953596177054,2015,Gesamt
+5121.01: Bohnenkaffee und gemahlener Kaffee,18.2233251041347,2015,Gesamt
+5121.02: Löslicher Pulverkaffee und Kaffeesurrogate,1.60348167895097,2015,Gesamt
+"5121.03: Tee, Kräutertee und Surrogate",3.19018599460155,2015,Gesamt
+5121.04: Kakaohaltige Getränke,1.07836684001824,2015,Gesamt
+"5122: Mineralwasser, Limonaden und Säfte",31.9835861256847,2015,Gesamt
+5122.01: Mineralwasser,8.38356998113357,2015,Gesamt
+5122.02: Alkoholfreie Süssgetränke,12.952379971149,2015,Gesamt
+5122.03: Sirupe für Getränke,1.19146055527956,2015,Gesamt
+5122.04: Fruchtsäfte,9.10901986563382,2015,Gesamt
+5122.05: Gemüsesäfte,0.347155752488683,2015,Gesamt
+52: Alkoholische Getränke und Tabakwaren,105.113265775506,2015,Gesamt
+521: Alkoholische Getränke,69.0995034708852,2015,Gesamt
+5211: Branntweine,7.83488562831015,2015,Gesamt
+5211.01: Branntweine,6.23061273397279,2015,Gesamt
+5211.02: Alkoholische und alkoholfreie Liköre und likörhaltige Aperitifs,1.60427289433736,2015,Gesamt
+5212: Weine,50.7951386746026,2015,Gesamt
+5212.01: Schweizer Rotweine und Rosés,6.06870963476103,2015,Gesamt
+5212.02: Ausländische Rotweine und Rosés,19.5740418508132,2015,Gesamt
+5212.03: Rotweine und Rosés ohne Herkunftsangabe,7.69385354766391,2015,Gesamt
+5212.04: Schweizer Weissweine,4.85414289217226,2015,Gesamt
+5212.05: Ausländische Weissweine,3.9969563920015,2015,Gesamt
+5212.06: Weissweine ohne Herkunftsangabe,2.514962927331,2015,Gesamt
+5212.07: Schaumweine,4.53319082691105,2015,Gesamt
+"5212.08: Auf Wein basierte Aperitifs, Apfelweine und Süssweine",0.906238338559681,2015,Gesamt
+"5212.09: Alkoholfreie Weine, Apfelweine und Aperitifs",0.653042264388994,2015,Gesamt
+5213: Bier,10.4694791679725,2015,Gesamt
+5213.00: Alkoholhaltiges und alkoholfreies Bier,10.4694791679725,2015,Gesamt
+522: Tabakwaren,36.0137623046207,2015,Gesamt
+5220: Tabakwaren,36.0137623046207,2015,Gesamt
+5220.01: Zigaretten,33.2412522129967,2015,Gesamt
+"5220.02: Zigarren, Zigarillos und andere Tabakwaren (inkl. Drogen)",2.772510091624,2015,Gesamt
+53: Gast- und Beherbergungsstätten,539.027100803352,2015,Gesamt
+531: Gaststätten,446.116541018042,2015,Gesamt
+"5311: Restaurants, Cafés und Bars",295.007976255081,2015,Gesamt
+"5311.01: Mahlzeiten in Restaurants, Cafés und Bars",190.976925352555,2015,Gesamt
+"5311.02: Alkoholfreie Getränke in Restaurants, Cafés und Bars",53.7264359813008,2015,Gesamt
+"5311.03: Alkoholische Getränke in Restaurants, Cafés und Bars",50.3046149212254,2015,Gesamt
+5312: Selbstbedienungsrestaurants und Take-aways,69.9942389836694,2015,Gesamt
+5312.01: Mahlzeiten in Selbstbedienungsrestaurants und Take-aways,50.8520231318853,2015,Gesamt
+5312.02: Alkoholfreie Getränke in Selbstbedienungsrestaurants und Take-aways,11.4902479625021,2015,Gesamt
+5312.03: Alkoholische Getränke in Selbstbedienungsrestaurants und Take-aways,7.6519678892821,2015,Gesamt
+5313: Kantinen,34.1363329542821,2015,Gesamt
+5313.01: Mahlzeiten in Kantinen,28.3651073097823,2015,Gesamt
+5313.02: Alkoholfreie Getränke in Kantinen,5.39144652644779,2015,Gesamt
+5313.03: Alkoholische Getränke in Kantinen,0.379779118052014,2015,Gesamt
+5314: Bei Privaten,46.9779928250097,2015,Gesamt
+5314.01: Mahlzeiten bei Privaten anlässlich von Einladungen,32.3507672647809,2015,Gesamt
+5314.02: Alkoholfreie Getränke bei Privaten anlässlich von Einladungen,5.48843591810787,2015,Gesamt
+5314.03: Alkoholische Getränke bei Privaten anlässlich von Einladungen,9.13878964212098,2015,Gesamt
+532: Beherbergungsstätten,92.9105597853095,2015,Gesamt
+5320: Beherbergungsstätten,92.9105597853095,2015,Gesamt
+"5320.01: Hotels, Pensionen und Privatzimmer",70.4455859874187,2015,Gesamt
+"5320.02: Ferienwohnungen, Campingplätze und sonstige Übernachtungen",22.4649737978908,2015,Gesamt
+56: Bekleidung und Schuhe,205.991438174674,2015,Gesamt
+561: Bekleidung,164.349914533025,2015,Gesamt
+5611: Kleiderstoffe,0.9690625647182,2015,Gesamt
+5611.00: Kleiderstoffe,0.9690625647182,2015,Gesamt
+5612: Herrenbekleidung,47.9175508677212,2015,Gesamt
+"5612.01: Herrenmäntel, -jacken und -anzüge",13.3205041795533,2015,Gesamt
+5612.02: Hosen für Herren,10.7042462964058,2015,Gesamt
+5612.03: Hemden für Herren,6.02047664596985,2015,Gesamt
+5612.04: Pullover und T-shirts für Herren,8.62335482991486,2015,Gesamt
+5612.05: Unterwäsche und übrige Herrenbekleidung,3.53220082936822,2015,Gesamt
+5612.06: Sport- und Arbeitskleider für Herren,5.7167680865092,2015,Gesamt
+5613: Damenbekleidung,85.7691516773466,2015,Gesamt
+"5613.01: Mäntel, Jacken und Anzüge für Damen",16.5869392614625,2015,Gesamt
+5613.02: Röcke für Damen,9.09761847689002,2015,Gesamt
+5613.03: Hosen für Damen,16.6979944695874,2015,Gesamt
+5613.04: Blusen für Damen,7.71168304306577,2015,Gesamt
+5613.05: Pullover und T-shirts für Damen,19.0087721774746,2015,Gesamt
+5613.06: Unterwäsche und übrige Damenbekleidung,9.79845816779755,2015,Gesamt
+5613.07: Sport- und Arbeitskleider für Damen,6.8676860810688,2015,Gesamt
+5614: Kinderbekleidung (0 bis 13 Jahre),16.509553166018,2015,Gesamt
+"5614.01: Mäntel, Jacken und Anzüge für Kinder ab 3 Jahren",2.15922442262047,2015,Gesamt
+5614.02: Hosen für Kinder ab 3 Jahren,2.28689496204781,2015,Gesamt
+"5614.03: Blusen, Pullover und T-Shirts für Kinder ab 3 Jahren",3.12001105171908,2015,Gesamt
+5614.04: Unterwäsche und übrige Kleider für Kinder ab 3 Jahren,1.85689290013782,2015,Gesamt
+5614.05: Sportkleider für Kinder ab 3 Jahren,1.9299167527606,2015,Gesamt
+5614.06: Kleider für Kleinkinder bis 2 Jahre,5.15661307673217,2015,Gesamt
+"5615: Bekleidungszubehör, Näh- und Strickwaren",8.14413233599036,2015,Gesamt
+5615.01: Bekleidungszubehör,6.56904153494851,2015,Gesamt
+5615.02: Näh- und Strickwaren,1.57509080104184,2015,Gesamt
+"5616: Reinigung, Reparaturen und Miete von Bekleidung",5.04046392123068,2015,Gesamt
+"5616.00: Reinigung, Reparaturen und Miete von Bekleidung",5.04046392123068,2015,Gesamt
+562: Schuhe,41.6415236416486,2015,Gesamt
+5621: Herrenschuhe,13.25999956636,2015,Gesamt
+5621.00: Herrenschuhe,13.25999956636,2015,Gesamt
+5622: Damenschuhe,21.3893737954644,2015,Gesamt
+5622.00: Damenschuhe,21.3893737954644,2015,Gesamt
+5623: Kinder- und Bébéschuhe,5.75842564697021,2015,Gesamt
+5623.00: Kinder- und Bébéschuhe,5.75842564697021,2015,Gesamt
+5624: Reparaturen und Miete von Schuhen,1.23372463285398,2015,Gesamt
+"5624.00: Reparaturen und Miete von Schuhen, Zubehör für Schuhe",1.23372463285398,2015,Gesamt
+57: Wohnen und Energie,1419.15416403532,2015,Gesamt
+"571: Miete, Hypothekarzinsen, Nebenkosten und Energie des Hauptwohnsitzes",1318.78133780694,2015,Gesamt
+5711: Nettomiete oder Hypothekarzinsen des Hauptwohnsitzes,1046.26714322541,2015,Gesamt
+5711.00: Nettomiete oder Hypothekarzinsen des Hauptwohnsitzes,1046.26714322541,2015,Gesamt
+5712: Nebenkosten des Hauptwohnsitzes,140.058545504817,2015,Gesamt
+5712.01: Nebenkosten pauschal des Hauptwohnsitzes,93.3540488873816,2015,Gesamt
+5712.02: Kehrichtabfuhrgebühren des Hauptwohnsitzes,9.26043841939953,2015,Gesamt
+5712.03: Abwassergebühren des Hauptwohnsitzes,3.81562452460578,2015,Gesamt
+5712.04: Wasserzins des Hauptwohnsitzes,4.99385166440683,2015,Gesamt
+5712.05: Laufende Unterhaltskosten des Hauptwohnsitzes,28.6345820090236,2015,Gesamt
+5713: Energie des Hauptwohnsitzes,132.455649076713,2015,Gesamt
+5713.01: Elektrizität des Hauptwohnsitzes,72.8975577926545,2015,Gesamt
+5713.02: Gas und andere Brennstoffe des Hauptwohnsitzes,30.7697853749469,2015,Gesamt
+5713.03: Zentralheizung oder Fernwärme des Hauptwohnsitzes,28.7883059091119,2015,Gesamt
+"572: Miete, Hypothekarzinsen, Nebenkosten und Energie der Nebenwohnsitze",34.16206088338,2015,Gesamt
+5721: Nettomiete und Hypothekarzinsen der Nebenwohnsitze,19.7413509009173,2015,Gesamt
+5721.00: Nettomiete und Hypothekarzinsen der Nebenwohnsitze,19.7413509009173,2015,Gesamt
+5722: Nebenkosten der Nebenwohnsitze,9.74556658301254,2015,Gesamt
+5722.00: Nebenkosten der Nebenwohnsitze,9.74556658301254,2015,Gesamt
+5723: Energie (Nebenwohnsitze),4.67514339945017,2015,Gesamt
+5723.00: Energie der Nebenwohnsitze,4.67514339945017,2015,Gesamt
+573: Reparaturen und Unterhalt der Wohnung,66.2107653450047,2015,Gesamt
+5730: Reparaturen und Unterhalt der Wohnung,66.2107653450047,2015,Gesamt
+5730.01: Baumaterial für selbst durchgeführte Reparaturen,7.34968379004375,2015,Gesamt
+5730.02: Reparaturen durch Dritte,58.861081554961,2015,Gesamt
+58: Wohnungseinrichtung und laufende Haushaltsführung,223.338546685651,2015,Gesamt
+"581: Möbel, Dekoration und Bodenbeläge, inkl. Reparaturen",73.9164156141884,2015,Gesamt
+"5810: Möbel, Dekoration und Bodenbeläge, inkl. Reparaturen",73.9164156141884,2015,Gesamt
+5810.01: Möbel für Wohnzimmer oder Büro,24.00944936517,2015,Gesamt
+5810.02: Möbel für Schlafzimmer oder Kinderzimmer,15.7152665791447,2015,Gesamt
+"5810.03: Möbel für Küche, Badzimmer, Garten und andere Räume",19.6017539863004,2015,Gesamt
+5810.04: Einrichtungszubehör und Kunstwerke,11.6891398673485,2015,Gesamt
+5810.05: Teppiche und andere Bodenbeläge,2.90080581622485,2015,Gesamt
+582: Haushaltswäsche und Heimtextilien,26.1328669646129,2015,Gesamt
+5820: Haushaltswäsche und Heimtextilien,26.1328669646129,2015,Gesamt
+"5820.01: Matratzen, Duvets und Kissen",10.3826270339746,2015,Gesamt
+"5820.02: Decken, Bettwäsche, andere Haushaltswäsche und -textilien",10.0080114090342,2015,Gesamt
+"5820.03: Wandbehänge, Vorhänge, Möbelbezugsstoffe und Zubehör",5.74222852160415,2015,Gesamt
+583: Haushalts- und Küchengeräte,52.3255018361673,2015,Gesamt
+5831: Haushaltgeräte,34.7543782934809,2015,Gesamt
+"5831.01: Kühlschränke, Geschirrspülmaschinen, Waschmaschinen und Wäschetrockner",12.6792342784501,2015,Gesamt
+"5831.02: Kochherde, Grills, Heiz- und Raumpflegegeräte",11.3139419978544,2015,Gesamt
+5831.03: Kleine elektrische Haushaltsgeräte,9.03025013952882,2015,Gesamt
+5831.04: Reparaturen von Haushaltsgeräten,1.73095187764761,2015,Gesamt
+5832: Küchen- und Kochgeräte,17.5711235426864,2015,Gesamt
+"5832.01: Glaswaren, Geschirr",4.59774951729571,2015,Gesamt
+5832.02: Besteck,0.366189833727344,2015,Gesamt
+5832.03: Küchen- und Kochgeräte,8.17423913330166,2015,Gesamt
+5832.04: Anderes Zubehör für die Haushaltsführung,4.4329450583617,2015,Gesamt
+584: Werkzeuge für Haus und Garten,24.1486040276823,2015,Gesamt
+5841: Werkzeuge und Zubehör ohne Motor für Haus und Garten,19.0281075036995,2015,Gesamt
+5841.01: Kleinmaterial und Zubehör für den Unterhalt von Haus und Garten,15.4584111611038,2015,Gesamt
+5841.02: Werkzeuge ohne Motor für Haus und Garten,3.56969634259566,2015,Gesamt
+5842: Maschinen mit Motor für Haus und Garten,5.12049652398287,2015,Gesamt
+5842.00: Maschinen mit Motor für Haus und Garten,5.12049652398287,2015,Gesamt
+585: Laufende Haushaltsführung,46.8151582429995,2015,Gesamt
+5851: Nicht dauerhafte Haushaltsartikel,30.6679953799135,2015,Gesamt
+5851.01: Wasch- und Reinigungsmittel,17.716992240439,2015,Gesamt
+5851.02: Reinigungsmaterial,1.12597672863331,2015,Gesamt
+"5851.03: Abfallsäcke ohne Gebühren, aus Plastik oder Papier",0.315263981076236,2015,Gesamt
+5851.04: Sonstige nicht dauerhafte Haushaltsartikel,11.509762429765,2015,Gesamt
+5852: Häusliche Dienste,16.147162863086,2015,Gesamt
+5852.00: Häusliche Dienste,16.147162863086,2015,Gesamt
+61: Gesundheitsausgaben [2],257.647377029352,2015,Gesamt
+"611: Pharmazeutische Produkte, Sanitätsmaterial und medizinische Geräte",70.8994400450121,2015,Gesamt
+"6110: Pharmazeutische Produkte, Sanitätsmaterial und medizinische Geräte",70.8994400450121,2015,Gesamt
+6110.01: Medikamente,35.4983872600839,2015,Gesamt
+6110.02: Brillen und Kontaktlinsen,25.3618557040498,2015,Gesamt
+"6110.03: Sanitätsmaterial, therapeutische Geräte und Material",10.0391970808784,2015,Gesamt
+612: Arztleistungen und Dienstleistungen der Spitäler,186.74793698434,2015,Gesamt
+6120: Arztleistungen und Dienstleistungen der Spitäler,186.74793698434,2015,Gesamt
+6120.01: Arztleistungen,69.1873572753851,2015,Gesamt
+6120.02: Zahnarztleistungen,62.3985334461444,2015,Gesamt
+6120.03: Medizinische Labors und Röntgeninstitute,5.40225392018088,2015,Gesamt
+6120.04: Dienstleistungen der Spitäler,16.9186218729769,2015,Gesamt
+6120.05: Andere ambulante medizinische Dienstleistungen,32.8411704696531,2015,Gesamt
+62: Verkehr,705.162745683393,2015,Gesamt
+621: Kauf und Betrieb von Personenfahrzeugen,549.915518792385,2015,Gesamt
+6211: Autos,179.995928025759,2015,Gesamt
+6211.01: Neue Autos,99.1933281425348,2015,Gesamt
+6211.02: Occasionsautos,80.8025998832246,2015,Gesamt
+"6212: Motorräder, Motorroller und Mopeds",11.2846101205622,2015,Gesamt
+"6212.00: Motorräder, Motorroller und Mopeds",11.2846101205622,2015,Gesamt
+6213: Fahrräder,10.3924657149974,2015,Gesamt
+6213.00: Fahrräder,10.3924657149974,2015,Gesamt
+6214: Zubehör und Ersatzteile für Fahrzeuge,22.3808248743244,2015,Gesamt
+6214.01: Zubehör und Ersatzteile für motorisierte Fahrzeuge,20.1758150335876,2015,Gesamt
+6214.02: Zubehör und Ersatzteile für nicht-motorisierte Fahrzeuge,2.20500984073687,2015,Gesamt
+6215: Treibstoffe und Schmiermittel,127.192069375565,2015,Gesamt
+6215.01: Benzin,91.8051344123375,2015,Gesamt
+6215.02: Diesel,34.1413529594435,2015,Gesamt
+6215.03: Schmiermittel und andere Pflegemittel für Fahrzeuge,1.24558200378389,2015,Gesamt
+6216: Service und Reparaturen an Fahrzeugen,59.3060705073315,2015,Gesamt
+6216.00: Service und Reparaturen an Fahrzeugen,59.3060705073315,2015,Gesamt
+6217: Übrige Dienstleistungen im Bereich Personenfahrzeuge,139.363550173845,2015,Gesamt
+6217.01: Miete von Garagen und Einstellplätzen,34.3596588103671,2015,Gesamt
+6217.02: Parkieren,12.0414648600296,2015,Gesamt
+6217.03: Leasing von Fahrzeugen,62.5823848590488,2015,Gesamt
+6217.04: Autobahnvignetten Schweiz,3.08825488146705,2015,Gesamt
+6217.05: Übrige Dienstleistungen (Fahrzeugmiete usw.),27.2917867629326,2015,Gesamt
+622: Verkehrsdienstleistungen,155.247226891008,2015,Gesamt
+6221: Beförderung von Personen auf Schienen,26.7115074400603,2015,Gesamt
+"6221.01: Zug, Billette oder Streckenabonnemente",24.9603336217527,2015,Gesamt
+"6221.02: Tram, Billette oder Streckenabonnemente",1.7511738183076,2015,Gesamt
+6222: Beförderung von Personen auf Strassen,8.28523078986124,2015,Gesamt
+"6222.01: Bus, Billette oder Streckenabonnemente",3.83283844571201,2015,Gesamt
+6222.02: Taxifahrten,4.45239234414923,2015,Gesamt
+6223: Beförderung von Personen mit Flugzeugen,39.7903958303245,2015,Gesamt
+"6223.00: Flugzeug, Billette",39.7903958303245,2015,Gesamt
+6224: Beförderung von Personen auf Wasserwegen,1.86039194288991,2015,Gesamt
+"6224.00: Schiff, Billette oder Streckenabonnemente",1.86039194288991,2015,Gesamt
+6225: Kombinierte Transportmittel,74.3920280979115,2015,Gesamt
+6225.01: Generalabonnemente und Tageskarten SBB,40.5840597620169,2015,Gesamt
+6225.02: Halbtaxabonnemente SBB,7.19471415921863,2015,Gesamt
+6225.03: Billette für regionalen oder städtischen Verkehrsverbund,7.9955582311075,2015,Gesamt
+6225.04: Abonnemente für regionalen oder städtischen Verkehrsverbund,18.6176959455684,2015,Gesamt
+6226: Weitere Verkehrsdienstleistungen,4.20767278996019,2015,Gesamt
+6226.00: Andere Personen- oder Warentransporte ohne Skilifte,4.20767278996019,2015,Gesamt
+63: Nachrichtenübermittlung,178.88996871546,2015,Gesamt
+631: Posttaxen,4.87550453116651,2015,Gesamt
+6310: Posttaxen,4.87550453116651,2015,Gesamt
+6310.00: Posttaxen,4.87550453116651,2015,Gesamt
+632: Apparate und Dienstleistungen für Telekommunikation,174.014464184293,2015,Gesamt
+6321: Kauf und Miete von Telefonapparaten und Faxgeräten,10.4771694026387,2015,Gesamt
+6321.00: Kauf und Miete von Telefonapparaten und Faxgeräten,10.4771694026387,2015,Gesamt
+6322: Festnetztelefonie,79.8841368796597,2015,Gesamt
+6322.01: Festnetz: Abonnementsgebüren oder Pauschalgebühren,66.7865295058794,2015,Gesamt
+6322.02: Festnetz: Gesprächsgebühren,6.32091790351599,2015,Gesamt
+6322.03: Festnetz: Gebühren fürs Internet,6.77668947026423,2015,Gesamt
+6323: Mobiltelefonie,77.145364299428,2015,Gesamt
+6323.01: Mobiltelefonie: Abonnementsgebüren oder Pauschalgebühren,64.5786947233487,2015,Gesamt
+6323.02: Mobiltelefonie: Gesprächs- und Internetgebühren,12.5666695760793,2015,Gesamt
+6324: Dienstleistungen von Internetprovidern ohne Telefonabonnement,6.50779360256706,2015,Gesamt
+6324.01: Internetprovider ohne Telefonabonnement: Dienstleistungen durch TV-Kabelnetz,4.94007465629005,2015,Gesamt
+6324.02: Internetprovider ohne Telefonabonnement: Andere Dienstleistungen,1.56771894627701,2015,Gesamt
+"66: Unterhaltung, Erholung und Kultur",517.577145936729,2015,Gesamt
+"661: Audiovisuelle-, Foto- und EDV-Ausrüstung und Zubehör",54.62212255788,2015,Gesamt
+"6611: Radios, Audio-, Fernseh- und Videogeräte",16.7871165837017,2015,Gesamt
+"6611.00: Radios, Audio-, Fernseh- und Videogeräte",16.7871165837017,2015,Gesamt
+"6612: Foto- und Filmausrüstungen, optische Instrumente",6.70739884737996,2015,Gesamt
+"6612.00: Foto- und Filmausrüstungen, optische Instrumente",6.70739884737996,2015,Gesamt
+"6613: Computer, Büromaschinen und andere Peripheriegeräte",24.5535487637253,2015,Gesamt
+6613.01: Computer,14.2013089397995,2015,Gesamt
+"6613.02: Drucker, elektronische Agenden und anderes Informatikzubehör",10.3522398239258,2015,Gesamt
+"6614: Tonträger, Datenträger, Videokassetten und Filme",6.57405836307309,2015,Gesamt
+"6614.01: Musiktonträger, unbespielt oder bespielt",2.52298302337188,2015,Gesamt
+"6614.02: DVD und VHS, unbespielt oder bespielt",2.48716841376475,2015,Gesamt
+"6614.03: Multimediadatenträger, unbespielt oder bespielt",1.56390692593646,2015,Gesamt
+662: Weitere Ausstattung und Artikel für Unterhaltungszwecke,104.82240175324,2015,Gesamt
+6621: Dauerhafte Güter für Freizeit und Sport,12.9867022424504,2015,Gesamt
+6621.00: Dauerhafte Güter für Freizeit und Sport,12.9867022424504,2015,Gesamt
+"6622: Spielzeug, Gesellschaftsspiele und Zeitvertreib",18.2824344063316,2015,Gesamt
+6622.01: Spielzeuge,8.75858626270739,2015,Gesamt
+6622.02: Gesellschaftsspiele,1.11297065185061,2015,Gesamt
+6622.03: Elektronische oder elektrische Spiele,2.98244052139884,2015,Gesamt
+6622.04: Sammlungen und sonstige Waren für Unterhaltungszwecke,5.42843697037474,2015,Gesamt
+6623: Sport- und Campingartikel sowie Zubehör,17.6194028421257,2015,Gesamt
+6623.01: Wintersportartikel,5.21031586078719,2015,Gesamt
+6623.02: Andere Sportartikel,10.4001771466983,2015,Gesamt
+6623.03: Camping- und nichtsportliche Freizeitartikel,2.00890983464022,2015,Gesamt
+6624: Pflanzen und nicht dauerhafte Güter für die Gartenpflege,28.3094883689311,2015,Gesamt
+6624.00: Pflanzen und nicht dauerhafte Güter für die Gartenpflege,28.3094883689311,2015,Gesamt
+6625: Haustiere und Produkte für deren Haltung,27.6243738934017,2015,Gesamt
+6625.01: Haustiere und Produkte für deren Haltung,16.5177529218775,2015,Gesamt
+6625.02: Tierarztleistungen und übrige Dienstleistungen für Haustiere,11.1066209715241,2015,Gesamt
+"663: Dienstleistungen für Sport, Erholung und Kultur",181.114660001724,2015,Gesamt
+6631: Dienstleistungen für Sport und Erholung,93.5212498737554,2015,Gesamt
+6631.01: Eintritte für Sportveranstaltungen,2.90105360856396,2015,Gesamt
+"6631.02: Dienstleistungen von Sport- und Freizeitanlagen, ohne Skilifte",30.9071421126096,2015,Gesamt
+"6631.03: Billette und Abonnemente für Seilbahnen, inklusiv Skilifte",9.91622062680182,2015,Gesamt
+6631.04: Miete von Sport- und Freizeitartikeln,4.72369243276752,2015,Gesamt
+6631.05: Sport- und Bastelkurse,13.682550790473,2015,Gesamt
+6631.06: Musik- und Tanzkurse,11.3413179387608,2015,Gesamt
+6631.07: Beiträge an Sportclubs oder -vereine,7.58768330812263,2015,Gesamt
+6631.08: Beiträge an Freizeitvereine,1.84466854062998,2015,Gesamt
+6631.09: Andere Kurse im Freizeitbereich,10.6169205150262,2015,Gesamt
+6632: Kulturelle Dienstleistungen,79.1376516030332,2015,Gesamt
+6632.01: Theater und Konzerte,17.1812926965238,2015,Gesamt
+6632.02: Kino,5.09410445844582,2015,Gesamt
+"6632.03: Museen, Ausstellungen, Bibliotheken, zoologische Gärten u.ä.",6.05569011409371,2015,Gesamt
+6632.04: Radio- und Fernsehkonzession,33.2282294027317,2015,Gesamt
+6632.05: Abonnemente für Privatfernsehen,3.35049881434927,2015,Gesamt
+6632.06: Abonnemente für Kabelfernsehen,8.90978847544374,2015,Gesamt
+6632.07: Miete von Geräten und von DVDs und CDs,0.313858054723986,2015,Gesamt
+6632.08: Beiträge an kulturelle Vereinigungen,1.52358399035829,2015,Gesamt
+6632.09: Sonstige Dienstleistungen im Unterhaltungs- und Kulturbereich,3.48060559636291,2015,Gesamt
+6633: Spieleinsätze,8.45575852493537,2015,Gesamt
+6633.00: Spieleinsätze (Lotto und andere Spiele),8.45575852493537,2015,Gesamt
+"664: Bücher, Presseerzeugnisse und Papeteriewaren",54.3142787999477,2015,Gesamt
+6641: Bücher und Broschüren,14.9527602135236,2015,Gesamt
+6641.00: Bücher und Broschüren,14.9527602135236,2015,Gesamt
+6642: Zeitungen und Zeitschriften,27.0441670871791,2015,Gesamt
+"6642.01: Zeitungen und Zeitschriften, Einzelausgaben",4.1733258482068,2015,Gesamt
+"6642.02: Zeitungen und Zeitschriften, Abonnemente",22.8708412389723,2015,Gesamt
+6643: Übrige Druckerzeugnisse,12.317351499245,2015,Gesamt
+6643.01: Übrige Druckerzeugnisse,4.87666335377242,2015,Gesamt
+6643.02: Schreib- und Zeichenmaterial,7.44068814547254,2015,Gesamt
+665: Pauschalreisen,122.703682823937,2015,Gesamt
+6650: Pauschalreisen,122.703682823937,2015,Gesamt
+6650.00: Pauschalreisen,122.703682823937,2015,Gesamt
+67: Schul- und Ausbildungsgebühren,40.3015192563078,2015,Gesamt
+670: Schul- und Ausbildungsgebühren,40.3015192563078,2015,Gesamt
+6700: Schul- und Ausbildungsgebühren,40.3015192563078,2015,Gesamt
+"6700.01: Kindergarten, Primarschule, Real- und Sekundarschule (bis 9. Schuljahr)",11.1301394630281,2015,Gesamt
+"6700.02: Gymnasium, Berufsmatur, Berufs- und Wirtschaftsschulen, höhere Berufsbildung",5.35444428347001,2015,Gesamt
+"6700.03: Fachhochschule, Universität, ETH",14.5792670991516,2015,Gesamt
+6700.04: Fortbildungskurse,9.23766841065815,2015,Gesamt
+68: Andere Waren und Dienstleistungen,247.223598959601,2015,Gesamt
+681: Körperpflege,107.087947952276,2015,Gesamt
+6811: Apparate und Artikel für die Körperpflege,59.6928171626268,2015,Gesamt
+6811.01: Elektrische Apparate für die Körperpflege,2.93322196166942,2015,Gesamt
+6811.02: Nichtelektrische Apparate für die Körperpflege,4.1215124087495,2015,Gesamt
+6811.03: Nichtdauerhafte Artikel aus Watte und Papier für Körperpflege,11.1753286508054,2015,Gesamt
+6811.04: Körperseife und Badezusatz,3.82324111763678,2015,Gesamt
+6811.05: Haarpflegemittel,5.45417220104968,2015,Gesamt
+6811.06: Zahnpflegemittel,3.31694678996381,2015,Gesamt
+6811.07: Sonstige Körperpflege- und Kosmetikprodukte,28.8683940327523,2015,Gesamt
+6812: Coiffeur und Körperpflege,47.3951307896487,2015,Gesamt
+6812.00: Coiffeur und Körperpflege,47.3951307896487,2015,Gesamt
+682: Persönliche Ausstattung,37.2847044168965,2015,Gesamt
+6820: Persönliche Ausstattung,37.2847044168965,2015,Gesamt
+6820.01: Schmuck und Uhren,21.9112976277432,2015,Gesamt
+"6820.02: Reise-, Leder- und Babyartikel",13.2802848366013,2015,Gesamt
+6820.03: Übrige persönliche Ausstattung,2.09312195255195,2015,Gesamt
+"683: Soziale, finanzielle und andere Dienstleistungen",102.850946590429,2015,Gesamt
+6831: Soziale Dienstleistungen,39.771213244889,2015,Gesamt
+"6831.00: Krippen, Spielgruppen und andere soziale Dienstleistungen",39.771213244889,2015,Gesamt
+6832: Finanzielle Dienstleistungen,28.2589988130594,2015,Gesamt
+6832.00: Finanzielle Dienstleistungen,28.2589988130594,2015,Gesamt
+6833: Beiträge an Organisationen und Vereine,15.1556110958072,2015,Gesamt
+"6833.01: Beiträge an politische Parteien, Vereinigungen oder Bewegungen",0.753560346291729,2015,Gesamt
+6833.02: Beiträge an Gewerkschaften oder Berufsverbände,4.7021128025101,2015,Gesamt
+6833.03: Beiträge an religiöse Vereinigungen,5.1347705304912,2015,Gesamt
+6833.04: Beiträge an Umweltschutzorganisationen,0.817916834342231,2015,Gesamt
+6833.05: Beiträge an andere Vereine,3.74725058217196,2015,Gesamt
+6834: Andere Dienstleistungen sowie Verluste aus Vermietung,19.6651234366731,2015,Gesamt
+6834.00: Andere Diensteistungen sowie Verluste aus Vermietung,19.6651234366731,2015,Gesamt
+30: Obligatorische Transferausgaben,2538.18769270373,2015,Gesamt
+31: Sozialversicherungsbeiträge,872.570500040674,2015,Gesamt
+310: Sozialversicherungsbeiträge,872.570500040674,2015,Gesamt
+3100: Sozialversicherungsbeiträge,872.570500040674,2015,Gesamt
+"3100.01: AHV, IV und EO: Beiträge",349.700923784648,2015,Gesamt
+3100.02: Arbeitslosenversicherungsbeiträge (ALV),65.7088826991674,2015,Gesamt
+3100.03: Nichtberufsunfallversicherungsbeiträge (NBU),67.9496732074495,2015,Gesamt
+3100.04: Pensionskassenbeiträge (BVG),382.723946155657,2015,Gesamt
+3100.05: Andere Sozialversicherungsbeiträge,6.48707419375256,2015,Gesamt
+32: Steuern,1081.30546491832,2015,Gesamt
+320: Steuern,1081.30546491832,2015,Gesamt
+3200: Steuern,1081.30546491832,2015,Gesamt
+3200.01: Quellensteuer,66.255188213949,2015,Gesamt
+3200.02: Direkte Bundessteuer,145.59128261914,2015,Gesamt
+3200.03: Kantonale Einkommens- und Vermögenssteuern,363.433659456995,2015,Gesamt
+"3200.04: Kommunale, Kirchen- und andere Einkommens- und Vermögenssteuern",295.363244858083,2015,Gesamt
+3200.05: Nicht aufteilbare Einkommens- und Vermögenssteuern (Kanton und Gemeinde),210.662089770157,2015,Gesamt
+33: Krankenkassen: Prämien für die Grundversicherung,584.311727744731,2015,Gesamt
+330: Krankenkassen: Prämien für die Grundversicherung,584.311727744731,2015,Gesamt
+3300: Krankenkassen: Prämien für die Grundversicherung,584.311727744731,2015,Gesamt
+3300.01: Krankenkassen: Prämien für die Grundversicherung,572.925770886361,2015,Gesamt
+3300.02: Krankenkassen: Prämien für die Unfallversicherung (ohne Berufsunfälle),11.3859568583703,2015,Gesamt
+35: Monetäre Transferausgaben an andere Haushalte,204.988423507469,2015,Gesamt
+36: Monetäre Transferausgaben an andere Haushalte,204.988423507469,2015,Gesamt
+360: Monetäre Transferausgaben an andere Haushalte,204.988423507469,2015,Gesamt
+3600: Bezahlte Alimente und Unterstützungsbeiträge,204.988423507469,2015,Gesamt
+3600.01: Bezahlte Alimente,71.0162779207324,2015,Gesamt
+3600.02: Unterstützungsbeiträge an andere private Haushalte,120.033839394744,2015,Gesamt
+3600.03: Regelmässige Geschenke an andere Haushalte,13.9383061919927,2015,Gesamt
+"40: Übrige Versicherungen, Gebühren und Übertragungen",557.042147039654,2015,Gesamt
+41: Krankenkasse: Prämien für Zusatzversicherungen,128.093903882984,2015,Gesamt
+410: Krankenkasse: Prämien für Zusatzversicherungen,128.093903882984,2015,Gesamt
+4100: Krankenkasse: Prämien für Zusatzversicherungen,128.093903882984,2015,Gesamt
+4100.01: Prämien für die Spitalzusatzversicherung,72.8588353625987,2015,Gesamt
+4100.02: Prämien für weitere Zusatzversicherungen,55.2350685203854,2015,Gesamt
+42: Übrige Versicherungsprämien,177.677150345226,2015,Gesamt
+420: Übrige Versicherungsprämien,177.677150345226,2015,Gesamt
+"4201: Prämien für die Haushalts-, Haftpflicht-, Brand- und andere Gebäudeversicherungen",58.0030351026671,2015,Gesamt
+4201.01: Prämien für die Hausratsversicherung (Haushaltsversicherung),14.0463205547309,2015,Gesamt
+4201.02: Prämien für die private Haftpflichtversicherung,5.50141456983074,2015,Gesamt
+4201.03: Hausrats- und Haftpflichtversicherung: kombinierte Prämie,18.0914395049714,2015,Gesamt
+4201.04: Prämien für Brand- und andere Gebäudeversicherungen,20.363860473134,2015,Gesamt
+4202: Prämien für die Fahrzeugversicherung,101.998111345371,2015,Gesamt
+4202.01: Versicherungsprämien für motorisierte Fahrzeuge,101.981558729991,2015,Gesamt
+4203: Prämien für andere Privatversicherungen,17.6760038971875,2015,Gesamt
+4203.01: Prämien für die Rechtsschutzversicherung,6.61667760956898,2015,Gesamt
+"4203.02: Organisationen mit Versicherungsanteil (Rega, ETI-Schutzbrief usw.): Beiträge",8.11293665543919,2015,Gesamt
+4203.03: Prämien für die Reiseversicherung,1.89116946015011,2015,Gesamt
+4203.04: Prämien für andere Privatversicherungen,1.05522017202927,2015,Gesamt
+43: Gebühren,66.8443355602418,2015,Gesamt
+430: Gebühren,66.8443355602418,2015,Gesamt
+4300: Gebühren,66.8443355602418,2015,Gesamt
+4300.01: Liegenschaftssteuer,10.0628792872185,2015,Gesamt
+4300.02: Fahrzeugsteuer,35.3455926213861,2015,Gesamt
+4300.03: Militärpflichtersatz,1.27993071503384,2015,Gesamt
+4300.04: Bussen,3.11517915745117,2015,Gesamt
+4300.05: Gebühren für Dienstleistungen des Staates,6.01536925519066,2015,Gesamt
+4300.06: Andere Gebühren,11.0253845239615,2015,Gesamt
+"44: Spenden, gemachte Geschenke und Einladungen",184.426757251203,2015,Gesamt
+441: Spenden,34.0990643168679,2015,Gesamt
+4410: Spenden,34.0990643168679,2015,Gesamt
+4410.00: Bargeldspenden an private Organisationen ohne Erwerbscharakter,34.0990643168679,2015,Gesamt
+442: Gemachte Geschenke und Einladungen,150.327692934335,2015,Gesamt
+4421: Verschenkte Nahrungsmittel und alkoholfreie Getränke,8.16254492972387,2015,Gesamt
+4421.01: Verschenkte Schokolade und Süsswaren,2.38044568199911,2015,Gesamt
+4421.02: Andere verschenkte Nahrungsmittel und alkoholfreie Getränke,5.78209924772476,2015,Gesamt
+4422: Verschenkte alkoholische Getränke und Tabakwaren,2.5373624335156,2015,Gesamt
+4422.00: Verschenkte alkoholische Getränke und Tabakwaren,2.5373624335156,2015,Gesamt
+4423: Gemachte Einladungen in Gaststätten,72.5035335628102,2015,Gesamt
+"4423.01: Gemachte Einladungen zu Mahlzeiten in Restaurants, Cafés und Bars",38.8701079762903,2015,Gesamt
+"4423.02: Gemachte Einladungen zu alkoholfreien Getränken in Restaurants, Cafés und Bars",10.1559642517789,2015,Gesamt
+"4423.03: Gemachte Einladungen zu alkoholischen Getränken in Restaurants, Cafés und Bars",13.1669901064446,2015,Gesamt
+4423.04: Gemachte Einladungen zu Mahlzeiten in Selbstbedienungsrestaurants,6.04145642058394,2015,Gesamt
+4423.05: Gemachte Einladungen zu alkoholfreien Getränken in Selbstbedienungsrestaurants,1.42299278673067,2015,Gesamt
+4423.06: Gemachte Einladungen zu alkoholischen Getränken in Selbstbedienungsrestaurants,1.67451876632765,2015,Gesamt
+4423.07: Gemachte Einladungen zu Mahlzeiten in Kantinen,0.784584840559496,2015,Gesamt
+4423.08: Gemachte Einladungen zu Getränken in Kantinen,0.386918414094599,2015,Gesamt
+4424: Verschenkte Bekleidung und Schuhe,8.19163677895564,2015,Gesamt
+4424.01: Verschenkte Kinderbekleidung,3.45888621291338,2015,Gesamt
+"4424.02: Andere verschenkte Bekleidung (Herren, Damen) und Schuhe",4.73275056604227,2015,Gesamt
+4425: Gemachte Geschenke: Wohnungseinrichtung und laufende Haushaltsführung,7.61683927495594,2015,Gesamt
+4425.00: Gemachte Geschenke: Wohnungseinrichtung und laufende Haushaltsführung,7.61683927495594,2015,Gesamt
+4426: Gemachte Geschenke: Verkehr,7.08945423533319,2015,Gesamt
+4426.00: Gemachte Geschenke: Verkehr,7.08945423533319,2015,Gesamt
+"4427: Gemachte Geschenke: Unterhaltung, Erholung und Kultur",20.8556422700495,2015,Gesamt
+4427.01: Verschenkte Spielzeuge und Gesellschaftsspiele,4.22646622599245,2015,Gesamt
+4427.02: Verschenkte Pflanzen und nicht dauerhafte Güter für die Gartenpflege,3.78264949138349,2015,Gesamt
+4427.03: Verschenkte Bücher und Broschüren,1.8661624361604,2015,Gesamt
+4427.04: Verschenkte Zeitungen und Zeitschriften,0.188170766092864,2015,Gesamt
+4427.05: Verschenkte übrige Druckerzeugnisse und Schreib- und Zeichenmaterial,0.886078541834719,2015,Gesamt
+"4427.06: Andere gemachte Geschenke: Unterhaltung, Erholung und Kultur",9.90611480858556,2015,Gesamt
+4428: Gemachte Geschenke: andere Waren und Dienstleistungen,23.3706794489909,2015,Gesamt
+4428.01: Gemachte Geschenke: Körperpflege,2.92142818134132,2015,Gesamt
+4428.02: Gemachte Geschenke: Persönliche Ausstattung,3.14184291731478,2015,Gesamt
+4428.03: Andere verschenkte Waren und Dienstleistungen,17.3074083503348,2015,Gesamt
+80: Prämien für die Lebensversicherung,258.201492317306,2015,Gesamt
+81: Prämien für die Lebensversicherung,258.201492317306,2015,Gesamt
+810: Prämien für die Lebensversicherung,258.201492317306,2015,Gesamt
+8100: Prämien für die Lebensversicherung,258.201492317306,2015,Gesamt
+8100.01: Prämien für die Säule 3A (gebundene Lebensversicherung),235.733549480524,2015,Gesamt
+8100.02: Prämien für die Säule 3B (nicht gebundene Lebensversicherung),22.4679428367814,2015,Gesamt
+50: Konsumausgaben,5135.043576525733,2006,Gesamt
+51: Nahrungsmittel und alkoholfreie Getränke,627.3704112324122,2006,Gesamt
+511: Nahrungsmittel,574.3316514270331,2006,Gesamt
+5111: Brot und Getreideprodukte,97.03569591082395,2006,Gesamt
+5111.01: Reis,2.3187331733334893,2006,Gesamt
+5111.02: Teigwaren,8.11662578766276,2006,Gesamt
+5111.03: Brot,29.06982853896913,2006,Gesamt
+"5111.04: Gebäck, süsses und salziges",41.70474766804132,2006,Gesamt
+5111.05: Sandwich,2.2787786646463166,2006,Gesamt
+5111.06: Weizenmehl,1.337191486159293,2006,Gesamt
+"5111.07: Übrige Mehle, Stärken, Griesse, Flocken und Getreidekörner",2.0796800696725186,2006,Gesamt
+5111.08: Andere Produkte auf Getreidebasis,10.130110522339137,2006,Gesamt
+5112: Fleisch,138.0195745916765,2006,Gesamt
+5112.01: Rindfleisch,22.32321779995824,2006,Gesamt
+5112.02: Kalbfleisch,7.364746823991752,2006,Gesamt
+"5112.03: Schweinefleisch, frisch oder tiefgekühlt",19.079622762281716,2006,Gesamt
+5112.04: Pferdefleisch,2.2758381128514134,2006,Gesamt
+5112.05: Schaf- und Ziegenfleisch,4.62874369758012,2006,Gesamt
+"5112.06: Geflügel, frisch oder tiefgekühlt",17.438084723969528,2006,Gesamt
+5112.07: Wild und Kaninchenfleisch,2.3252163206306444,2006,Gesamt
+"5112.08: Andere geniessbare Fleischwaren inkl. Innereien, frisch und tiefgekühlt",7.513374733746402,2006,Gesamt
+"5112.09: Würste, Wurstwaren und Pasteten",29.41814356444957,2006,Gesamt
+"5112.10: Schinken, Speck und übriges gesalzenes oder geräuchertes Schweinefleisch",18.26099695670238,2006,Gesamt
+"5112.11: Geflügel, grilliert oder geräuchert",1.5356453291926493,2006,Gesamt
+"5112.12: Übriges gekochtes, getrocknetes, gesalzenes oder geräuchertes Fleisch",4.876393557533602,2006,Gesamt
+5112.13: Fleischkonserven und fleischhaltige Erzeugnisse,0.9795502087884733,2006,Gesamt
+5113: Fisch,20.539136224750333,2006,Gesamt
+"5113.01: Fisch, frisch oder tiefgekühlt",11.17591845125186,2006,Gesamt
+"5113.02: Meeresfrüchte, frisch oder tiefgekühlt",2.882811458424767,2006,Gesamt
+"5113.03: Fische und Meeresfrüchte, getrocknet, gesalzen oder geräuchert",2.605155921073807,2006,Gesamt
+"5113.04: Fische und Meeresfrüchte, zubereitet und tiefgekühlt",1.7762069635821112,2006,Gesamt
+5113.05: Fisch- und andere Konserven auf Basis von Fisch oder Meeresfrüchten,2.0990434304177876,2006,Gesamt
+"5114: Milch, Käse und Eier",96.63677439597306,2006,Gesamt
+5114.01: Vollmilch,10.188279780052923,2006,Gesamt
+5114.02: Milchdrink und Magermilch,6.412217694814531,2006,Gesamt
+5114.03: Hart- und Halbhartkäse,26.328660550886212,2006,Gesamt
+"5114.04: Weich-, Frisch- und Schmelzkäse",17.117841204012294,2006,Gesamt
+5114.05: Rahm,7.34238037100422,2006,Gesamt
+5114.06: Quark,2.0229266169581894,2006,Gesamt
+5114.07: Joghurt,12.587972523472532,2006,Gesamt
+5114.08: Andere Milchprodukte und Milch-Ersatzgetränke,5.898042375019915,2006,Gesamt
+5114.09: Frische Eier,8.19087383030522,2006,Gesamt
+5114.10: Verarbeitete Eier,0.5475794494470286,2006,Gesamt
+5115: Speisefette und -öle,15.639805628862419,2006,Gesamt
+5115.01: Butter,7.247887808702206,2006,Gesamt
+5115.02: Margarine,1.3545710810846943,2006,Gesamt
+5115.03: Andere Pflanzenfette,0.5229071393505397,2006,Gesamt
+5115.04: Olivenöl,4.061999270677932,2006,Gesamt
+5115.05: Andere pflanzliche Speiseöle und tierische Speisefette,2.452440329047045,2006,Gesamt
+5116: Früchte,53.37380023171994,2006,Gesamt
+5116.01: Zitronen,0.9771894801623501,2006,Gesamt
+5116.02: Orangen und übrige Zitrusfrüchte,5.372030911895882,2006,Gesamt
+5116.03: Bananen,4.71706059670949,2006,Gesamt
+5116.04: Äpfel,8.734750858786033,2006,Gesamt
+5116.05: Birnen und Quitten,1.820766411515256,2006,Gesamt
+5116.06: Steinobst,8.119986087345838,2006,Gesamt
+5116.07: Beeren,4.812248145574657,2006,Gesamt
+5116.08: Trauben,3.2841765329569275,2006,Gesamt
+5116.09: Melonen und Wassermelonen,2.2094719385835875,2006,Gesamt
+5116.10: Übrige exotische Früchte,4.26256052236658,2006,Gesamt
+"5116.11: Nüsse, andere Schalenfrüchte und ölhaltige Früchte",4.841457048577392,2006,Gesamt
+5116.12: Anderes Dörrobst,2.401122367997707,2006,Gesamt
+5116.13: Fruchtkonserven,1.8209793292482181,2006,Gesamt
+5117: Gemüse,71.75309045358796,2006,Gesamt
+5117.01: Grüne Salate und anderes Blattgemüse,15.151453781989744,2006,Gesamt
+"5117.02: Stengelgemüse (Lauch, Fenchel, Sojabohnensprossen, usw.)",2.6685987938252267,2006,Gesamt
+5117.03: Küchenkräuter,1.6951425704737308,2006,Gesamt
+5117.04: Kohlgemüse,3.525752087217479,2006,Gesamt
+5117.05: Tomaten,6.791101996446971,2006,Gesamt
+5117.06: Bohnen und Erbsen,2.247469006884124,2006,Gesamt
+"5117.07: Anderes Fruchtgemüse (Kürbis, Peperoni, usw.)",6.994433303117013,2006,Gesamt
+5117.08: Zwiebeln,1.9160921217106393,2006,Gesamt
+5117.09: Knoblauch,0.5542604721910479,2006,Gesamt
+5117.10: Rüben und anderes Wurzelgemüse,8.433911886711048,2006,Gesamt
+5117.11: Frische Pilze,1.834484375732658,2006,Gesamt
+"5117.12: Pilze und Gemüse, getrocknet oder gedörrt",1.042070387836497,2006,Gesamt
+5117.13: Gemüse und Pilze in Konserven oder anders verarbeitet,6.268615341880277,2006,Gesamt
+5117.14: Kartoffeln,5.7726102705926925,2006,Gesamt
+5117.15: Kartoffelhaltige Produkte und anderes Knollengemüse,6.857094056978827,2006,Gesamt
+"5118: Zucker, Konfitüren, Honig, Schokolade und Süsswaren",38.76941290304641,2006,Gesamt
+5118.01: Zucker,2.2140344198429953,2006,Gesamt
+"5118.02: Konfitüren, Marmeladen, Kompott",3.7703694352546733,2006,Gesamt
+5118.03: Honig,2.230371155001319,2006,Gesamt
+5118.04: Schokolade,18.245164998883364,2006,Gesamt
+5118.05: Süsswaren,5.542186481213914,2006,Gesamt
+5118.06: Speiseeis,6.099359537544611,2006,Gesamt
+5118.07: Andere zucker- und/oder kakaohaltige Produkte,0.6679268753055083,2006,Gesamt
+"5119: Saucen, Salz, Gewürze, Suppen und sonstige Nahrungsmittel",42.564361086592264,2006,Gesamt
+"5119.01: Saucen, Würzstoffe und Würze",11.583146707706224,2006,Gesamt
+5119.02: Salz und Gewürze,2.417143793738607,2006,Gesamt
+5119.03: Suppen und Bouillons,3.381515228614093,2006,Gesamt
+"5119.04: Aromaessenzen, Backpulver und Presshefe",0.6701341027210246,2006,Gesamt
+5119.05: Küchenfertige Mahlzeiten,13.779133180980649,2006,Gesamt
+5119.06: Vegetarische Sojaprodukte,0.6370507088481038,2006,Gesamt
+5119.07: Sonstige Nahrungsmittel,8.051341697981822,2006,Gesamt
+5119.08: Babynahrung,2.0448956660017523,2006,Gesamt
+512: Alkoholfreie Getränke,53.03875980537952,2006,Gesamt
+"5121: Kaffee, Tee und Kakao",19.343894046167396,2006,Gesamt
+5121.01: Bohnenkaffee und gemahlener Kaffee,11.925856179217703,2006,Gesamt
+5121.02: Löslicher Pulverkaffee und Kaffeesurrogate,2.2474312101242933,2006,Gesamt
+"5121.03: Tee, Kräutertee und Surrogate",3.6399708795053445,2006,Gesamt
+5121.04: Kakaohaltige Getränke,1.530635777320053,2006,Gesamt
+"5122: Mineralwasser, Limonaden und Säfte",33.694865759212135,2006,Gesamt
+5122.01: Mineralwasser,10.625570741923092,2006,Gesamt
+5122.02: Alkoholfreie Süssgetränke,12.268261878832353,2006,Gesamt
+5122.03: Sirupe für Getränke,1.5570262752408006,2006,Gesamt
+5122.04: Fruchtsäfte,8.932063470071833,2006,Gesamt
+5122.05: Gemüsesäfte,0.3119433931440612,2006,Gesamt
+52: Alkoholische Getränke und Tabakwaren,103.39898054012046,2006,Gesamt
+521: Alkoholische Getränke,66.85356112194782,2006,Gesamt
+5211: Branntweine,6.090638145791725,2006,Gesamt
+5211.01: Branntweine,4.457228010285295,2006,Gesamt
+5211.02: Alkoholische und alkoholfreie Liköre und likörhaltige Aperitifs,1.6334101355064319,2006,Gesamt
+5212: Weine,53.027699353908446,2006,Gesamt
+5212.01: Schweizer Rotweine und Rosés,10.701394776548495,2006,Gesamt
+5212.02: Ausländische Rotweine und Rosés,20.577930704460023,2006,Gesamt
+5212.03: Rotweine und Rosés ohne Herkunftsangabe,3.2236954482562563,2006,Gesamt
+5212.04: Schweizer Weissweine,7.624386536533117,2006,Gesamt
+5212.05: Ausländische Weissweine,3.548026125079122,2006,Gesamt
+5212.06: Weissweine ohne Herkunftsangabe,0.856290581413602,2006,Gesamt
+5212.07: Schaumweine,4.16272041287967,2006,Gesamt
+"5212.08: Auf Wein basierte Aperitifs, Apfelweine und Süssweine",1.57756827185719,2006,Gesamt
+"5212.09: Alkoholfreie Weine, Apfelweine und Aperitifs",0.7556864968809703,2006,Gesamt
+5213: Bier,7.735223622247658,2006,Gesamt
+5213.00: Alkoholhaltiges und alkoholfreies Bier,7.735223622247658,2006,Gesamt
+522: Tabakwaren,36.54541941817263,2006,Gesamt
+5220: Tabakwaren,36.54541941817263,2006,Gesamt
+5220.01: Zigaretten,34.79282878240649,2006,Gesamt
+"5220.02: Zigarren, Zigarillos und andere Tabakwaren (inkl. Drogen)",1.7525906357661396,2006,Gesamt
+53: Gast- und Beherbergungsstätten,510.34675588632484,2006,Gesamt
+531: Gaststätten,454.90008668777597,2006,Gesamt
+"5311: Restaurants, Cafés und Bars",360.6393125870742,2006,Gesamt
+"5311.01: Mahlzeiten in Restaurants, Cafés und Bars",226.0647105531833,2006,Gesamt
+"5311.02: Alkoholfreie Getränke in Restaurants, Cafés und Bars",69.9414389190955,2006,Gesamt
+"5311.03: Alkoholische Getränke in Restaurants, Cafés und Bars",64.63316311479548,2006,Gesamt
+5312: Selbstbedienungsrestaurants und Take-aways,54.143085078771556,2006,Gesamt
+5312.01: Mahlzeiten in Selbstbedienungsrestaurants und Take-aways,37.62121111582371,2006,Gesamt
+5312.02: Alkoholfreie Getränke in Selbstbedienungsrestaurants und Take-aways,13.043303072530367,2006,Gesamt
+5312.03: Alkoholische Getränke in Selbstbedienungsrestaurants und Take-aways,3.478570890417491,2006,Gesamt
+5313: Kantinen,40.11768902193021,2006,Gesamt
+5313.01: Mahlzeiten in Kantinen,32.018055997956786,2006,Gesamt
+5313.02: Alkoholfreie Getränke in Kantinen,7.5031455763844175,2006,Gesamt
+5313.03: Alkoholische Getränke in Kantinen,0.5964874475890016,2006,Gesamt
+532: Beherbergungsstätten,55.44666919854887,2006,Gesamt
+5320: Beherbergungsstätten,55.44666919854887,2006,Gesamt
+"5320.01: Hotels, Pensionen und Privatzimmer",42.797352504993505,2006,Gesamt
+"5320.02: Ferienwohnungen, Campingplätze und sonstige Übernachtungen",12.649316693555365,2006,Gesamt
+56: Bekleidung und Schuhe,225.0177608699308,2006,Gesamt
+561: Bekleidung,183.31579359453784,2006,Gesamt
+5611: Kleiderstoffe,1.0881585967589809,2006,Gesamt
+5611.00: Kleiderstoffe,1.0881585967589809,2006,Gesamt
+5612: Herrenbekleidung,58.04245382565691,2006,Gesamt
+"5612.01: Herrenmäntel, -jacken und -anzüge",17.49025009044687,2006,Gesamt
+5612.02: Hosen für Herren,13.37670278151134,2006,Gesamt
+5612.03: Hemden für Herren,6.219790979012806,2006,Gesamt
+5612.04: Pullover und T-shirts für Herren,9.380481184888174,2006,Gesamt
+5612.05: Unterwäsche und übrige Herrenbekleidung,6.288561671726952,2006,Gesamt
+5612.06: Sport- und Arbeitskleider für Herren,5.28666711807078,2006,Gesamt
+5613: Damenbekleidung,91.16786404593941,2006,Gesamt
+"5613.01: Mäntel, Jacken und Anzüge für Damen",20.60007454378602,2006,Gesamt
+5613.02: Röcke für Damen,8.07061837837208,2006,Gesamt
+5613.03: Hosen für Damen,16.748318576011254,2006,Gesamt
+5613.04: Blusen für Damen,5.991552207610115,2006,Gesamt
+5613.05: Pullover und T-shirts für Damen,21.001097305553653,2006,Gesamt
+5613.06: Unterwäsche und übrige Damenbekleidung,13.064198686780385,2006,Gesamt
+5613.07: Sport- und Arbeitskleider für Damen,5.69200434782591,2006,Gesamt
+5614: Kinderbekleidung (0 bis 13 Jahre),18.425336643212503,2006,Gesamt
+"5614.01: Mäntel, Jacken und Anzüge für Kinder ab 3 Jahren",2.8544032536889885,2006,Gesamt
+5614.02: Hosen für Kinder ab 3 Jahren,3.7103403657095138,2006,Gesamt
+"5614.03: Blusen, Pullover und T-Shirts für Kinder ab 3 Jahren",4.229920433232144,2006,Gesamt
+5614.04: Unterwäsche und übrige Kleider für Kinder ab 3 Jahren,2.5587551564445103,2006,Gesamt
+5614.05: Sportkleider für Kinder ab 3 Jahren,1.6492710304270197,2006,Gesamt
+5614.06: Kleider für Kleinkinder bis 2 Jahre,3.42264640371033,2006,Gesamt
+"5615: Bekleidungszubehör, Näh- und Strickwaren",10.011358417833858,2006,Gesamt
+5615.01: Bekleidungszubehör,7.637552292715387,2006,Gesamt
+5615.02: Näh- und Strickwaren,2.373806125118468,2006,Gesamt
+"5616: Reinigung, Reparaturen und Miete von Bekleidung",4.580622065136117,2006,Gesamt
+"5616.00: Reinigung, Reparaturen und Miete von Bekleidung",4.580622065136117,2006,Gesamt
+562: Schuhe,41.70196727539292,2006,Gesamt
+5621: Herrenschuhe,12.737824856306412,2006,Gesamt
+5621.00: Herrenschuhe,12.737824856306412,2006,Gesamt
+5622: Damenschuhe,21.21186538736164,2006,Gesamt
+5622.00: Damenschuhe,21.21186538736164,2006,Gesamt
+5623: Kinder- und Bébéschuhe,6.309092672425021,2006,Gesamt
+5623.00: Kinder- und Bébéschuhe,6.309092672425021,2006,Gesamt
+5624: Reparaturen und Miete von Schuhen,1.4431843592998477,2006,Gesamt
+"5624.00: Reparaturen und Miete von Schuhen, Zubehör für Schuhe",1.4431843592998477,2006,Gesamt
+57: Wohnen und Energie,1369.7932332163327,2006,Gesamt
+"571: Miete, Hypothekarzinsen, Nebenkosten und Energie des Hauptwohnsitzes",1283.1299598543076,2006,Gesamt
+5711: Nettomiete oder Hypothekarzinsen des Hauptwohnsitzes,991.9182686078216,2006,Gesamt
+5711.00: Nettomiete oder Hypothekarzinsen des Hauptwohnsitzes,991.9182686078216,2006,Gesamt
+5712: Nebenkosten des Hauptwohnsitzes,168.84519961011927,2006,Gesamt
+5712.01: Nebenkosten pauschal des Hauptwohnsitzes,127.74342900411493,2006,Gesamt
+5712.02: Kehrichtabfuhrgebühren des Hauptwohnsitzes,8.253718670369338,2006,Gesamt
+5712.03: Abwassergebühren des Hauptwohnsitzes,2.853808391835825,2006,Gesamt
+5712.04: Wasserzins des Hauptwohnsitzes,3.953123338454082,2006,Gesamt
+5712.05: Laufende Unterhaltskosten des Hauptwohnsitzes,26.041120205344985,2006,Gesamt
+5713: Energie des Hauptwohnsitzes,122.36649163636585,2006,Gesamt
+5713.01: Elektrizität des Hauptwohnsitzes,68.31495584313649,2006,Gesamt
+5713.02: Gas und andere Brennstoffe des Hauptwohnsitzes,28.282312088635614,2006,Gesamt
+5713.03: Zentralheizung oder Fernwärme des Hauptwohnsitzes,25.769223704593838,2006,Gesamt
+"572: Miete, Hypothekarzinsen, Nebenkosten und Energie der Nebenwohnsitze",29.1704375135802,2006,Gesamt
+5721: Nettomiete und Hypothekarzinsen der Nebenwohnsitze,17.641192064676112,2006,Gesamt
+5721.00: Nettomiete und Hypothekarzinsen der Nebenwohnsitze,17.641192064676112,2006,Gesamt
+5722: Nebenkosten der Nebenwohnsitze,7.044239230017586,2006,Gesamt
+5722.00: Nebenkosten der Nebenwohnsitze,7.044239230017586,2006,Gesamt
+5723: Energie (Nebenwohnsitze),4.485006218886501,2006,Gesamt
+5723.00: Energie der Nebenwohnsitze,4.485006218886501,2006,Gesamt
+573: Reparaturen und Unterhalt der Wohnung,57.49283584844557,2006,Gesamt
+5730: Reparaturen und Unterhalt der Wohnung,57.49283584844557,2006,Gesamt
+5730.01: Baumaterial für selbst durchgeführte Reparaturen,11.104794805691373,2006,Gesamt
+5730.02: Reparaturen durch Dritte,46.388041042754196,2006,Gesamt
+58: Wohnungseinrichtung und laufende Haushaltsführung,269.2845265269214,2006,Gesamt
+"581: Möbel, Dekoration und Bodenbeläge, inkl. Reparaturen",100.89742496971165,2006,Gesamt
+"5810: Möbel, Dekoration und Bodenbeläge, inkl. Reparaturen",100.89742496971165,2006,Gesamt
+5810.01: Möbel für Wohnzimmer oder Büro,34.3853560753704,2006,Gesamt
+5810.02: Möbel für Schlafzimmer oder Kinderzimmer,22.923512235354014,2006,Gesamt
+"5810.03: Möbel für Küche, Badzimmer, Garten und andere Räume",17.090234936925423,2006,Gesamt
+5810.04: Einrichtungszubehör und Kunstwerke,21.39014623756285,2006,Gesamt
+5810.05: Teppiche und andere Bodenbeläge,5.108175484498981,2006,Gesamt
+582: Haushaltswäsche und Heimtextilien,26.35367644703381,2006,Gesamt
+5820: Haushaltswäsche und Heimtextilien,26.35367644703381,2006,Gesamt
+"5820.01: Matratzen, Duvets und Kissen",12.41695077733456,2006,Gesamt
+"5820.02: Decken, Bettwäsche, andere Haushaltswäsche und -textilien",9.199203617275709,2006,Gesamt
+"5820.03: Wandbehänge, Vorhänge, Möbelbezugsstoffe und Zubehör",4.737522052423533,2006,Gesamt
+583: Haushalts- und Küchengeräte,57.353673479848545,2006,Gesamt
+5831: Haushaltgeräte,37.35475006811788,2006,Gesamt
+"5831.01: Kühlschränke, Geschirrspülmaschinen, Waschmaschinen und Wäschetrockner",15.238949500500667,2006,Gesamt
+"5831.02: Kochherde, Grills, Heiz- und Raumpflegegeräte",10.187230646927432,2006,Gesamt
+5831.03: Kleine elektrische Haushaltsgeräte,9.574678194709902,2006,Gesamt
+5831.04: Reparaturen von Haushaltsgeräten,2.353891725979884,2006,Gesamt
+5832: Küchen- und Kochgeräte,19.998923411730676,2006,Gesamt
+"5832.01: Glaswaren, Geschirr",6.13400056150127,2006,Gesamt
+5832.02: Besteck,1.106742265518124,2006,Gesamt
+5832.03: Küchen- und Kochgeräte,8.347965363155367,2006,Gesamt
+5832.04: Anderes Zubehör für die Haushaltsführung,4.410215221555912,2006,Gesamt
+584: Werkzeuge für Haus und Garten,31.617251631759615,2006,Gesamt
+5841: Werkzeuge und Zubehör ohne Motor für Haus und Garten,26.041877324474786,2006,Gesamt
+5841.01: Kleinmaterial und Zubehör für den Unterhalt von Haus und Garten,20.982550601454115,2006,Gesamt
+5841.02: Werkzeuge ohne Motor für Haus und Garten,5.059326723020675,2006,Gesamt
+5842: Maschinen mit Motor für Haus und Garten,5.575374307284835,2006,Gesamt
+5842.00: Maschinen mit Motor für Haus und Garten,5.575374307284835,2006,Gesamt
+585: Laufende Haushaltsführung,53.06249999856778,2006,Gesamt
+5851: Nicht dauerhafte Haushaltsartikel,31.083525410714042,2006,Gesamt
+5851.01: Wasch- und Reinigungsmittel,17.83996138114595,2006,Gesamt
+5851.02: Reinigungsmaterial,0.9869838321860986,2006,Gesamt
+"5851.03: Abfallsäcke ohne Gebühren, aus Plastik oder Papier",0.4556273209586807,2006,Gesamt
+5851.04: Sonstige nicht dauerhafte Haushaltsartikel,11.800952876423318,2006,Gesamt
+5852: Häusliche Dienste,21.978974587853735,2006,Gesamt
+5852.00: Häusliche Dienste,21.978974587853735,2006,Gesamt
+61: Gesundheitsausgaben [7],266.17127437258074,2006,Gesamt
+"611: Pharmazeutische Produkte, Sanitätsmaterial und medizinische Geräte",61.93575230056275,2006,Gesamt
+"6110: Pharmazeutische Produkte, Sanitätsmaterial und medizinische Geräte",61.93575230056275,2006,Gesamt
+6110.01: Medikamente,29.549176550276265,2006,Gesamt
+6110.02: Brillen und Kontaktlinsen,25.62489672862925,2006,Gesamt
+"6110.03: Sanitätsmaterial, therapeutische Geräte und Material",6.761679021657224,2006,Gesamt
+612: Arztleistungen und Dienstleistungen der Spitäler,204.23552207201797,2006,Gesamt
+6120: Arztleistungen und Dienstleistungen der Spitäler,204.23552207201797,2006,Gesamt
+6120.01: Arztleistungen,74.92911805823822,2006,Gesamt
+6120.02: Zahnarztleistungen,74.25648251741588,2006,Gesamt
+6120.03: Medizinische Labors und Röntgeninstitute,6.200089658829549,2006,Gesamt
+6120.04: Dienstleistungen der Spitäler,24.37796509106264,2006,Gesamt
+6120.05: Andere ambulante medizinische Dienstleistungen,24.471866746471733,2006,Gesamt
+62: Verkehr,708.3132998572956,2006,Gesamt
+621: Kauf und Betrieb von Personenfahrzeugen,586.6050739635041,2006,Gesamt
+6211: Autos,182.09570359445027,2006,Gesamt
+6211.01: Neue Autos,115.35365326162974,2006,Gesamt
+6211.02: Occasionsautos,66.74205033282053,2006,Gesamt
+"6212: Motorräder, Motorroller und Mopeds",8.67194311857081,2006,Gesamt
+"6212.00: Motorräder, Motorroller und Mopeds",8.67194311857081,2006,Gesamt
+6213: Fahrräder,9.93857054683677,2006,Gesamt
+6213.00: Fahrräder,9.93857054683677,2006,Gesamt
+6214: Zubehör und Ersatzteile für Fahrzeuge,20.46407993513379,2006,Gesamt
+6214.01: Zubehör und Ersatzteile für motorisierte Fahrzeuge,18.123018520739116,2006,Gesamt
+6214.02: Zubehör und Ersatzteile für nicht-motorisierte Fahrzeuge,2.3410614143946784,2006,Gesamt
+6215: Treibstoffe und Schmiermittel,156.73787182949428,2006,Gesamt
+6215.01: Benzin,135.77618515778008,2006,Gesamt
+6215.02: Diesel,19.760595597746867,2006,Gesamt
+6215.03: Schmiermittel und andere Pflegemittel für Fahrzeuge,1.201091073967363,2006,Gesamt
+6216: Service und Reparaturen an Fahrzeugen,71.86416752303964,2006,Gesamt
+6216.00: Service und Reparaturen an Fahrzeugen,71.86416752303964,2006,Gesamt
+6217: Übrige Dienstleistungen im Bereich Personenfahrzeuge,136.8327374159786,2006,Gesamt
+6217.01: Miete von Garagen und Einstellplätzen,25.672762583469993,2006,Gesamt
+6217.02: Parkieren,9.311903761513983,2006,Gesamt
+6217.03: Leasing von Fahrzeugen,74.01377290004457,2006,Gesamt
+6217.04: Autobahnvignetten Schweiz,3.378019257631822,2006,Gesamt
+6217.05: Übrige Dienstleistungen (Fahrzeugmiete usw.),24.456278913318176,2006,Gesamt
+622: Verkehrsdienstleistungen,121.7082258937916,2006,Gesamt
+6221: Beförderung von Personen auf Schienen,30.34586580316918,2006,Gesamt
+"6221.01: Zug, Billette oder Streckenabonnemente",27.187168869454254,2006,Gesamt
+"6221.02: Tram, Billette oder Streckenabonnemente",3.158696933714909,2006,Gesamt
+6222: Beförderung von Personen auf Strassen,10.210790879782438,2006,Gesamt
+"6222.01: Bus, Billette oder Streckenabonnemente",6.3868136755305,2006,Gesamt
+6222.02: Taxifahrten,3.8239772042519364,2006,Gesamt
+6223: Beförderung von Personen mit Flugzeugen,32.78103581179516,2006,Gesamt
+"6223.00: Flugzeug, Billette",32.78103581179516,2006,Gesamt
+6224: Beförderung von Personen auf Wasserwegen,2.7428650612945775,2006,Gesamt
+"6224.00: Schiff, Billette oder Streckenabonnemente",2.7428650612945775,2006,Gesamt
+6225: Kombinierte Transportmittel,43.35575210994605,2006,Gesamt
+6225.01: Generalabonnemente und Tageskarten SBB,25.80543243331439,2006,Gesamt
+6225.02: Halbtaxabonnemente SBB,6.218960295547003,2006,Gesamt
+6225.03: Billette für regionalen oder städtischen Verkehrsverbund,2.9184831954253476,2006,Gesamt
+6225.04: Abonnemente für regionalen oder städtischen Verkehrsverbund,8.412876185659313,2006,Gesamt
+6226: Weitere Verkehrsdienstleistungen,2.2719162278042,2006,Gesamt
+6226.00: Andere Personen- oder Warentransporte ohne Skilifte,2.2719162278042,2006,Gesamt
+63: Nachrichtenübermittlung,172.65811082293217,2006,Gesamt
+631: Posttaxen,5.761425610242516,2006,Gesamt
+6310: Posttaxen,5.761425610242516,2006,Gesamt
+6310.00: Posttaxen,5.761425610242516,2006,Gesamt
+632: Apparate und Dienstleistungen für Telekommunikation,166.8966852126897,2006,Gesamt
+6321: Kauf und Miete von Telefonapparaten und Faxgeräten,6.300338412579226,2006,Gesamt
+6321.00: Kauf und Miete von Telefonapparaten und Faxgeräten,6.300338412579226,2006,Gesamt
+6322: Festnetztelefonie [2],71.96129764447284,2006,Gesamt
+6322.01: Festnetz: Abonnementsgebüren oder Pauschalgebühren [3],26.89514135570487,2006,Gesamt
+6322.02: Festnetz: Gesprächsgebühren,37.2135617603937,2006,Gesamt
+6322.03: Festnetz: Gebühren fürs Internet [4],2.5249103880859964,2006,Gesamt
+6322.04: Festnetz: Pauschalbetrag für Abonnement und Gesprächsgebühren [3],5.327684140288283,2006,Gesamt
+6323: Mobiltelefonie,63.66670003226216,2006,Gesamt
+6323.01: Mobiltelefonie: Abonnementsgebüren oder Pauschalgebühren [3],17.366897198207248,2006,Gesamt
+6323.02: Mobiltelefonie: Gesprächs- und Internetgebühren,40.15651006884869,2006,Gesamt
+6323.03: Mobiltelefonie: Pauschalbetrag für Abonnement und Gesprächsgebühren [3],6.143292765206253,2006,Gesamt
+6324: Dienstleistungen von Internetprovidern ohne Telefonabonnement [2],24.968349123375358,2006,Gesamt
+6324.01: Internetprovider ohne Telefonabonnement: Dienstleistungen durch TV-Kabelnetz [2],5.39528708976837,2006,Gesamt
+6324.02: Internetprovider ohne Telefonabonnement: Andere Dienstleistungen [2],19.573062033606984,2006,Gesamt
+"66: Unterhaltung, Erholung und Kultur",627.6168223006284,2006,Gesamt
+"661: Audiovisuelle-, Foto- und EDV-Ausrüstung und Zubehör",92.4959747090218,2006,Gesamt
+"6611: Radios, Audio-, Fernseh- und Videogeräte",30.66072579961731,2006,Gesamt
+"6611.00: Radios, Audio-, Fernseh- und Videogeräte",30.66072579961731,2006,Gesamt
+"6612: Foto- und Filmausrüstungen, optische Instrumente",9.811594588004485,2006,Gesamt
+"6612.00: Foto- und Filmausrüstungen, optische Instrumente",9.811594588004485,2006,Gesamt
+"6613: Computer, Büromaschinen und andere Peripheriegeräte",36.68859666948153,2006,Gesamt
+6613.01: Computer,23.84378765648323,2006,Gesamt
+"6613.02: Drucker, elektronische Agenden und anderes Informatikzubehör",12.844809012998304,2006,Gesamt
+"6614: Tonträger, Datenträger, Videokassetten und Filme",15.335057651918484,2006,Gesamt
+"6614.01: Musiktonträger, unbespielt oder bespielt",6.7036055295897645,2006,Gesamt
+"6614.02: DVD und VHS, unbespielt oder bespielt",5.0023193694169334,2006,Gesamt
+"6614.03: Multimediadatenträger, unbespielt oder bespielt",3.6291327529117843,2006,Gesamt
+662: Weitere Ausstattung und Artikel für Unterhaltungszwecke,123.45214337635038,2006,Gesamt
+6621: Dauerhafte Güter für Freizeit und Sport,19.459272602327975,2006,Gesamt
+6621.00: Dauerhafte Güter für Freizeit und Sport,19.459272602327975,2006,Gesamt
+"6622: Spielzeug, Gesellschaftsspiele und Zeitvertreib",24.045176203869286,2006,Gesamt
+6622.01: Spielzeuge,9.887118908165514,2006,Gesamt
+6622.02: Gesellschaftsspiele,1.404174821656707,2006,Gesamt
+6622.03: Elektronische oder elektrische Spiele,4.536429618959518,2006,Gesamt
+6622.04: Sammlungen und sonstige Waren für Unterhaltungszwecke,8.217452855087544,2006,Gesamt
+6623: Sport- und Campingartikel sowie Zubehör,19.988979524105495,2006,Gesamt
+6623.01: Wintersportartikel,8.969476870872553,2006,Gesamt
+6623.02: Andere Sportartikel,9.836574238616214,2006,Gesamt
+6623.03: Camping- und nichtsportliche Freizeitartikel,1.182928414616731,2006,Gesamt
+6624: Pflanzen und nicht dauerhafte Güter für die Gartenpflege,32.46513263131219,2006,Gesamt
+6624.00: Pflanzen und nicht dauerhafte Güter für die Gartenpflege,32.46513263131219,2006,Gesamt
+6625: Haustiere und Produkte für deren Haltung,27.493582414735386,2006,Gesamt
+6625.01: Haustiere und Produkte für deren Haltung,17.764215661746448,2006,Gesamt
+6625.02: Tierarztleistungen und übrige Dienstleistungen für Haustiere,9.729366752988934,2006,Gesamt
+"663: Dienstleistungen für Sport, Erholung und Kultur",175.0221678962994,2006,Gesamt
+6631: Dienstleistungen für Sport und Erholung,85.02330470935189,2006,Gesamt
+6631.01: Eintritte für Sportveranstaltungen,3.7082421552023717,2006,Gesamt
+"6631.02: Dienstleistungen von Sport- und Freizeitanlagen, ohne Skilifte",26.660578843367233,2006,Gesamt
+"6631.03: Billette und Abonnemente für Seilbahnen, inklusiv Skilifte",10.47194834350855,2006,Gesamt
+6631.04: Miete von Sport- und Freizeitartikeln,3.2221099462012983,2006,Gesamt
+6631.05: Sport- und Bastelkurse,8.722352922555846,2006,Gesamt
+6631.06: Musik- und Tanzkurse,11.461748834487873,2006,Gesamt
+6631.07: Beiträge an Sportclubs oder -vereine,6.277053374520436,2006,Gesamt
+6631.08: Beiträge an Freizeitvereine,1.5712219592214525,2006,Gesamt
+6631.09: Andere Kurse im Freizeitbereich,12.928048330286842,2006,Gesamt
+6632: Kulturelle Dienstleistungen,79.45006702283028,2006,Gesamt
+6632.01: Theater und Konzerte,16.235809022357788,2006,Gesamt
+6632.02: Kino,5.5828802432530376,2006,Gesamt
+"6632.03: Museen, Ausstellungen, Bibliotheken, zoologische Gärten u.ä.",4.369361966003427,2006,Gesamt
+6632.04: Radio- und Fernsehkonzession,33.37080777769165,2006,Gesamt
+6632.05: Abonnemente für Privatfernsehen,2.4124086806805325,2006,Gesamt
+6632.06: Abonnemente für Kabelfernsehen [5],8.838988983637691,2006,Gesamt
+6632.07: Miete von Geräten und von DVDs und CDs,0.8714328728750068,2006,Gesamt
+6632.08: Beiträge an kulturelle Vereinigungen,2.026975976297136,2006,Gesamt
+6632.09: Sonstige Dienstleistungen im Unterhaltungs- und Kulturbereich,5.7414015000339935,2006,Gesamt
+6633: Spieleinsätze,10.548796164117242,2006,Gesamt
+6633.00: Spieleinsätze (Lotto und andere Spiele),10.548796164117242,2006,Gesamt
+"664: Bücher, Presseerzeugnisse und Papeteriewaren",71.95912580879457,2006,Gesamt
+6641: Bücher und Broschüren,21.83622022267327,2006,Gesamt
+6641.00: Bücher und Broschüren,21.83622022267327,2006,Gesamt
+6642: Zeitungen und Zeitschriften,35.544819402754555,2006,Gesamt
+"6642.01: Zeitungen und Zeitschriften, Einzelausgaben",7.901834991634273,2006,Gesamt
+"6642.02: Zeitungen und Zeitschriften, Abonnemente",27.642984411120292,2006,Gesamt
+6643: Übrige Druckerzeugnisse,14.578086183366748,2006,Gesamt
+6643.01: Übrige Druckerzeugnisse,5.83522119734256,2006,Gesamt
+6643.02: Schreib- und Zeichenmaterial,8.742864986024191,2006,Gesamt
+665: Pauschalreisen,164.6874105101621,2006,Gesamt
+6650: Pauschalreisen,164.6874105101621,2006,Gesamt
+6650.00: Pauschalreisen,164.6874105101621,2006,Gesamt
+67: Schul- und Ausbildungsgebühren,38.04023951731675,2006,Gesamt
+670: Schul- und Ausbildungsgebühren,38.04023951731675,2006,Gesamt
+6700: Schul- und Ausbildungsgebühren,38.04023951731675,2006,Gesamt
+"6700.01: Kindergarten, Primarschule, Real- und Sekundarschule (bis 9. Schuljahr)",3.925167320044423,2006,Gesamt
+"6700.02: Gymnasium, Berufsmatur, Berufs- und Wirtschaftsschulen, höhere Berufsbildung",9.267414108313066,2006,Gesamt
+"6700.03: Fachhochschule, Universität, ETH",10.156013594923746,2006,Gesamt
+6700.04: Fortbildungskurse,14.691644494035511,2006,Gesamt
+68: Andere Waren und Dienstleistungen,217.03216138293624,2006,Gesamt
+681: Körperpflege,110.08647276982303,2006,Gesamt
+6811: Apparate und Artikel für die Körperpflege,62.40014200166022,2006,Gesamt
+6811.01: Elektrische Apparate für die Körperpflege,3.307099191332685,2006,Gesamt
+6811.02: Nichtelektrische Apparate für die Körperpflege,3.9553636308005036,2006,Gesamt
+6811.03: Nichtdauerhafte Artikel aus Watte und Papier für Körperpflege,11.896215180054835,2006,Gesamt
+6811.04: Körperseife und Badezusatz,4.442609942255815,2006,Gesamt
+6811.05: Haarpflegemittel,6.603657578414022,2006,Gesamt
+6811.06: Zahnpflegemittel,3.090454293152835,2006,Gesamt
+6811.07: Sonstige Körperpflege- und Kosmetikprodukte,29.10474218564954,2006,Gesamt
+6812: Coiffeur und Körperpflege,47.686330768162804,2006,Gesamt
+6812.00: Coiffeur und Körperpflege,47.686330768162804,2006,Gesamt
+682: Persönliche Ausstattung,37.18785169424364,2006,Gesamt
+6820: Persönliche Ausstattung,37.18785169424364,2006,Gesamt
+6820.01: Schmuck und Uhren,23.39964487059358,2006,Gesamt
+"6820.02: Reise-, Leder- und Babyartikel",11.366212892795499,2006,Gesamt
+6820.03: Übrige persönliche Ausstattung,2.4219939308545713,2006,Gesamt
+"683: Soziale, finanzielle und andere Dienstleistungen",69.75783691886954,2006,Gesamt
+6831: Soziale Dienstleistungen,15.470344220675678,2006,Gesamt
+"6831.00: Krippen, Spielgruppen und andere soziale Dienstleistungen",15.470344220675678,2006,Gesamt
+6832: Finanzielle Dienstleistungen,18.18803587554254,2006,Gesamt
+6832.00: Finanzielle Dienstleistungen,18.18803587554254,2006,Gesamt
+6833: Beiträge an Organisationen und Vereine,12.921948872826688,2006,Gesamt
+"6833.01: Beiträge an politische Parteien, Vereinigungen oder Bewegungen",0.5403107764482051,2006,Gesamt
+6833.02: Beiträge an Gewerkschaften oder Berufsverbände,4.935295679522008,2006,Gesamt
+6833.03: Beiträge an religiöse Vereinigungen,3.0356357281270494,2006,Gesamt
+6833.04: Beiträge an Umweltschutzorganisationen,1.1869572188767128,2006,Gesamt
+6833.05: Beiträge an andere Vereine,3.223749469852709,2006,Gesamt
+6834: Andere Dienstleistungen sowie Verluste aus Vermietung,23.17750794982463,2006,Gesamt
+6834.00: Andere Diensteistungen sowie Verluste aus Vermietung,23.17750794982463,2006,Gesamt
+30: Obligatorische Transferausgaben,2265.1200410706824,2006,Gesamt
+31: Sozialversicherungsbeiträge,791.9554426719935,2006,Gesamt
+310: Sozialversicherungsbeiträge,791.9554426719935,2006,Gesamt
+3100: Sozialversicherungsbeiträge,791.9554426719935,2006,Gesamt
+"3100.01: AHV, IV und EO: Beiträge",344.0639879613795,2006,Gesamt
+3100.02: Arbeitslosenversicherungsbeiträge (ALV),54.46011276661875,2006,Gesamt
+3100.03: Nichtberufsunfallversicherungsbeiträge (NBU),73.89847936967249,2006,Gesamt
+3100.04: Pensionskassenbeiträge (BVG),313.40776835253155,2006,Gesamt
+3100.05: Andere Sozialversicherungsbeiträge,6.1250942217912545,2006,Gesamt
+32: Steuern,990.2515414944036,2006,Gesamt
+320: Steuern,990.2515414944036,2006,Gesamt
+3200: Steuern,990.2515414944036,2006,Gesamt
+3200.01: Quellensteuer,39.391296713893034,2006,Gesamt
+3200.02: Direkte Bundessteuer,130.88033843610532,2006,Gesamt
+3200.03: Kantonale Einkommens- und Vermögenssteuern,451.39378144012227,2006,Gesamt
+"3200.04: Kommunale, Kirchen- und andere Einkommens- und Vermögenssteuern",368.58612490428305,2006,Gesamt
+33: Krankenkassen: Prämien für die Grundversicherung,482.9130569042846,2006,Gesamt
+330: Krankenkassen: Prämien für die Grundversicherung,482.9130569042846,2006,Gesamt
+3300: Krankenkassen: Prämien für die Grundversicherung,482.9130569042846,2006,Gesamt
+3300.01: Krankenkassen: Prämien für die Grundversicherung,476.28742019455035,2006,Gesamt
+3300.02: Krankenkassen: Prämien für die Unfallversicherung (ohne Berufsunfälle),6.62563670973406,2006,Gesamt
+35: Monetäre Transferausgaben an andere Haushalte,185.0355188103276,2006,Gesamt
+36: Monetäre Transferausgaben an andere Haushalte,185.0355188103276,2006,Gesamt
+360: Monetäre Transferausgaben an andere Haushalte,185.0355188103276,2006,Gesamt
+3600: Bezahlte Alimente und Unterstützungsbeiträge,185.0355188103276,2006,Gesamt
+3600.01: Bezahlte Alimente,75.69131456526681,2006,Gesamt
+3600.02: Unterstützungsbeiträge an andere private Haushalte,102.70927203208697,2006,Gesamt
+3600.03: Regelmässige Geschenke an andere Haushalte,6.634932212973852,2006,Gesamt
+"40: Übrige Versicherungen, Gebühren und Übertragungen",528.4881914307635,2006,Gesamt
+41: Krankenkasse: Prämien für Zusatzversicherungen,124.47164738679966,2006,Gesamt
+410: Krankenkasse: Prämien für Zusatzversicherungen,124.47164738679966,2006,Gesamt
+4100: Krankenkasse: Prämien für Zusatzversicherungen,124.47164738679966,2006,Gesamt
+4100.01: Prämien für die Spitalzusatzversicherung,70.52391031817474,2006,Gesamt
+4100.02: Prämien für weitere Zusatzversicherungen,53.94773706862486,2006,Gesamt
+42: Übrige Versicherungsprämien,184.619547533863,2006,Gesamt
+420: Übrige Versicherungsprämien,184.619547533863,2006,Gesamt
+"4201: Prämien für die Haushalts-, Haftpflicht-, Brand- und andere Gebäudeversicherungen",57.14528503917133,2006,Gesamt
+4201.01: Prämien für die Hausratsversicherung (Haushaltsversicherung),17.60919160936066,2006,Gesamt
+4201.02: Prämien für die private Haftpflichtversicherung,7.030417268039449,2006,Gesamt
+4201.03: Hausrats- und Haftpflichtversicherung: kombinierte Prämie,13.164744841130979,2006,Gesamt
+4201.04: Prämien für Brand- und andere Gebäudeversicherungen,19.34093132064021,2006,Gesamt
+4202: Prämien für die Fahrzeugversicherung,112.28018711287508,2006,Gesamt
+4202.01: Versicherungsprämien für motorisierte Fahrzeuge,111.70144036299105,2006,Gesamt
+4202.02: Versicherungsprämien für nicht motorisierte Fahrzeuge,0.5787467498840866,2006,Gesamt
+4203: Prämien für andere Privatversicherungen,15.194075381816559,2006,Gesamt
+4203.01: Prämien für die Rechtsschutzversicherung,5.027842924515196,2006,Gesamt
+"4203.02: Organisationen mit Versicherungsanteil (Rega, ETI-Schutzbrief usw.): Beiträge",7.50182594806902,2006,Gesamt
+4203.03: Prämien für die Reiseversicherung,0.6380093048376861,2006,Gesamt
+4203.04: Prämien für andere Privatversicherungen,2.0263972043946503,2006,Gesamt
+43: Gebühren,62.55168134803078,2006,Gesamt
+430: Gebühren,62.55168134803078,2006,Gesamt
+4300: Gebühren,62.55168134803078,2006,Gesamt
+4300.01: Liegenschaftssteuer,8.787816340570975,2006,Gesamt
+4300.02: Fahrzeugsteuer,36.21283809597194,2006,Gesamt
+4300.03: Militärpflichtersatz,2.050808746017373,2006,Gesamt
+4300.04: Bussen,2.2180739192074626,2006,Gesamt
+4300.05: Gebühren für Dienstleistungen des Staates,6.208447495838492,2006,Gesamt
+4300.06: Andere Gebühren,7.073696750424525,2006,Gesamt
+"44: Spenden, gemachte Geschenke und Einladungen",156.84531516207005,2006,Gesamt
+441: Spenden,23.83682673018494,2006,Gesamt
+4410: Spenden,23.83682673018494,2006,Gesamt
+4410.00: Bargeldspenden an private Organisationen ohne Erwerbscharakter,23.83682673018494,2006,Gesamt
+442: Gemachte Geschenke und Einladungen,133.00848843188513,2006,Gesamt
+4421: Verschenkte Nahrungsmittel und alkoholfreie Getränke,5.985874323020714,2006,Gesamt
+4421.01: Verschenkte Schokolade und Süsswaren,1.9027971845427913,2006,Gesamt
+4421.02: Andere verschenkte Nahrungsmittel und alkoholfreie Getränke,4.083077138477923,2006,Gesamt
+4422: Verschenkte alkoholische Getränke und Tabakwaren,2.0582912155226976,2006,Gesamt
+4422.00: Verschenkte alkoholische Getränke und Tabakwaren,2.0582912155226976,2006,Gesamt
+4423: Gemachte Einladungen in Gaststätten,67.50321941446167,2006,Gesamt
+"4423.01: Gemachte Einladungen zu Mahlzeiten in Restaurants, Cafés und Bars",34.723714122489156,2006,Gesamt
+"4423.02: Gemachte Einladungen zu alkoholfreien Getränken in Restaurants, Cafés und Bars",10.658780821554481,2006,Gesamt
+"4423.03: Gemachte Einladungen zu alkoholischen Getränken in Restaurants, Cafés und Bars",13.914776216556872,2006,Gesamt
+4423.04: Gemachte Einladungen zu Mahlzeiten in Selbstbedienungsrestaurants,5.257417242635862,2006,Gesamt
+4423.05: Gemachte Einladungen zu alkoholfreien Getränken in Selbstbedienungsrestaurants,1.0324841259165656,2006,Gesamt
+4423.06: Gemachte Einladungen zu alkoholischen Getränken in Selbstbedienungsrestaurants,0.9274272083919194,2006,Gesamt
+4423.07: Gemachte Einladungen zu Mahlzeiten in Kantinen,0.5818585263909369,2006,Gesamt
+4423.08: Gemachte Einladungen zu Getränken in Kantinen,0.4067611505258652,2006,Gesamt
+4424: Verschenkte Bekleidung und Schuhe,7.304832271223918,2006,Gesamt
+4424.01: Verschenkte Kinderbekleidung,3.145083636152343,2006,Gesamt
+"4424.02: Andere verschenkte Bekleidung (Herren, Damen) und Schuhe",4.1597486350715736,2006,Gesamt
+4425: Gemachte Geschenke: Wohnungseinrichtung und laufende Haushaltsführung,6.162653558419699,2006,Gesamt
+4425.00: Gemachte Geschenke: Wohnungseinrichtung und laufende Haushaltsführung,6.162653558419699,2006,Gesamt
+4426: Gemachte Geschenke: Verkehr,6.256757095893844,2006,Gesamt
+4426.00: Gemachte Geschenke: Verkehr,6.256757095893844,2006,Gesamt
+"4427: Gemachte Geschenke: Unterhaltung, Erholung und Kultur",24.502680106681225,2006,Gesamt
+4427.01: Verschenkte Spielzeuge und Gesellschaftsspiele,4.127932742414411,2006,Gesamt
+4427.02: Verschenkte Pflanzen und nicht dauerhafte Güter für die Gartenpflege,3.5217999520427155,2006,Gesamt
+4427.03: Verschenkte Bücher und Broschüren,2.0244321769465765,2006,Gesamt
+4427.04: Verschenkte Zeitungen und Zeitschriften,0.3464374431297795,2006,Gesamt
+4427.05: Verschenkte übrige Druckerzeugnisse und Schreib- und Zeichenmaterial,1.245949281655826,2006,Gesamt
+"4427.06: Andere gemachte Geschenke: Unterhaltung, Erholung und Kultur",13.236128510491916,2006,Gesamt
+4428: Gemachte Geschenke: andere Waren und Dienstleistungen,13.234180446661313,2006,Gesamt
+4428.01: Gemachte Geschenke: Körperpflege,2.0284341456750963,2006,Gesamt
+4428.02: Gemachte Geschenke: Persönliche Ausstattung,3.0142369553961723,2006,Gesamt
+4428.03: Andere verschenkte Waren und Dienstleistungen,8.191509345590047,2006,Gesamt
+80: Prämien für die Lebensversicherung,243.74450118660343,2006,Gesamt
+81: Prämien für die Lebensversicherung,243.74450118660343,2006,Gesamt
+810: Prämien für die Lebensversicherung,243.74450118660343,2006,Gesamt
+8100: Prämien für die Lebensversicherung,243.74450118660343,2006,Gesamt
+8100.01: Prämien für die Säule 3A (gebundene Lebensversicherung),194.13770548695086,2006,Gesamt
+8100.02: Prämien für die Säule 3B (nicht gebundene Lebensversicherung),49.60679569965256,2006,Gesamt
