@@ -9,13 +9,13 @@ Dieses Projekt analysiert die Entwicklung der Haushaltsausgaben in der Schweiz �
 
 **CAS Information Engineering – Scripting**  
 **Hochschule für Angewandte Wissenschaften Zürich (ZHAW)**  
-**Gruppenname:** [Euer Gruppenname, z.B. SC02_Gruppe_XX]
+**Gruppenname:** SC02_Gruppe_09
 
 ---
 
 ## 🎯 Forschungsfragen
 
-1. Wie haben sich die durchschnittlichen monatlichen Haushaltsausgaben in der Schweiz seit 2006 verändert?
+1. Wie haben sich die durchschnittlichen monatlichen Haushaltsausgaben in der Schweiz von 2006 bis 2022 verändert?
 2. Welche Unterschiede gibt es zwischen Altersgruppen (z. B. Junge vs. Pensionierte)?
 3. Wie unterscheiden sich Familienhaushalte von Einpersonenhaushalten in ihrer Ausgabenstruktur?
 4. Welche Kategorien (z. B. Wohnen, Verkehr, Gesundheit) sind über die Jahre am stärksten gewachsen?
@@ -65,22 +65,26 @@ haushaltsausgaben-schweiz/
 
 1. **Repository klonen**
 ```bash
-   git clone https://github.com/[euer-username]/haushaltsausgaben-schweiz.git
-   cd haushaltsausgaben-schweiz
+git clone https://github.com/[euer-username]/haushaltsausgaben-schweiz.git
+cd haushaltsausgaben-schweiz
+```
 
    Virtual Environment erstellen (empfohlen)
-
-bash   python -m venv venv
-   source venv/bin/activate        # Auf macOS/Linux
-   venv\Scripts\activate           # Auf Windows
+```bash   
+python -m venv venv
+source venv/bin/activate        # Auf macOS/Linux
+venv\Scripts\activate           # Auf Windows
+```
 
 Abhängigkeiten installieren
-
-bash   pip install -r requirements.txt
+```bash   
+pip install -r requirements.txt
+```
 
 Jupyter Notebook starten
-
-bash   jupyter notebook
+```bash   
+jupyter notebook
+```
 
 📊 Technologie-Stack
 
@@ -91,15 +95,15 @@ Jupyter Notebook – Entwicklungsumgebung
 Excel – Datenquellen (BFS)
 
 
-📝 Bewertungskriterien (gemäß Modulvorgabe)
+📝 Bewertungskriterien (gemäss Modulvorgabe)
 1. Jupyter Notebooks & Code (30 Punkte)
 
-✅ Gut strukturierter, dokumentierter Code
-✅ Selbsterklärende Kommentare
+✅ Gut strukturierter, dokumentierter Code<br>
+✅ Selbsterklärende Kommentare<br>
 ✅ Saubere Pandas DataFrames
 
 2. Bericht als Jupyter Notebook (15 Punkte)
 
-✅ Klare Einleitung mit Business Case
-✅ Beschreibung der Daten & Methodik
+✅ Klare Einleitung mit Business Case<br>
+✅ Beschreibung der Daten & Methodik<br>
 ✅ Gut formatiert und verständlich
