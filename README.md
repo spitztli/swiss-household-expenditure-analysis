@@ -34,7 +34,8 @@ Alle Datensätze stammen vom **Bundesamt für Statistik (BFS)** über [opendata.
 
 ---
 
-## 📂 ProjektstrukturS
+## 📂 Projektstruktur
+```markdown
 haushaltsausgaben-schweiz/
 │
 ├── notebooks/
@@ -52,8 +53,7 @@ haushaltsausgaben-schweiz/
 │   └── tables/                            # Exportierte Statistiken
 │
 └── src/                                   # Python-Module (optional)
-
----
+```
 
 ## 🛠️ Setup & Installation
 
