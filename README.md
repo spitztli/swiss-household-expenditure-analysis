@@ -65,7 +65,7 @@ haushaltsausgaben-schweiz/
 
 1. **Repository klonen**
 ```bash
-git clone https://github.com/[euer-username]/haushaltsausgaben-schweiz.git
+git clone https://github.com/spitztli/swiss-household-expenditure-analysis.git
 cd haushaltsausgaben-schweiz
 ```
 
