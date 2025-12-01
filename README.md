@@ -7,9 +7,21 @@
 
 Dieses Projekt analysiert die Entwicklung der Haushaltsausgaben in der Schweiz über einen Zeitraum von 16 Jahren (2006-2022). Ziel ist es, datenbasierte Einsichten für Politik, Konsumentenforschung und Wirtschaftsplanung zu gewinnen.
 
-**CAS Information Engineering – Scripting**  
-**Hochschule für Angewandte Wissenschaften Zürich (ZHAW)**  
+**Hochschule für Angewandte Wissenschaften Zürich (ZHAW)**
+**Modul:**CAS Information Engineering – Scripting
+
 **Gruppenname:** SC02_Gruppe_09
+
+**Projekt:** Analyse der Haushaltsausgaben in der Schweiz (2006-2022)
+
+**Version:** 1.0
+
+**Datum:** 14. Oktober 2025
+
+**Autoren:**
+- Tobias Dörig
+- Samuel Vonbank
+- Ismet Shala
 
 ---
 
@@ -30,7 +42,7 @@ Alle Datensätze stammen vom **Bundesamt für Statistik (BFS)** über [opendata.
 - **Datensatz 2:** Ausgaben nach Altersklassen
 - **Datensatz 3:** Ausgaben nach Haushaltstypen
 
-> **Hinweis:** Die genauen URLs befinden sich in `data/README.md`
+> **Hinweis:** Die genauen URLs befinden sich in `data/notebooks/01_datenbereitstellung.ipynb`
 
 ---
 
@@ -39,20 +51,24 @@ Alle Datensätze stammen vom **Bundesamt für Statistik (BFS)** über [opendata.
 haushaltsausgaben-schweiz/
 │
 ├── notebooks/
+│   ├── 01_datenbereitstellung.ipynb       # Automatisches Laden & Speichern der BFS-Daten
 │   ├── 01_datenladen_bereinigung.ipynb    # Daten laden & bereinigen
 │   ├── 02_datenanalyse.ipynb              # Analyse & Auswertung
 │   ├── 03_visualisierung.ipynb            # Diagramme & Heatmap
 │   └── 04_business_case.ipynb             # Business Case Bericht
 │
 ├── data/
-│   ├── raw/                               # Original Excel-Dateien
+│   ├── raw/                               # Originaldateien (BFS)
 │   └── processed/                         # Bereinigte CSV/JSON-Dateien
 │
 ├── outputs/
 │   ├── figures/                           # Visualisierungen (PNG)
 │   └── tables/                            # Exportierte Statistiken
 │
-└── src/                                   # Python-Module (optional)
+├── venv/                                  # Virtual environment für das Projekt
+├── requirements.txt                       # Liste der benötigten Abhängigkeiten
+└── README.md
+
 ```
 
 ## 🛠️ Setup & Installation
@@ -87,23 +103,24 @@ jupyter notebook
 ```
 
 📊 Technologie-Stack
-
-Python 3.x
-Pandas – Datenverarbeitung
-Matplotlib / Seaborn – Visualisierung
-Jupyter Notebook – Entwicklungsumgebung
-Excel – Datenquellen (BFS)
+```markdown
+- Python 3.x
+- Pandas – Datenverarbeitung
+- Matplotlib / Seaborn – Visualisierung
+- Jupyter Notebook – Entwicklungsumgebung 
+- Excel – Datenquellen (BFS)
+```
 
 
 📝 Bewertungskriterien (gemäss Modulvorgabe)
+```markdown
 1. Jupyter Notebooks & Code (30 Punkte)
-
-✅ Gut strukturierter, dokumentierter Code<br>
-✅ Selbsterklärende Kommentare<br>
-✅ Saubere Pandas DataFrames
+    ✅ Gut strukturierter, dokumentierter Code
+    ✅ Selbsterklärende Kommentare
+    ✅ Saubere Pandas DataFrames
 
 2. Bericht als Jupyter Notebook (15 Punkte)
-
-✅ Klare Einleitung mit Business Case<br>
-✅ Beschreibung der Daten & Methodik<br>
-✅ Gut formatiert und verständlich
+    ✅ Klare Einleitung mit Business Case
+    ✅ Beschreibung der Daten & Methodik
+    ✅ Gut formatiert und verständlich
+```
