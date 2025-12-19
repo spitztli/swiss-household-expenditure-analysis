@@ -16,7 +16,7 @@ Dieses Projekt analysiert die Entwicklung der Haushaltsausgaben in der Schweiz �
 
 **Version:** 1.0
 
-**Datum:** 14. Oktober 2025
+**Datum:** 03. November 2025
 
 **Autoren:**
 - Tobias Dörig
@@ -52,10 +52,10 @@ haushaltsausgaben-schweiz/
 │
 ├── notebooks/
 │   ├── 01_datenbereitstellung.ipynb       # Automatisches Laden & Speichern der BFS-Daten
-│   ├── 01_datenladen_bereinigung.ipynb    # Daten laden & bereinigen
-│   ├── 02_datenanalyse.ipynb              # Analyse & Auswertung
-│   ├── 03_visualisierung.ipynb            # Diagramme & Heatmap
-│   └── 04_business_case.ipynb             # Business Case Bericht
+│   ├── 02_datenladen_bereinigung.ipynb    # Daten laden & bereinigen
+│   ├── 03_datenanalyse.ipynb              # Analyse & Auswertung
+│   ├── 04_business_case.ipynb             # Business Case Bericht
+│   └── 05_visualisierung.ipynb            # Diagramme & Heatmap
 │
 ├── data/
 │   ├── raw/                               # Originaldateien (BFS)
@@ -66,7 +66,7 @@ haushaltsausgaben-schweiz/
 │   └── tables/                            # Exportierte Statistiken
 │
 ├── venv/                                  # Virtual environment für das Projekt
-├── requirements.txt                       # Liste der benötigten Abhängigkeiten
+├── requirements.txt                       # Liste der benötigten Abhängigkeiten 
 └── README.md
 
 ```
@@ -78,14 +78,7 @@ haushaltsausgaben-schweiz/
 - Jupyter Notebook / JupyterLab
 
 ### Installation
-
-1. **Repository klonen**
-```bash
-git clone https://github.com/spitztli/swiss-household-expenditure-analysis.git
-cd haushaltsausgaben-schweiz
-```
-
-   Virtual Environment erstellen (empfohlen)
+Virtual Environment erstellen (empfohlen)
 ```bash   
 python -m venv venv
 source venv/bin/activate        # Auf macOS/Linux
@@ -109,18 +102,4 @@ jupyter notebook
 - Matplotlib / Seaborn – Visualisierung
 - Jupyter Notebook – Entwicklungsumgebung 
 - Excel – Datenquellen (BFS)
-```
-
-
-📝 Bewertungskriterien (gemäss Modulvorgabe)
-```markdown
-1. Jupyter Notebooks & Code (30 Punkte)
-    ✅ Gut strukturierter, dokumentierter Code
-    ✅ Selbsterklärende Kommentare
-    ✅ Saubere Pandas DataFrames
-
-2. Bericht als Jupyter Notebook (15 Punkte)
-    ✅ Klare Einleitung mit Business Case
-    ✅ Beschreibung der Daten & Methodik
-    ✅ Gut formatiert und verständlich
 ```
